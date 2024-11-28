@@ -1,41 +1,41 @@
-Category (UM-Ann Arbor grants Bachelor's degrees; no undergraduate Diploma/Certificates or Associate degrees),Bachelor’s degrees (First majors),,CIP 2021 Categories to Include
-Agriculture,,,1
-Natural resources and conservation,119,1.5%,3
-Architecture,58,0.7%,4
-"Area, ethnic, and gender studies",81,1.0%,5
-Communication/journalism,240,2.9%,9
-Communication technologies,,,10
-Computer and information sciences,"1,142",13.9%,11
-Personal and culinary services,,,12
-Education,72,0.9%,13
-Engineering,"1,311",16.0%,14
-Engineering technologies,1,0.0%,15
-"Foreign languages, literatures, and linguistics",146,1.8%,16
-Family and consumer sciences,,,19
-Law/legal studies,,,22
-English,120,1.5%,23
-Liberal arts/general studies,66,0.8%,24
-Library science,,,25
-Biological/life sciences,757,9.2%,26
-Mathematics and statistics,243,3.0%,27
-Military science and military technologies,,,28 & 29
-Interdisciplinary studies,301,3.7%,30
-Parks and recreation,274,3.3%,31
-Philosophy and religious studies,44,0.5%,38
-Theology and religious vocations,,,39
-Physical sciences,126,1.5%,40
-Science technologies,,,41
-Psychology,631,7.7%,42
-"Homeland Security, law enforcement, firefighting, and protective services",,,43
-Public administration and social services,82,1.0%,44
-Social sciences,918,11.2%,45
-Construction trades,,,46
-Mechanic and repair technologies,,,47
-Precision production,,,48
-Transportation and materials moving,,,49
-Visual and performing arts,399,4.9%,50
-Health professions and related programs,316,3.9%,51
-Business/marketing,648,7.9%,52
-History,109,1.3%,54
-Other,,,-
-TOTAL,"8,204",100%,
+Category,Bachelor's,CIP Code
+Agriculture,,1
+Natural resources and conservation,1.5%,3
+Architecture,0.7%,4
+"Area, ethnic, and gender studies",1.0%,5
+Communication/journalism,2.9%,9
+Communication technologies,,10
+Computer and information sciences,13.9%,11
+Personal and culinary services,,12
+Education,0.9%,13
+Engineering,16.0%,14
+Engineering technologies,0.0%,15
+"Foreign languages, literatures, and linguistics",1.8%,16
+Family and consumer sciences,,19
+Law/legal studies,,22
+English,1.5%,23
+Liberal arts/general studies,0.8%,24
+Library science,,25
+Biological/life sciences,9.2%,26
+Mathematics and statistics,3.0%,27
+Military science and military technologies,,28 & 29
+Interdisciplinary studies,3.7%,30
+Parks and recreation,3.3%,31
+Philosophy and religious studies,0.5%,38
+Theology and religious vocations,,39
+Physical sciences,1.5%,40
+Science technologies,,41
+Psychology,7.7%,42
+"Homeland Security, law enforcement, firefighting, and protective services",,43
+Public administration and social services,1.0%,44
+Social sciences,11.2%,45
+Construction trades,,46
+Mechanic and repair technologies,,47
+Precision production,,48
+Transportation and materials moving,,49
+Visual and performing arts,4.9%,50
+Health professions and related programs,3.9%,51
+Business/marketing,7.9%,52
+History,1.3%,54
+Other,,-
+TOTAL,100%,

@@ -1,46 +1,42 @@
-Category,Diploma/ Certificates,Associate,Bachelor's,CIP202 Categories to Include,"Diploma/
-Certificates","CIP202
-Categories
-to
-Include"
-Agriculture,,,,01,,
-Naturalresourcesandconservation,,,,03,,
-Architecture,,,,04,,
-"Area,ethnic,andgenderstudies",,,,05,,
-Communication/journalism,,,,09,,
-Communication technologies,,,,10,,
-Computerandinformationsciences,,,38.10,11,,
-Personalandculinaryservices,,,,12,,
-Education,,,,13,,
-Engineering,,,,14,,
-Engineeringtechnologies,,,29.80,15,,
-"Foreignlanguages,literatures,andlinguistics",,,,16,,
-Familyandconsumersciences,,,,19,,
-Law/legalstudies,,,,22,,
-English,,,,23,,
-Liberalarts/generalstudies,,,,24,,
-Libraryscience,,,,25,,
-Biological/life sciences,,,5.00,26,,
-Mathematicsandstatistics,,,6.40,27,,
-Militaryscienceandmilitarytechnologies,,,,28and29,,
-Interdisciplinary studies,,,,30,,
-Parksandrecreation,,,,31,,
-Philosophyandreligiousstudies,,,,38,,
-Theologyandreligiousvocations,,,,39,,
-Physicalsciences,,,19.70,40,,
-Sciencetechnologies,,,,41,,
-Psychology,,,,42,,
+Category,Diploma/Certificates,Associate,Bachelor's,CIP Code
+Agriculture,,,,01
+Naturalresourcesandconservation,,,,03
+Architecture,,,,04
+"Area,ethnic,andgenderstudies",,,,05
+Communication/journalism,,,,09
+Communication technologies,,,,10
+Computerandinformationsciences,,,38.1,11
+Personalandculinaryservices,,,,12
+Education,,,,13
+Engineering,,,,14
+Engineeringtechnologies,,,29.8,15
+"Foreignlanguages,literatures,andlinguistics",,,,16
+Familyandconsumersciences,,,,19
+Law/legalstudies,,,,22
+English,,,,23
+Liberalarts/generalstudies,,,,24
+Libraryscience,,,,25
+Biological/life sciences,,,5.0,26
+Mathematicsandstatistics,,,6.4,27
+Militaryscienceandmilitarytechnologies,,,,28and29
+Interdisciplinary studies,,,,30
+Parksandrecreation,,,,31
+Philosophyandreligiousstudies,,,,38
+Theologyandreligiousvocations,,,,39
+Physicalsciences,,,19.7,40
+Sciencetechnologies,,,,41
+Psychology,,,,42
 "HomelandSecurity,lawenforcement,firefighting,and
-pppprotective services",,,,,,43
-Publicadministrationandsocialservices,,,,,,44
-Socialsciences,,,,,,45
-Construction trades,,,,,,46
-Mechanicandrepairtechnologies,,,,,,47
-Precisionproduction,,,,,,48
-Transportationandmaterialsmoving,,,,,,49
-Visualandperformingarts,,,,,,50
-Healthprofessionsandrelatedprograms,,,,,,51
-Business/marketing,,,0.90,,,52
-History,,,,,,54
-Other,,,,,,
-TOTAL(shouldbe=100%),,0.00,99.90,,0.00,
+pppprotective services",,,,43.0
+Publicadministrationandsocialservices,,,,44.0
+Socialsciences,,,,45.0
+Construction trades,,,,46.0
+Mechanicandrepairtechnologies,,,,47.0
+Precisionproduction,,,,48.0
+Transportationandmaterialsmoving,,,,49.0
+Visualandperformingarts,,,,50.0
+Healthprofessionsandrelatedprograms,,,,51.0
+Business/marketing,,,0.9,52.0
+History,,,,54.0
+Other,,,,
+TOTAL(shouldbe=100%),0.0,0.0,99.9,

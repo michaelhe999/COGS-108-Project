@@ -1,4 +1,4 @@
-Category,Diploma/Certificates,Associate,Bachelor's,CIP 2020 Categories to Include
+Category,Diploma/Certificates,Associate,Bachelor's,CIP Code
 Agriculture,,,0.07,1
 Natural resources and conservation,,,2.53,3
 Architecture,,,0.22,4
@@ -6,25 +6,25 @@ Architecture,,,0.22,4
 Communication/journalism,,,6.13,9
 Communication technologies,,,0.19,10
 Computer and information sciences,,,2.07,11
-Personal and culinary services,,,0.00,12
+Personal and culinary services,,,0.0,12
 Education,,,9.27,13
-Engineering,,,0.00,14
+Engineering,,,0.0,14
 Engineering technologies,,,1.34,15
 "Foreign languages, literatures, and linguistics",,,0.61,16
 Family and consumer sciences,,,1.44,19
-Law/legal studies,,,0.00,22
+Law/legal studies,,,0.0,22
 English,,,1.75,23
 Liberal arts/general studies,,,0.44,24
-Library science,,,0.00,25
+Library science,,,0.0,25
 Biological/life sciences,,,4.01,26
 Mathematics and statistics,,,0.88,27
-Military science and military technologies,,,0.00,28 and 29
+Military science and military technologies,,,0.0,28 and 29
 Interdisciplinary studies,,,0.39,30
 Parks and recreation,,,8.18,31
 Philosophy and religious studies,,,0.26,38
-Theology and religious vocations,,,0.00,39
+Theology and religious vocations,,,0.0,39
 Physical sciences,,,2.21,40
-Science technologies,,,0.00,41
+Science technologies,,,0.0,41
 Psychology,,,7.71,42
 "Homeland Security, law enforcement, firefighting,
 and protective services",,,3.48,43
@@ -36,6 +36,6 @@ Precision production,,,,48
 Transportation and materials moving,,,,49
 Visual and performing arts,,,6.16,50
 Health professions and related programs,,,8.88,51
-Business/marketing,,,22.90,52
+Business/marketing,,,22.9,52
 History,,,1.46,54
 Other,,,,
