@@ -1,43 +1,42 @@
 Category,Diploma/Certificates,Associate,Bachelor’s,CIP Code
 Agriculture,,,,1
-Natural resources and conservation,,,0.04,3
+Natural resources and conservation,,,4.0,3
 Architecture,,,,4
-"Area, ethnic, and gender studies",,,0.02,5
+"Area, ethnic, and gender studies",,,2.0,5
 Communication/journalism,,,,9
 Communication technologies,,,,10
-Computer and information sciences,,,0.046,11
+Computer and information sciences,,,4.6,11
 Personal and culinary services,,,,12
-Education,,,0.032,13
+Education,,,3.2,13
 Engineering,,,,14
 Engineering technologies,,,,15
-"Foreign languages, literatures, and linguistics",,,0.054,16
+"Foreign languages, literatures, and linguistics",,,5.4,16
 Family and consumer sciences,,,,19
 Law/legal studies,,,,22
-English,,,0.028,23
-Liberal arts/general studies,,,0.001,24
+English,,,2.8000000000000003,23
+Liberal arts/general studies,,,0.1,24
 Library science,,,,25
-Biological/life sciences,,,0.12,26
-Mathematics and statistics,,,0.026,27
+Biological/life sciences,,,12.0,26
+Mathematics and statistics,,,2.6,27
 Military science and military technologies,,,,28 & 29
-Interdisciplinary studies,,,0.049,30
+Interdisciplinary studies,,,4.9,30
 Parks and recreation,,,,31
-Philosophy and religious studies,,,0.049,38
+Philosophy and religious studies,,,4.9,38
 Theology and religious vocations,,,,39
-Physical sciences,,,0.063,40
+Physical sciences,,,6.3,40
 Science technologies,,,,41
-Psychology,,,0.064,42
+Psychology,,,6.4,42
 "Homeland Security, law enforcement, firefighting,
-and protective services",,,"43
-44",
+and protective services",,,,
 Public administration and social services,,,,44
-Social sciences,,,0.33,45
+Social sciences,,,33.0,45
 Construction trades,,,,46
 Mechanic and repair technologies,,,,47
 Precision production,,,,48
 Transportation and materials moving,,,,49
-Visual and performing arts,,,0.038,50
+Visual and performing arts,,,3.8,50
 Health professions and related programs,,,,51
 Business/marketing,,,,52
-History,,,0.04,54
+History,,,4.0,54
 Other,,,,
-TOTAL (should = 100%),0.00%,0.00%,100.00%,
+TOTAL (should = 100%),0.00%,0.00%,,
