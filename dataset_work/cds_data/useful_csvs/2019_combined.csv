@@ -1,46 +1,45 @@
 Category,Diploma/Certificates,Associate,Bachelor’s,CIP Code,college,year
 Agriculture,,,,1,colgate,2019
-Natural resources and conservation,,,0.04,3,colgate,2019
+Natural resources and conservation,,,4.0,3,colgate,2019
 Architecture,,,,4,colgate,2019
-"Area, ethnic, and gender studies",,,0.02,5,colgate,2019
+"Area, ethnic, and gender studies",,,2.0,5,colgate,2019
 Communication/journalism,,,,9,colgate,2019
 Communication technologies,,,,10,colgate,2019
-Computer and information sciences,,,0.046,11,colgate,2019
+Computer and information sciences,,,4.6,11,colgate,2019
 Personal and culinary services,,,,12,colgate,2019
-Education,,,0.032,13,colgate,2019
+Education,,,3.2,13,colgate,2019
 Engineering,,,,14,colgate,2019
 Engineering technologies,,,,15,colgate,2019
-"Foreign languages, literatures, and linguistics",,,0.054,16,colgate,2019
+"Foreign languages, literatures, and linguistics",,,5.4,16,colgate,2019
 Family and consumer sciences,,,,19,colgate,2019
 Law/legal studies,,,,22,colgate,2019
-English,,,0.028,23,colgate,2019
-Liberal arts/general studies,,,0.001,24,colgate,2019
+English,,,2.8000000000000003,23,colgate,2019
+Liberal arts/general studies,,,0.1,24,colgate,2019
 Library science,,,,25,colgate,2019
-Biological/life sciences,,,0.12,26,colgate,2019
-Mathematics and statistics,,,0.026,27,colgate,2019
+Biological/life sciences,,,12.0,26,colgate,2019
+Mathematics and statistics,,,2.6,27,colgate,2019
 Military science and military technologies,,,,28 & 29,colgate,2019
-Interdisciplinary studies,,,0.049,30,colgate,2019
+Interdisciplinary studies,,,4.9,30,colgate,2019
 Parks and recreation,,,,31,colgate,2019
-Philosophy and religious studies,,,0.049,38,colgate,2019
+Philosophy and religious studies,,,4.9,38,colgate,2019
 Theology and religious vocations,,,,39,colgate,2019
-Physical sciences,,,0.063,40,colgate,2019
+Physical sciences,,,6.3,40,colgate,2019
 Science technologies,,,,41,colgate,2019
-Psychology,,,0.064,42,colgate,2019
+Psychology,,,6.4,42,colgate,2019
 "Homeland Security, law enforcement, firefighting,
-and protective services",,,"43
-44",,colgate,2019
+and protective services",,,,,colgate,2019
 Public administration and social services,,,,44,colgate,2019
-Social sciences,,,0.33,45,colgate,2019
+Social sciences,,,33.0,45,colgate,2019
 Construction trades,,,,46,colgate,2019
 Mechanic and repair technologies,,,,47,colgate,2019
 Precision production,,,,48,colgate,2019
 Transportation and materials moving,,,,49,colgate,2019
-Visual and performing arts,,,0.038,50,colgate,2019
+Visual and performing arts,,,3.8,50,colgate,2019
 Health professions and related programs,,,,51,colgate,2019
 Business/marketing,,,,52,colgate,2019
-History,,,0.04,54,colgate,2019
+History,,,4.0,54,colgate,2019
 Other,,,,,colgate,2019
-TOTAL (should = 100%),0.00%,0.00%,100.00%,,colgate,2019
+TOTAL (should = 100%),0.00%,0.00%,,,colgate,2019
 Agriculture,,,,1,umich,2019
 Natural resources and conservation,,,1.4%,3,umich,2019
 Architecture,,,0.9%,4,umich,2019
