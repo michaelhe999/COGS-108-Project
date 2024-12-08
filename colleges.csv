@@ -1,4 +1,4 @@
-Year,College,Category,Bachelor’s
+Year,College,Category,Bachelors
 2014,asu,Computer science,1.0
 2014,asu,Education,13.8
 2014,asu,Engineering,1.9
@@ -858,15 +858,15 @@ Year,College,Category,Bachelor’s
 2023,caltech,Mathematics,10.7
 2023,caltech,Physical sciences,13.3
 2023,caltech,Business,0.4
-2023,colgate,Environmental sciences,0.0407
-2023,colgate,Social sciences,0.46630000000000005
-2023,colgate,Computer science,0.0665
-2023,colgate,Education,0.0214
-2023,colgate,Humanities,0.1564
-2023,colgate,Biological sciences,0.1308
-2023,colgate,Mathematics,0.0204
-2023,colgate,Physical sciences,0.0504
-2023,colgate,Arts,0.0472
+2023,colgate,Environmental sciences,4.07
+2023,colgate,Social sciences,46.630000000000005
+2023,colgate,Computer science,6.65
+2023,colgate,Education,2.14
+2023,colgate,Humanities,15.64
+2023,colgate,Biological sciences,13.08
+2023,colgate,Mathematics,2.04
+2023,colgate,Physical sciences,5.04
+2023,colgate,Arts,4.72
 2023,dartmouth,Computer science,9.2
 2023,dartmouth,Engineering,6.1
 2023,dartmouth,Humanities,12.2
