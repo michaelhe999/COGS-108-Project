@@ -1,4 +1,4 @@
-occupation,mapped_major
+,mapped_major
 All Occupations,Other
 Management occupations,Business/marketing
 Chief executives,Business/marketing
@@ -795,6 +795,8 @@ Tire builders,Precision production
 Locomotive firers,Transportation and materials moving
 Railroad conductors and yardmasters,Transportation and materials moving
 Slot key persons,Other
+Fallers,Natural resources and conservation
+Mine cutting and channeling machine operators,Other
 Computer and mathematical science occupations,Computer and information sciences
 "Farm, ranch, and other agricultural managers",Agriculture
 Manufactured building and mobile home installers,Construction trades
@@ -1512,15 +1514,16 @@ Farm and Home Management Advisors,Family and consumer sciences
 Radio Operators,Communication technologies
 Pile-Driver Operators,Construction trades
 "Explosives Workers, Ordnance Handling Experts, and Blasters",Engineering
+Mine Cutting and Channeling Machine Operators,Precision production
 "Extraction Workers, All Other",Natural resources and conservation
 Traffic Technicians,Transportation and materials moving
+Gas Compressor and Gas Pumping Station Operators,Engineering
 "Building Cleaning Workers, All Other",Construction trades
 Mathematical Technicians,Mathematics and statistics
 Transit and Railroad Police,"Homeland Security, law enforcement, firefighting, and protective services"
 Agricultural Equipment Operators,Agriculture
 Agricultural Engineers,Natural resources and conservation
 Logging Equipment Operators,Natural resources and conservation
-Mine Cutting and Channeling Machine Operators,Precision production
 Human Resources Specialists,Business/marketing
 Labor Relations Specialists,Public administration and social services
 "Meeting, Convention, and Event Planners",Other
@@ -1572,9 +1575,7 @@ Solar Photovoltaic Installers,Construction trades
 "Construction and Related Workers, All Other",Construction trades
 "Radio, Cellular, and Tower Equipment Installers and Repairers",Engineering technologies
 "Food Processing Workers, All Other",Family and consumer sciences
-Gas Compressor and Gas Pumping Station Operators,Engineering
 Continuous Mining Machine Operators,Construction trades
-Fallers,Natural resources and conservation
 Oral and Maxillofacial Surgeons,Health professions and related programs
 Forest Fire Inspectors and Prevention Specialists,Natural resources and conservation
 Fish and Game Wardens,Natural resources and conservation
@@ -1599,6 +1600,8 @@ Tour and Travel Guides,Parks and recreation
 Miscellaneous Construction and Related Workers,Construction trades
 Miscellaneous Mathematical Science Occupations,Mathematics and statistics
 Hoist and Winch Operators,Construction trades
+"Railroad Brake, Signal, and Switch Operators",Other
+Railroad Conductors and Yardmasters,Other
 Administrative Services and Facilities Managers,Business/marketing
 "Education and Childcare Administrators, Preschool and Daycare",Education
 "Education Administrators, Kindergarten through Secondary",Education
@@ -1694,6 +1697,9 @@ Semiconductor Processing Technicians,Engineering
 "Rail Yard Engineers, Dinkey Operators, and Hostlers",Transportation and materials moving
 Passenger Attendants,Transportation and materials moving
 "Aircraft Service Attendants and Transportation Workers, All Other",Transportation and materials moving
+Farm and Home Management Educators,Other
+Pile Driver Operators,Construction trades
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",Other
 "Underground Mining Machine Operators and Extraction Workers, All Other",Natural resources and conservation
 Public Relations Managers,Communication/journalism
 Fundraising Managers,Business/marketing
@@ -1742,8 +1748,8 @@ Emergency Medical Technicians,Health professions and related programs
 Taxi Drivers,Transportation and materials moving
 Aircraft Service Attendants,Transportation and materials moving
 "Ophthalmologists, Except Pediatric",Health professions and related programs
-Pile Driver Operators,Construction trades
-Surgical Assistants,Health professions and related programs
-"Logging Workers, All Other",Natural resources and conservation
 "Disc Jockeys, Except Radio",Visual and performing arts
+Surgical Assistants,Health professions and related programs
 Crematory Operators,Other
+"Logging Workers, All Other",Natural resources and conservation
+Medical Dosimetrists,Other

@@ -1,1382 +1,931 @@
-Year,College,CIP Code,Category,Bachelors
-2014,asu,11.0,Computer science,1.0
-2014,asu,13.0,Education,13.8
-2014,asu,15.0,Engineering,1.9
-2014,asu,16.0,Humanities,1.2
-2014,asu,19.0,Social sciences,1.1
-2014,asu,23.0,Humanities,1.8
-2014,asu,24.0,Social sciences,0.8
-2014,asu,26.0,Biological sciences,3.7
-2014,asu,27.0,Mathematics,0.6
-2014,asu,3.0,Environmental sciences,2.6
-2014,asu,30.0,Social sciences,0.9
-2014,asu,31.0,Hospitality and recreation,6.7
-2014,asu,38.0,Humanities,0.7
-2014,asu,4.0,Architecture,0.3
-2014,asu,40.0,Physical sciences,2.5
-2014,asu,42.0,Social sciences,7.2
-2014,asu,43.0,Public safety,4.0
-2014,asu,44.0,Public administration,1.8
-2014,asu,45.0,Social sciences,6.9
-2014,asu,5.0,Social sciences,0.1
-2014,asu,50.0,Arts,6.1
-2014,asu,51.0,Health sciences,8.8
-2014,asu,52.0,Business,17.6
-2014,asu,54.0,Humanities,1.8
-2014,asu,9.0,Communication and media,6.2
-2014,caltech,,Biological sciences,13.0
-2014,caltech,,Business,1.0
-2014,caltech,,Computer science,18.0
-2014,caltech,,Engineering,36.0
-2014,caltech,,Mathematics,11.0
-2014,caltech,,Physical sciences,22.0
-2014,colgate,11.0,Computer science,1.74
-2014,colgate,13.0,Education,1.53
-2014,colgate,16.0,Humanities,6.98
-2014,colgate,23.0,Humanities,6.43
-2014,colgate,26.0,Biological sciences,9.71
-2014,colgate,27.0,Mathematics,2.4
-2014,colgate,3.0,Environmental sciences,3.16
-2014,colgate,30.0,Social sciences,3.71
-2014,colgate,38.0,Humanities,5.02
-2014,colgate,40.0,Physical sciences,5.02
-2014,colgate,42.0,Social sciences,7.09
-2014,colgate,45.0,Social sciences,31.95
-2014,colgate,5.0,Social sciences,2.94
-2014,colgate,50.0,Arts,4.36
-2014,colgate,54.0,Humanities,7.96
-2014,dartmouth,11.0,Computer science,4.0
-2014,dartmouth,14.0,Engineering,8.0
-2014,dartmouth,16.0,Humanities,4.0
-2014,dartmouth,23.0,Humanities,5.0
-2014,dartmouth,26.0,Biological sciences,10.0
-2014,dartmouth,27.0,Mathematics,4.0
-2014,dartmouth,3.0,Environmental sciences,4.0
-2014,dartmouth,30.0,Social sciences,2.0
-2014,dartmouth,38.0,Humanities,2.0
-2014,dartmouth,40.0,Physical sciences,4.0
-2014,dartmouth,42.0,Social sciences,6.0
-2014,dartmouth,45.0,Social sciences,33.0
-2014,dartmouth,5.0,Social sciences,4.0
-2014,dartmouth,50.0,Arts,5.0
-2014,dartmouth,54.0,Humanities,6.0
-2014,george,11.0,Computer science,0.73
-2014,george,16.0,Humanities,5.27
-2014,george,23.0,Humanities,5.59
-2014,george,24.0,Social sciences,1.59
-2014,george,26.0,Biological sciences,4.91
-2014,george,27.0,Mathematics,1.95
-2014,george,30.0,Social sciences,4.54
-2014,george,38.0,Humanities,1.41
-2014,george,40.0,Physical sciences,0.91
-2014,george,42.0,Social sciences,4.09
-2014,george,45.0,Social sciences,33.17
-2014,george,5.0,Social sciences,1.27
-2014,george,50.0,Arts,2.27
-2014,george,51.0,Health sciences,6.91
-2014,george,52.0,Business,23.35
-2014,george,54.0,Humanities,2.04
-2014,ucsd,14.0,Engineering,14.0
-2014,ucsd,26.0,Biological sciences,22.0
-2014,ucsd,42.0,Social sciences,5.0
-2014,ucsd,45.0,Social sciences,11.0
-2014,ucsd,,Other,48.0
-2014,umich,11.0,Computer science,4.1
-2014,umich,13.0,Education,1.2
-2014,umich,14.0,Engineering,16.0
-2014,umich,16.0,Humanities,4.3
-2014,umich,23.0,Humanities,3.2
-2014,umich,24.0,Social sciences,1.0
-2014,umich,26.0,Biological sciences,9.7
-2014,umich,27.0,Mathematics,3.0
-2014,umich,3.0,Environmental sciences,1.4
-2014,umich,30.0,Social sciences,3.5
-2014,umich,31.0,Hospitality and recreation,2.8
-2014,umich,38.0,Humanities,0.7
-2014,umich,4.0,Architecture,0.9
-2014,umich,40.0,Physical sciences,1.4
-2014,umich,42.0,Social sciences,10.2
-2014,umich,44.0,Public administration,0.8
-2014,umich,45.0,Social sciences,14.2
-2014,umich,5.0,Social sciences,2.2
-2014,umich,50.0,Arts,5.4
-2014,umich,51.0,Health sciences,3.1
-2014,umich,52.0,Business,5.9
-2014,umich,54.0,Humanities,2.2
-2014,umich,9.0,Communication and media,2.8
-2014,wsu,1.0,Agriculture,3.0
-2014,wsu,11.0,Computer science,1.0
-2014,wsu,13.0,Education,3.0
-2014,wsu,14.0,Engineering,10.0
-2014,wsu,16.0,Humanities,1.0
-2014,wsu,19.0,Social sciences,4.0
-2014,wsu,23.0,Humanities,2.0
-2014,wsu,24.0,Social sciences,2.0
-2014,wsu,26.0,Biological sciences,6.0
-2014,wsu,27.0,Mathematics,1.0
-2014,wsu,3.0,Environmental sciences,1.0
-2014,wsu,30.0,Social sciences,1.0
-2014,wsu,31.0,Hospitality and recreation,3.0
-2014,wsu,38.0,Humanities,1.0
-2014,wsu,4.0,Architecture,1.0
-2014,wsu,40.0,Physical sciences,1.0
-2014,wsu,42.0,Social sciences,7.0
-2014,wsu,43.0,Public safety,3.0
-2014,wsu,45.0,Social sciences,12.0
-2014,wsu,50.0,Arts,1.0
-2014,wsu,51.0,Health sciences,8.0
-2014,wsu,52.0,Business,18.0
-2014,wsu,54.0,Humanities,2.0
-2014,wsu,9.0,Communication and media,8.0
-2015,asu,1.0,Agriculture,0.16
-2015,asu,11.0,Computer science,1.24
-2015,asu,13.0,Education,11.5
-2015,asu,15.0,Engineering,1.52
-2015,asu,16.0,Humanities,1.01
-2015,asu,19.0,Social sciences,1.16
-2015,asu,23.0,Humanities,2.09
-2015,asu,24.0,Social sciences,0.23
-2015,asu,26.0,Biological sciences,3.36
-2015,asu,27.0,Mathematics,0.83
-2015,asu,3.0,Environmental sciences,2.33
-2015,asu,30.0,Social sciences,0.7
-2015,asu,31.0,Hospitality and recreation,7.32
-2015,asu,38.0,Humanities,0.78
-2015,asu,4.0,Architecture,0.28
-2015,asu,40.0,Physical sciences,2.59
-2015,asu,42.0,Social sciences,7.14
-2015,asu,43.0,Public safety,4.14
-2015,asu,44.0,Public administration,2.87
-2015,asu,45.0,Social sciences,6.54
-2015,asu,5.0,Social sciences,0.08
-2015,asu,50.0,Arts,6.9
-2015,asu,51.0,Health sciences,9.07
-2015,asu,52.0,Business,18.38
-2015,asu,54.0,Humanities,1.37
-2015,asu,9.0,Communication and media,6.41
-2015,caltech,11.0,Computer science,21.0
-2015,caltech,14.0,Engineering,35.0
-2015,caltech,26.0,Biological sciences,8.0
-2015,caltech,27.0,Mathematics,12.0
-2015,caltech,40.0,Physical sciences,22.5
-2015,caltech,45.0,Social sciences,0.5
-2015,caltech,52.0,Business,1.0
-2015,colgate,11.0,Computer science,2.6
-2015,colgate,13.0,Education,1.7
-2015,colgate,16.0,Humanities,5.8
-2015,colgate,23.0,Humanities,5.8
-2015,colgate,26.0,Biological sciences,14.5
-2015,colgate,27.0,Mathematics,1.9
-2015,colgate,3.0,Environmental sciences,3.7
-2015,colgate,30.0,Social sciences,3.9
-2015,colgate,38.0,Humanities,5.5
-2015,colgate,40.0,Physical sciences,4.8
-2015,colgate,42.0,Social sciences,4.9
-2015,colgate,45.0,Social sciences,32.8
-2015,colgate,5.0,Social sciences,2.7
-2015,colgate,50.0,Arts,2.7
-2015,colgate,54.0,Humanities,6.7
-2015,dartmouth,11.0,Computer science,4.0
-2015,dartmouth,14.0,Engineering,6.0
-2015,dartmouth,16.0,Humanities,3.0
-2015,dartmouth,23.0,Humanities,4.0
-2015,dartmouth,26.0,Biological sciences,12.0
-2015,dartmouth,27.0,Mathematics,2.0
-2015,dartmouth,3.0,Environmental sciences,2.0
-2015,dartmouth,30.0,Social sciences,2.0
-2015,dartmouth,38.0,Humanities,1.0
-2015,dartmouth,40.0,Physical sciences,3.0
-2015,dartmouth,42.0,Social sciences,6.0
-2015,dartmouth,45.0,Social sciences,39.0
-2015,dartmouth,5.0,Social sciences,3.0
-2015,dartmouth,50.0,Arts,5.0
-2015,dartmouth,54.0,Humanities,7.0
-2015,george,11.0,Computer science,0.72
-2015,george,16.0,Humanities,4.73
-2015,george,23.0,Humanities,3.92
-2015,george,24.0,Social sciences,1.44
-2015,george,26.0,Biological sciences,4.82
-2015,george,27.0,Mathematics,1.85
-2015,george,30.0,Social sciences,5.4
-2015,george,38.0,Humanities,1.26
-2015,george,40.0,Physical sciences,0.63
-2015,george,42.0,Social sciences,4.41
-2015,george,45.0,Social sciences,35.1
-2015,george,5.0,Social sciences,1.8
-2015,george,50.0,Arts,1.89
-2015,george,51.0,Health sciences,5.46
-2015,george,52.0,Business,24.93
-2015,george,54.0,Humanities,1.67
-2015,ucsd,11.07,Computer science,7.0
-2015,ucsd,26.01,Biological sciences,18.0
-2015,ucsd,42.0,Social sciences,8.0
-2015,ucsd,45.06,Social sciences,14.0
-2015,ucsd,45.1099,Social sciences,5.0
-2015,ucsd,,Other,48.0
-2015,umich,11.0,Computer science,5.4
-2015,umich,13.0,Education,1.1
-2015,umich,14.0,Engineering,14.9
-2015,umich,16.0,Humanities,4.7
-2015,umich,23.0,Humanities,3.1
-2015,umich,24.0,Social sciences,1.0
-2015,umich,26.0,Biological sciences,9.1
-2015,umich,27.0,Mathematics,3.3
-2015,umich,3.0,Environmental sciences,1.4
-2015,umich,30.0,Social sciences,3.5
-2015,umich,31.0,Hospitality and recreation,2.9
-2015,umich,38.0,Humanities,0.7
-2015,umich,4.0,Architecture,0.9
-2015,umich,40.0,Physical sciences,1.6
-2015,umich,42.0,Social sciences,10.2
-2015,umich,44.0,Public administration,0.8
-2015,umich,45.0,Social sciences,13.7
-2015,umich,5.0,Social sciences,2.1
-2015,umich,50.0,Arts,5.7
-2015,umich,51.0,Health sciences,2.1
-2015,umich,52.0,Business,6.6
-2015,umich,54.0,Humanities,2.3
-2015,umich,9.0,Communication and media,3.1
-2015,wsu,1.0,Agriculture,3.0
-2015,wsu,11.0,Computer science,2.0
-2015,wsu,13.0,Education,3.0
-2015,wsu,14.0,Engineering,11.0
-2015,wsu,16.0,Humanities,1.0
-2015,wsu,19.0,Social sciences,4.0
-2015,wsu,23.0,Humanities,2.0
-2015,wsu,24.0,Social sciences,2.0
-2015,wsu,26.0,Biological sciences,6.0
-2015,wsu,27.0,Mathematics,1.0
-2015,wsu,3.0,Environmental sciences,1.0
-2015,wsu,30.0,Social sciences,1.0
-2015,wsu,31.0,Hospitality and recreation,4.0
-2015,wsu,4.0,Architecture,1.0
-2015,wsu,40.0,Physical sciences,1.0
-2015,wsu,42.0,Social sciences,6.0
-2015,wsu,43.0,Public safety,3.0
-2015,wsu,45.0,Social sciences,12.0
-2015,wsu,50.0,Arts,2.0
-2015,wsu,51.0,Health sciences,7.0
-2015,wsu,52.0,Business,20.0
-2015,wsu,54.0,Humanities,1.0
-2015,wsu,9.0,Communication and media,8.0
-2016,asu,1.0,Agriculture,0.4
-2016,asu,11.0,Computer science,1.4
-2016,asu,13.0,Education,10.5
-2016,asu,15.0,Engineering,1.4
-2016,asu,16.0,Humanities,1.0
-2016,asu,19.0,Social sciences,1.2
-2016,asu,23.0,Humanities,1.8
-2016,asu,24.0,Social sciences,0.4
-2016,asu,26.0,Biological sciences,3.2
-2016,asu,27.0,Mathematics,0.9
-2016,asu,3.0,Environmental sciences,2.7
-2016,asu,30.0,Social sciences,0.6
-2016,asu,31.0,Hospitality and recreation,7.4
-2016,asu,38.0,Humanities,0.7
-2016,asu,4.0,Architecture,0.2
-2016,asu,40.0,Physical sciences,2.6
-2016,asu,42.0,Social sciences,6.1
-2016,asu,43.0,Public safety,4.1
-2016,asu,44.0,Public administration,2.6
-2016,asu,45.0,Social sciences,6.1
-2016,asu,5.0,Social sciences,0.1
-2016,asu,50.0,Arts,6.2
-2016,asu,51.0,Health sciences,10.7
-2016,asu,52.0,Business,18.6
-2016,asu,54.0,Humanities,1.3
-2016,asu,9.0,Communication and media,7.9
-2016,caltech,11.0,Computer science,23.0
-2016,caltech,14.0,Engineering,37.0
-2016,caltech,23.0,Humanities,0.4
-2016,caltech,26.0,Biological sciences,7.0
-2016,caltech,27.0,Mathematics,14.0
-2016,caltech,40.0,Physical sciences,18.0
-2016,caltech,45.0,Social sciences,0.4
-2016,caltech,52.0,Business,0.4
-2016,caltech,54.0,Humanities,0.4
-2016,colgate,11.0,Computer science,3.71
-2016,colgate,13.0,Education,1.32
-2016,colgate,16.0,Humanities,5.63
-2016,colgate,23.0,Humanities,6.23
-2016,colgate,26.0,Biological sciences,12.1
-2016,colgate,27.0,Mathematics,2.16
-2016,colgate,3.0,Environmental sciences,4.31
-2016,colgate,30.0,Social sciences,3.71
-2016,colgate,38.0,Humanities,3.83
-2016,colgate,40.0,Physical sciences,5.99
-2016,colgate,42.0,Social sciences,5.87
-2016,colgate,45.0,Social sciences,32.69
-2016,colgate,5.0,Social sciences,3.95
-2016,colgate,50.0,Arts,3.11
-2016,colgate,54.0,Humanities,5.39
-2016,dartmouth,11.0,Computer science,5.0
-2016,dartmouth,14.0,Engineering,8.0
-2016,dartmouth,16.0,Humanities,4.0
-2016,dartmouth,23.0,Humanities,4.0
-2016,dartmouth,26.0,Biological sciences,10.0
-2016,dartmouth,27.0,Mathematics,4.0
-2016,dartmouth,3.0,Environmental sciences,3.0
-2016,dartmouth,30.0,Social sciences,2.0
-2016,dartmouth,38.0,Humanities,2.0
-2016,dartmouth,40.0,Physical sciences,4.0
-2016,dartmouth,42.0,Social sciences,6.0
-2016,dartmouth,45.0,Social sciences,35.0
-2016,dartmouth,5.0,Social sciences,4.0
-2016,dartmouth,50.0,Arts,4.0
-2016,dartmouth,54.0,Humanities,6.0
-2016,george,11.0,Computer science,1.4
-2016,george,16.0,Humanities,5.1
-2016,george,23.0,Humanities,4.5
-2016,george,24.0,Social sciences,2.0
-2016,george,26.0,Biological sciences,5.9
-2016,george,27.0,Mathematics,1.2
-2016,george,30.0,Social sciences,6.2
-2016,george,38.0,Humanities,1.3
-2016,george,40.0,Physical sciences,1.0
-2016,george,42.0,Social sciences,4.6
-2016,george,45.0,Social sciences,37.6
-2016,george,5.0,Social sciences,1.4
-2016,george,50.0,Arts,1.8
-2016,george,51.0,Health sciences,6.2
-2016,george,52.0,Business,18.4
-2016,george,54.0,Humanities,1.4
-2016,ucsd,14.09,Engineering,9.0
-2016,ucsd,26.01,Biological sciences,21.0
-2016,ucsd,42.01,Social sciences,6.0
-2016,ucsd,45.06,Social sciences,13.0
-2016,ucsd,9.01,Communication and media,5.0
-2016,ucsd,,Other,46.0
-2016,umich,11.0,Computer science,7.4
-2016,umich,13.0,Education,1.1
-2016,umich,14.0,Engineering,15.7
-2016,umich,16.0,Humanities,4.1
-2016,umich,23.0,Humanities,2.7
-2016,umich,24.0,Social sciences,0.9
-2016,umich,26.0,Biological sciences,8.5
-2016,umich,27.0,Mathematics,3.3
-2016,umich,3.0,Environmental sciences,1.5
-2016,umich,30.0,Social sciences,3.9
-2016,umich,31.0,Hospitality and recreation,2.8
-2016,umich,38.0,Humanities,0.4
-2016,umich,4.0,Architecture,0.7
-2016,umich,40.0,Physical sciences,2.0
-2016,umich,42.0,Social sciences,9.8
-2016,umich,44.0,Public administration,0.8
-2016,umich,45.0,Social sciences,12.5
-2016,umich,5.0,Social sciences,1.9
-2016,umich,50.0,Arts,5.9
-2016,umich,51.0,Health sciences,2.6
-2016,umich,52.0,Business,6.8
-2016,umich,54.0,Humanities,1.6
-2016,umich,9.0,Communication and media,2.9
-2016,wsu,1.0,Agriculture,3.0
-2016,wsu,11.0,Computer science,2.0
-2016,wsu,13.0,Education,3.0
-2016,wsu,14.0,Engineering,11.0
-2016,wsu,16.0,Humanities,1.0
-2016,wsu,19.0,Social sciences,4.0
-2016,wsu,23.0,Humanities,2.0
-2016,wsu,24.0,Social sciences,2.0
-2016,wsu,26.0,Biological sciences,6.0
-2016,wsu,27.0,Mathematics,1.0
-2016,wsu,3.0,Environmental sciences,1.0
-2016,wsu,30.0,Social sciences,1.0
-2016,wsu,31.0,Hospitality and recreation,3.0
-2016,wsu,4.0,Architecture,1.0
-2016,wsu,40.0,Physical sciences,2.0
-2016,wsu,42.0,Social sciences,7.0
-2016,wsu,43.0,Public safety,3.0
-2016,wsu,45.0,Social sciences,12.0
-2016,wsu,50.0,Arts,1.0
-2016,wsu,51.0,Health sciences,8.0
-2016,wsu,52.0,Business,20.0
-2016,wsu,54.0,Humanities,1.0
-2016,wsu,9.0,Communication and media,7.0
-2017,asu,1.0,Agriculture,0.6
-2017,asu,11.0,Computer science,1.68
-2017,asu,13.0,Education,10.69
-2017,asu,15.0,Engineering,1.46
-2017,asu,16.0,Humanities,0.96
-2017,asu,19.0,Social sciences,1.08
-2017,asu,23.0,Humanities,2.02
-2017,asu,24.0,Social sciences,0.65
-2017,asu,26.0,Biological sciences,4.06
-2017,asu,27.0,Mathematics,0.84
-2017,asu,3.0,Environmental sciences,2.31
-2017,asu,30.0,Social sciences,0.91
-2017,asu,31.0,Hospitality and recreation,7.16
-2017,asu,38.0,Humanities,0.72
-2017,asu,4.0,Architecture,0.14
-2017,asu,40.0,Physical sciences,3.34
-2017,asu,42.0,Social sciences,5.21
-2017,asu,43.0,Public safety,3.84
-2017,asu,44.0,Public administration,2.04
-2017,asu,45.0,Social sciences,5.98
-2017,asu,5.0,Social sciences,0.22
-2017,asu,50.0,Arts,5.21
-2017,asu,51.0,Health sciences,11.34
-2017,asu,52.0,Business,19.48
-2017,asu,54.0,Humanities,1.15
-2017,asu,9.0,Communication and media,6.92
-2017,caltech,11.0,Computer science,26.0
-2017,caltech,14.0,Engineering,36.0
-2017,caltech,23.0,Humanities,0.4
-2017,caltech,26.0,Biological sciences,5.0
-2017,caltech,27.0,Mathematics,11.0
-2017,caltech,40.0,Physical sciences,20.0
-2017,caltech,52.0,Business,2.0
-2017,colgate,11.0,Computer science,3.74
-2017,colgate,13.0,Education,3.17
-2017,colgate,16.0,Humanities,4.99
-2017,colgate,23.0,Humanities,4.88
-2017,colgate,26.0,Biological sciences,12.59
-2017,colgate,27.0,Mathematics,2.27
-2017,colgate,3.0,Environmental sciences,4.42
-2017,colgate,30.0,Social sciences,4.08
-2017,colgate,38.0,Humanities,3.97
-2017,colgate,40.0,Physical sciences,5.1
-2017,colgate,42.0,Social sciences,5.33
-2017,colgate,45.0,Social sciences,32.09
-2017,colgate,5.0,Social sciences,3.06
-2017,colgate,50.0,Arts,3.97
-2017,colgate,54.0,Humanities,6.35
-2017,dartmouth,11.0,Computer science,8.0
-2017,dartmouth,14.0,Engineering,8.0
-2017,dartmouth,16.0,Humanities,3.0
-2017,dartmouth,23.0,Humanities,2.0
-2017,dartmouth,26.0,Biological sciences,9.0
-2017,dartmouth,27.0,Mathematics,3.0
-2017,dartmouth,3.0,Environmental sciences,3.0
-2017,dartmouth,30.0,Social sciences,1.0
-2017,dartmouth,38.0,Humanities,2.0
-2017,dartmouth,40.0,Physical sciences,4.0
-2017,dartmouth,42.0,Social sciences,4.0
-2017,dartmouth,45.0,Social sciences,37.0
-2017,dartmouth,5.0,Social sciences,5.0
-2017,dartmouth,50.0,Arts,5.0
-2017,dartmouth,54.0,Humanities,6.0
-2017,george,11.0,Computer science,1.5709
-2017,george,16.0,Humanities,4.8025
-2017,george,23.0,Humanities,4.5332
-2017,george,24.0,Social sciences,1.4811
-2017,george,26.0,Biological sciences,4.6679
-2017,george,27.0,Mathematics,2.1993
-2017,george,30.0,Social sciences,6.2837
-2017,george,38.0,Humanities,1.526
-2017,george,40.0,Physical sciences,0.7181
-2017,george,42.0,Social sciences,3.456
-2017,george,45.0,Social sciences,34.0215
-2017,george,5.0,Social sciences,1.4363
-2017,george,50.0,Arts,1.8851
-2017,george,51.0,Health sciences,3.5907
-2017,george,52.0,Business,26.167
-2017,george,54.0,Humanities,1.6607
-2017,ucsd,14.0,Engineering,27.0
-2017,ucsd,16.0,Humanities,2.0
-2017,ucsd,26.0,Biological sciences,21.0
-2017,ucsd,27.0,Mathematics,4.0
-2017,ucsd,40.0,Physical sciences,3.0
-2017,ucsd,42.0,Social sciences,5.0
-2017,ucsd,45.0,Social sciences,23.0
-2017,ucsd,5.0,Social sciences,4.0
-2017,ucsd,50.0,Arts,3.0
-2017,ucsd,51.0,Health sciences,3.0
-2017,ucsd,54.0,Humanities,1.0
-2017,ucsd,9.0,Communication and media,4.0
-2017,umich,11.0,Computer science,8.6
-2017,umich,13.0,Education,1.0
-2017,umich,14.0,Engineering,17.1
-2017,umich,16.0,Humanities,2.4
-2017,umich,23.0,Humanities,2.3
-2017,umich,24.0,Social sciences,1.2
-2017,umich,26.0,Biological sciences,9.4
-2017,umich,27.0,Mathematics,3.2
-2017,umich,3.0,Environmental sciences,1.3
-2017,umich,30.0,Social sciences,3.3
-2017,umich,31.0,Hospitality and recreation,3.7
-2017,umich,38.0,Humanities,0.3
-2017,umich,4.0,Architecture,0.8
-2017,umich,40.0,Physical sciences,1.7
-2017,umich,42.0,Social sciences,9.6
-2017,umich,44.0,Public administration,1.0
-2017,umich,45.0,Social sciences,11.2
-2017,umich,5.0,Social sciences,1.3
-2017,umich,50.0,Arts,5.3
-2017,umich,51.0,Health sciences,3.0
-2017,umich,52.0,Business,7.6
-2017,umich,54.0,Humanities,1.2
-2017,umich,9.0,Communication and media,3.3
-2017,wsu,1.0,Agriculture,3.0
-2017,wsu,11.0,Computer science,2.0
-2017,wsu,13.0,Education,3.0
-2017,wsu,14.0,Engineering,11.0
-2017,wsu,16.0,Humanities,1.0
-2017,wsu,19.0,Social sciences,5.0
-2017,wsu,23.0,Humanities,1.0
-2017,wsu,24.0,Social sciences,2.0
-2017,wsu,26.0,Biological sciences,6.0
-2017,wsu,27.0,Mathematics,1.0
-2017,wsu,30.0,Social sciences,1.0
-2017,wsu,31.0,Hospitality and recreation,3.0
-2017,wsu,4.0,Architecture,1.0
-2017,wsu,40.0,Physical sciences,2.0
-2017,wsu,42.0,Social sciences,7.0
-2017,wsu,43.0,Public safety,3.0
-2017,wsu,45.0,Social sciences,10.0
-2017,wsu,50.0,Arts,1.0
-2017,wsu,51.0,Health sciences,7.0
-2017,wsu,52.0,Business,21.0
-2017,wsu,54.0,Humanities,1.0
-2017,wsu,9.0,Communication and media,8.0
-2018,asu,1.0,Agriculture,0.58
-2018,asu,11.0,Computer science,1.53
-2018,asu,13.0,Education,9.17
-2018,asu,15.0,Engineering,0.94
-2018,asu,16.0,Humanities,0.92
-2018,asu,19.0,Social sciences,1.48
-2018,asu,23.0,Humanities,1.98
-2018,asu,24.0,Social sciences,0.56
-2018,asu,26.0,Biological sciences,4.02
-2018,asu,27.0,Mathematics,0.7
-2018,asu,3.0,Environmental sciences,2.37
-2018,asu,30.0,Social sciences,0.7
-2018,asu,31.0,Hospitality and recreation,7.26
-2018,asu,38.0,Humanities,0.53
-2018,asu,4.0,Architecture,0.12
-2018,asu,40.0,Physical sciences,1.98
-2018,asu,42.0,Social sciences,5.62
-2018,asu,43.0,Public safety,3.34
-2018,asu,44.0,Public administration,2.03
-2018,asu,45.0,Social sciences,6.85
-2018,asu,5.0,Social sciences,0.19
-2018,asu,50.0,Arts,6.08
-2018,asu,51.0,Health sciences,11.64
-2018,asu,52.0,Business,20.6
-2018,asu,54.0,Humanities,0.99
-2018,asu,9.0,Communication and media,7.79
-2018,caltech,11.0,Computer science,25.0
-2018,caltech,14.0,Engineering,37.0
-2018,caltech,26.0,Biological sciences,5.0
-2018,caltech,27.0,Mathematics,5.0
-2018,caltech,40.0,Physical sciences,26.0
-2018,caltech,45.0,Social sciences,1.0
-2018,caltech,52.0,Business,1.0
-2018,colgate,11.0,Computer science,4.98
-2018,colgate,13.0,Education,2.73
-2018,colgate,16.0,Humanities,5.22
-2018,colgate,23.0,Humanities,6.29
-2018,colgate,26.0,Biological sciences,15.18
-2018,colgate,27.0,Mathematics,2.49
-2018,colgate,3.0,Environmental sciences,3.44
-2018,colgate,30.0,Social sciences,3.91
-2018,colgate,38.0,Humanities,4.51
-2018,colgate,40.0,Physical sciences,4.86
-2018,colgate,42.0,Social sciences,6.76
-2018,colgate,45.0,Social sciences,29.42
-2018,colgate,5.0,Social sciences,3.32
-2018,colgate,50.0,Arts,2.97
-2018,colgate,54.0,Humanities,3.91
-2018,dartmouth,11.0,Computer science,7.0
-2018,dartmouth,14.0,Engineering,8.0
-2018,dartmouth,16.0,Humanities,4.0
-2018,dartmouth,23.0,Humanities,3.0
-2018,dartmouth,26.0,Biological sciences,8.0
-2018,dartmouth,27.0,Mathematics,4.0
-2018,dartmouth,3.0,Environmental sciences,3.0
-2018,dartmouth,30.0,Social sciences,3.0
-2018,dartmouth,38.0,Humanities,3.0
-2018,dartmouth,40.0,Physical sciences,5.0
-2018,dartmouth,42.0,Social sciences,4.0
-2018,dartmouth,45.0,Social sciences,34.0
-2018,dartmouth,5.0,Social sciences,4.0
-2018,dartmouth,50.0,Arts,5.0
-2018,dartmouth,54.0,Humanities,5.0
-2018,george,11.0,Computer science,1.65
-2018,george,16.0,Humanities,5.26
-2018,george,23.0,Humanities,3.93
-2018,george,24.0,Social sciences,1.42
-2018,george,26.0,Biological sciences,4.57
-2018,george,27.0,Mathematics,1.55
-2018,george,30.0,Social sciences,6.4
-2018,george,38.0,Humanities,1.74
-2018,george,40.0,Physical sciences,0.73
-2018,george,42.0,Social sciences,4.34
-2018,george,45.0,Social sciences,34.57
-2018,george,5.0,Social sciences,1.55
-2018,george,50.0,Arts,1.78
-2018,george,51.0,Health sciences,3.2
-2018,george,52.0,Business,25.56
-2018,george,54.0,Humanities,1.74
-2018,ucsd,14.0,Engineering,23.0
-2018,ucsd,16.0,Humanities,2.0
-2018,ucsd,26.0,Biological sciences,21.0
-2018,ucsd,27.0,Mathematics,8.0
-2018,ucsd,40.0,Physical sciences,4.0
-2018,ucsd,42.0,Social sciences,5.0
-2018,ucsd,45.0,Social sciences,23.0
-2018,ucsd,5.0,Social sciences,4.0
-2018,ucsd,50.0,Arts,3.0
-2018,ucsd,51.0,Health sciences,3.0
-2018,ucsd,54.0,Humanities,1.0
-2018,ucsd,9.0,Communication and media,3.0
-2018,umich,11.0,Computer science,10.7
-2018,umich,13.0,Education,0.9
-2018,umich,14.0,Engineering,15.9
-2018,umich,16.0,Humanities,2.1
-2018,umich,23.0,Humanities,2.0
-2018,umich,24.0,Social sciences,0.8
-2018,umich,26.0,Biological sciences,9.2
-2018,umich,27.0,Mathematics,2.8
-2018,umich,3.0,Environmental sciences,1.2
-2018,umich,30.0,Social sciences,3.9
-2018,umich,31.0,Hospitality and recreation,3.7
-2018,umich,38.0,Humanities,0.4
-2018,umich,4.0,Architecture,0.6
-2018,umich,40.0,Physical sciences,1.8
-2018,umich,42.0,Social sciences,9.1
-2018,umich,44.0,Public administration,1.0
-2018,umich,45.0,Social sciences,11.7
-2018,umich,5.0,Social sciences,1.2
-2018,umich,50.0,Arts,5.2
-2018,umich,51.0,Health sciences,3.3
-2018,umich,52.0,Business,7.9
-2018,umich,54.0,Humanities,1.1
-2018,umich,9.0,Communication and media,3.3
-2018,wsu,1.0,Agriculture,3.0
-2018,wsu,11.0,Computer science,3.0
-2018,wsu,13.0,Education,3.0
-2018,wsu,14.0,Engineering,11.0
-2018,wsu,19.0,Social sciences,4.0
-2018,wsu,23.0,Humanities,2.0
-2018,wsu,24.0,Social sciences,2.0
-2018,wsu,26.0,Biological sciences,6.0
-2018,wsu,27.0,Mathematics,1.0
-2018,wsu,30.0,Social sciences,1.0
-2018,wsu,31.0,Hospitality and recreation,3.0
-2018,wsu,4.0,Architecture,1.0
-2018,wsu,40.0,Physical sciences,2.0
-2018,wsu,42.0,Social sciences,7.0
-2018,wsu,43.0,Public safety,3.0
-2018,wsu,45.0,Social sciences,10.0
-2018,wsu,50.0,Arts,1.0
-2018,wsu,51.0,Health sciences,8.0
-2018,wsu,52.0,Business,21.0
-2018,wsu,54.0,Humanities,1.0
-2018,wsu,9.0,Communication and media,7.0
-2019,asu,1.0,Agriculture,0.5
-2019,asu,11.0,Computer science,1.94
-2019,asu,13.0,Education,9.23
-2019,asu,15.0,Engineering,1.56
-2019,asu,16.0,Humanities,0.96
-2019,asu,19.0,Social sciences,1.61
-2019,asu,23.0,Humanities,2.21
-2019,asu,24.0,Social sciences,0.58
-2019,asu,26.0,Biological sciences,3.57
-2019,asu,27.0,Mathematics,1.03
-2019,asu,3.0,Environmental sciences,2.68
-2019,asu,30.0,Social sciences,0.43
-2019,asu,31.0,Hospitality and recreation,6.69
-2019,asu,38.0,Humanities,0.6
-2019,asu,4.0,Architecture,0.24
-2019,asu,40.0,Physical sciences,2.66
-2019,asu,42.0,Social sciences,5.68
-2019,asu,43.0,Public safety,2.64
-2019,asu,44.0,Public administration,2.52
-2019,asu,45.0,Social sciences,5.94
-2019,asu,5.0,Social sciences,0.19
-2019,asu,50.0,Arts,6.52
-2019,asu,51.0,Health sciences,10.59
-2019,asu,52.0,Business,20.76
-2019,asu,54.0,Humanities,0.93
-2019,asu,9.0,Communication and media,7.74
-2019,caltech,11.0,Computer science,27.0
-2019,caltech,14.0,Engineering,35.0
-2019,caltech,26.0,Biological sciences,5.0
-2019,caltech,27.0,Mathematics,10.0
-2019,caltech,40.0,Physical sciences,22.0
-2019,caltech,52.0,Business,1.0
-2019,colgate,11.0,Computer science,0.046
-2019,colgate,13.0,Education,0.032
-2019,colgate,16.0,Humanities,0.054
-2019,colgate,23.0,Humanities,0.028
-2019,colgate,24.0,Social sciences,0.001
-2019,colgate,26.0,Biological sciences,0.12
-2019,colgate,27.0,Mathematics,0.026
-2019,colgate,3.0,Environmental sciences,0.04
-2019,colgate,30.0,Social sciences,0.049
-2019,colgate,38.0,Humanities,0.049
-2019,colgate,40.0,Physical sciences,0.063
-2019,colgate,42.0,Social sciences,0.064
-2019,colgate,45.0,Social sciences,0.33
-2019,colgate,5.0,Social sciences,0.02
-2019,colgate,50.0,Arts,0.038
-2019,colgate,54.0,Humanities,0.04
-2019,dartmouth,11.0,Computer science,7.0
-2019,dartmouth,14.0,Engineering,9.0
-2019,dartmouth,16.0,Humanities,4.0
-2019,dartmouth,23.0,Humanities,3.0
-2019,dartmouth,26.0,Biological sciences,8.0
-2019,dartmouth,27.0,Mathematics,6.0
-2019,dartmouth,3.0,Environmental sciences,3.0
-2019,dartmouth,30.0,Social sciences,2.0
-2019,dartmouth,38.0,Humanities,2.0
-2019,dartmouth,40.0,Physical sciences,3.0
-2019,dartmouth,42.0,Social sciences,5.0
-2019,dartmouth,45.0,Social sciences,35.0
-2019,dartmouth,5.0,Social sciences,4.0
-2019,dartmouth,50.0,Arts,5.0
-2019,dartmouth,54.0,Humanities,4.0
-2019,george,11.0,Computer science,2.17
-2019,george,16.0,Humanities,4.06
-2019,george,23.0,Humanities,4.15
-2019,george,24.0,Social sciences,1.57
-2019,george,26.0,Biological sciences,4.15
-2019,george,27.0,Mathematics,2.81
-2019,george,30.0,Social sciences,6.73
-2019,george,38.0,Humanities,1.24
-2019,george,40.0,Physical sciences,1.29
-2019,george,42.0,Social sciences,4.29
-2019,george,45.0,Social sciences,32.73
-2019,george,5.0,Social sciences,1.84
-2019,george,50.0,Arts,1.38
-2019,george,51.0,Health sciences,3.6
-2019,george,52.0,Business,26.19
-2019,george,54.0,Humanities,1.8
-2019,ucsd,14.0,Engineering,18.0
-2019,ucsd,16.0,Humanities,1.0
-2019,ucsd,26.0,Biological sciences,20.0
-2019,ucsd,27.0,Mathematics,10.0
-2019,ucsd,40.0,Physical sciences,15.0
-2019,ucsd,42.0,Social sciences,5.0
-2019,ucsd,45.0,Social sciences,19.0
-2019,ucsd,5.0,Social sciences,1.0
-2019,ucsd,50.0,Arts,3.0
-2019,ucsd,51.0,Health sciences,3.0
-2019,ucsd,54.0,Humanities,1.0
-2019,ucsd,9.0,Communication and media,3.0
-2019,ucsd,,Other,1.0
-2019,umich,11.0,Computer science,12.1
-2019,umich,13.0,Education,0.8
-2019,umich,14.0,Engineering,16.1
-2019,umich,16.0,Humanities,2.0
-2019,umich,23.0,Humanities,1.8
-2019,umich,24.0,Social sciences,0.6
-2019,umich,26.0,Biological sciences,8.8
-2019,umich,27.0,Mathematics,2.4
-2019,umich,3.0,Environmental sciences,1.4
-2019,umich,30.0,Social sciences,3.2
-2019,umich,31.0,Hospitality and recreation,3.4
-2019,umich,38.0,Humanities,0.4
-2019,umich,4.0,Architecture,0.9
-2019,umich,40.0,Physical sciences,1.7
-2019,umich,42.0,Social sciences,8.4
-2019,umich,44.0,Public administration,1.0
-2019,umich,45.0,Social sciences,11.0
-2019,umich,5.0,Social sciences,1.0
-2019,umich,50.0,Arts,5.2
-2019,umich,51.0,Health sciences,4.3
-2019,umich,52.0,Business,9.2
-2019,umich,54.0,Humanities,1.2
-2019,umich,9.0,Communication and media,3.2
-2019,wsu,1.0,Agriculture,3.0
-2019,wsu,11.0,Computer science,3.0
-2019,wsu,13.0,Education,3.0
-2019,wsu,14.0,Engineering,11.0
-2019,wsu,16.0,Humanities,1.0
-2019,wsu,19.0,Social sciences,4.0
-2019,wsu,23.0,Humanities,1.0
-2019,wsu,24.0,Social sciences,2.0
-2019,wsu,26.0,Biological sciences,6.0
-2019,wsu,27.0,Mathematics,1.0
-2019,wsu,30.0,Social sciences,1.0
-2019,wsu,31.0,Hospitality and recreation,3.0
-2019,wsu,4.0,Architecture,1.0
-2019,wsu,40.0,Physical sciences,3.0
-2019,wsu,42.0,Social sciences,8.0
-2019,wsu,43.0,Public safety,3.0
-2019,wsu,45.0,Social sciences,10.0
-2019,wsu,50.0,Arts,1.0
-2019,wsu,51.0,Health sciences,7.0
-2019,wsu,52.0,Business,20.0
-2019,wsu,54.0,Humanities,1.0
-2019,wsu,9.0,Communication and media,7.0
-2020,asu,1.0,Agriculture,0.42
-2020,asu,3.0,Environmental sciences,2.4
-2020,asu,4.0,Architecture,0.12
-2020,asu,5.0,Social sciences,0.16
-2020,asu,9.0,Communication and media,7.59
-2020,asu,11.0,Computer science,1.64
-2020,asu,13.0,Education,8.26
-2020,asu,15.0,Engineering,1.5
-2020,asu,16.0,Humanities,0.83
-2020,asu,19.0,Social sciences,1.25
-2020,asu,23.0,Humanities,1.87
-2020,asu,24.0,Social sciences,0.25
-2020,asu,26.0,Biological sciences,4.34
-2020,asu,27.0,Mathematics,0.9
-2020,asu,30.0,Social sciences,0.46
-2020,asu,31.0,Hospitality and recreation,8.48
-2020,asu,38.0,Humanities,0.69
-2020,asu,40.0,Physical sciences,2.38
-2020,asu,42.0,Social sciences,5.77
-2020,asu,43.0,Public safety,2.93
-2020,asu,44.0,Public administration,2.05
-2020,asu,45.0,Social sciences,6.66
-2020,asu,50.0,Arts,6.44
-2020,asu,51.0,Health sciences,10.36
-2020,asu,52.0,Business,21.12
-2020,asu,54.0,Humanities,1.13
-2020,caltech,11.0,Computer science,35.27
-2020,caltech,14.0,Engineering,25.6
-2020,caltech,26.0,Biological sciences,6.76
-2020,caltech,27.0,Mathematics,7.73
-2020,caltech,30.0,Social sciences,0.48
-2020,caltech,40.0,Physical sciences,24.15
-2020,colgate,3.0,Environmental sciences,0.032
-2020,colgate,5.0,Social sciences,0.024
-2020,colgate,11.0,Computer science,0.06
-2020,colgate,13.0,Education,0.025
-2020,colgate,16.0,Humanities,0.05
-2020,colgate,23.0,Humanities,0.054
-2020,colgate,26.0,Biological sciences,0.126
-2020,colgate,27.0,Mathematics,0.033
-2020,colgate,30.0,Social sciences,0.025
-2020,colgate,38.0,Humanities,0.0465
-2020,colgate,40.0,Physical sciences,0.0465
-2020,colgate,42.0,Social sciences,0.056
-2020,colgate,45.0,Social sciences,0.34
-2020,colgate,50.0,Arts,0.05
-2020,colgate,54.0,Humanities,0.032
-2020,dartmouth,3.0,Environmental sciences,3.0
-2020,dartmouth,5.0,Social sciences,5.0
-2020,dartmouth,11.0,Computer science,8.0
-2020,dartmouth,14.0,Engineering,9.0
-2020,dartmouth,16.0,Humanities,2.0
-2020,dartmouth,23.0,Humanities,3.0
-2020,dartmouth,26.0,Biological sciences,8.0
-2020,dartmouth,27.0,Mathematics,7.0
-2020,dartmouth,30.0,Social sciences,2.0
-2020,dartmouth,38.0,Humanities,2.0
-2020,dartmouth,40.0,Physical sciences,4.0
-2020,dartmouth,42.0,Social sciences,5.0
-2020,dartmouth,45.0,Social sciences,33.0
-2020,dartmouth,50.0,Arts,5.0
-2020,dartmouth,54.0,Humanities,4.0
-2020,george,11.0,Computer science,2.4
-2020,george,16.0,Humanities,4.3
-2020,george,23.0,Humanities,3.7
-2020,george,24.0,Social sciences,1.2
-2020,george,26.0,Biological sciences,4.5
-2020,george,27.0,Mathematics,2.9
-2020,george,30.0,Social sciences,5.8
-2020,george,38.0,Humanities,1.3
-2020,george,40.0,Physical sciences,0.9
-2020,george,42.0,Social sciences,4.4
-2020,george,45.0,Social sciences,34.3
-2020,george,5.0,Social sciences,2.4
-2020,george,50.0,Arts,1.3
-2020,george,51.0,Health sciences,3.7
-2020,george,52.0,Business,25.4
-2020,george,54.0,Humanities,1.5
-2020,ucsd,3.0,Environmental sciences,0.9
-2020,ucsd,4.0,Architecture,0.6
-2020,ucsd,5.0,Social sciences,0.4
-2020,ucsd,9.0,Communication and media,2.9
-2020,ucsd,11.0,Computer science,6.3
-2020,ucsd,13.0,Education,0.2
-2020,ucsd,14.0,Engineering,11.9
-2020,ucsd,16.0,Humanities,0.8
-2020,ucsd,19.0,Social sciences,0.8
-2020,ucsd,23.0,Humanities,0.9
-2020,ucsd,26.0,Biological sciences,19.6
-2020,ucsd,27.0,Mathematics,5.0
-2020,ucsd,30.0,Social sciences,18.5
-2020,ucsd,38.0,Humanities,0.4
-2020,ucsd,40.0,Physical sciences,4.4
-2020,ucsd,42.0,Social sciences,5.5
-2020,ucsd,45.0,Social sciences,13.0
-2020,ucsd,50.0,Arts,2.6
-2020,ucsd,51.0,Health sciences,2.9
-2020,ucsd,52.0,Business,1.4
-2020,ucsd,54.0,Humanities,1.0
-2020,umich,11.0,Computer science,14.3
-2020,umich,13.0,Education,1.0
-2020,umich,14.0,Engineering,15.3
-2020,umich,16.0,Humanities,1.7
-2020,umich,23.0,Humanities,1.5
-2020,umich,24.0,Social sciences,0.9
-2020,umich,26.0,Biological sciences,8.7
-2020,umich,27.0,Mathematics,2.9
-2020,umich,3.0,Environmental sciences,1.4
-2020,umich,30.0,Social sciences,3.5
-2020,umich,31.0,Hospitality and recreation,3.5
-2020,umich,38.0,Humanities,0.4
-2020,umich,4.0,Architecture,0.9
-2020,umich,40.0,Physical sciences,1.5
-2020,umich,42.0,Social sciences,8.4
-2020,umich,44.0,Public administration,1.0
-2020,umich,45.0,Social sciences,11.9
-2020,umich,5.0,Social sciences,0.9
-2020,umich,50.0,Arts,4.8
-2020,umich,51.0,Health sciences,3.7
-2020,umich,52.0,Business,8.1
-2020,umich,54.0,Humanities,1.2
-2020,umich,9.0,Communication and media,2.7
-2020,wsu,1.0,Agriculture,4.0
-2020,wsu,4.0,Architecture,1.0
-2020,wsu,9.0,Communication and media,8.0
-2020,wsu,11.0,Computer science,3.0
-2020,wsu,13.0,Education,3.0
-2020,wsu,14.0,Engineering,11.0
-2020,wsu,15.0,Engineering,1.0
-2020,wsu,16.0,Humanities,1.0
-2020,wsu,19.0,Social sciences,4.0
-2020,wsu,23.0,Humanities,1.0
-2020,wsu,24.0,Social sciences,2.0
-2020,wsu,26.0,Biological sciences,7.0
-2020,wsu,27.0,Mathematics,1.0
-2020,wsu,30.0,Social sciences,1.0
-2020,wsu,31.0,Hospitality and recreation,3.0
-2020,wsu,40.0,Physical sciences,2.0
-2020,wsu,42.0,Social sciences,7.0
-2020,wsu,43.0,Public safety,2.0
-2020,wsu,45.0,Social sciences,10.0
-2020,wsu,50.0,Arts,1.0
-2020,wsu,51.0,Health sciences,6.0
-2020,wsu,52.0,Business,19.0
-2020,wsu,54.0,Humanities,1.0
-2021,asu,1.0,Agriculture,0.53
-2021,asu,10.0,Communication and media,0.02
-2021,asu,11.0,Computer science,2.04
-2021,asu,13.0,Education,9.16
-2021,asu,15.0,Engineering,1.83
-2021,asu,16.0,Humanities,0.55
-2021,asu,19.0,Social sciences,1.51
-2021,asu,23.0,Humanities,2.15
-2021,asu,24.0,Social sciences,0.39
-2021,asu,26.0,Biological sciences,3.39
-2021,asu,27.0,Mathematics,0.87
-2021,asu,3.0,Environmental sciences,2.82
-2021,asu,30.0,Social sciences,0.48
-2021,asu,31.0,Hospitality and recreation,6.57
-2021,asu,38.0,Humanities,0.48
-2021,asu,4.0,Architecture,0.23
-2021,asu,40.0,Physical sciences,2.04
-2021,asu,42.0,Social sciences,7.03
-2021,asu,43.0,Public safety,2.93
-2021,asu,44.0,Public administration,2.27
-2021,asu,45.0,Social sciences,5.88
-2021,asu,5.0,Social sciences,0.14
-2021,asu,50.0,Arts,6.34
-2021,asu,51.0,Health sciences,10.03
-2021,asu,52.0,Business,21.78
-2021,asu,54.0,Humanities,0.89
-2021,asu,9.0,Communication and media,7.65
-2021,caltech,11.0,Computer science,39.2
-2021,caltech,14.0,Engineering,28.6
-2021,caltech,26.0,Biological sciences,4.4
-2021,caltech,27.0,Mathematics,9.7
-2021,caltech,40.0,Physical sciences,17.6
-2021,caltech,45.0,Social sciences,0.4
-2021,colgate,3.0,Environmental sciences,0.0435
-2021,colgate,5.0,Social sciences,0.0301
-2021,colgate,11.0,Computer science,0.0491
-2021,colgate,13.0,Education,0.0223
-2021,colgate,16.0,Humanities,0.0513
-2021,colgate,23.0,Humanities,0.0603
-2021,colgate,24.0,Social sciences,0.0022
-2021,colgate,26.0,Biological sciences,0.1261
-2021,colgate,27.0,Mathematics,0.0301
-2021,colgate,30.0,Social sciences,0.0402
-2021,colgate,38.0,Humanities,0.0413
-2021,colgate,40.0,Physical sciences,0.0368
-2021,colgate,42.0,Social sciences,0.0625
-2021,colgate,45.0,Social sciences,0.306
-2021,colgate,50.0,Arts,0.0502
-2021,colgate,54.0,Humanities,0.048
-2021,dartmouth,3.0,Environmental sciences,3.0
-2021,dartmouth,5.0,Social sciences,6.0
-2021,dartmouth,11.0,Computer science,8.0
-2021,dartmouth,14.0,Engineering,8.0
-2021,dartmouth,16.0,Humanities,3.0
-2021,dartmouth,23.0,Humanities,4.0
-2021,dartmouth,26.0,Biological sciences,10.0
-2021,dartmouth,27.0,Mathematics,7.0
-2021,dartmouth,30.0,Social sciences,2.0
-2021,dartmouth,38.0,Humanities,2.0
-2021,dartmouth,40.0,Physical sciences,3.0
-2021,dartmouth,42.0,Social sciences,4.0
-2021,dartmouth,45.0,Social sciences,32.0
-2021,dartmouth,50.0,Arts,4.0
-2021,dartmouth,54.0,Humanities,4.0
-2021,george,5.0,Social sciences,1.9
-2021,george,11.0,Computer science,2.0
-2021,george,16.0,Humanities,3.5
-2021,george,23.0,Humanities,2.8
-2021,george,24.0,Social sciences,1.8
-2021,george,26.0,Biological sciences,5.7
-2021,george,27.0,Mathematics,2.2
-2021,george,30.0,Social sciences,7.2
-2021,george,38.0,Humanities,0.9
-2021,george,40.0,Physical sciences,1.4
-2021,george,42.0,Social sciences,4.5
-2021,george,45.0,Social sciences,38.8
-2021,george,50.0,Arts,1.2
-2021,george,51.0,Health sciences,4.6
-2021,george,52.0,Business,19.8
-2021,george,54.0,Humanities,1.7
-2021,ucsd,3.0,Environmental sciences,0.8
-2021,ucsd,4.0,Architecture,0.9
-2021,ucsd,5.0,Social sciences,0.4
-2021,ucsd,9.0,Communication and media,2.9
-2021,ucsd,11.0,Computer science,8.8
-2021,ucsd,13.0,Education,0.4
-2021,ucsd,14.0,Engineering,12.5
-2021,ucsd,16.0,Humanities,0.7
-2021,ucsd,19.0,Social sciences,0.9
-2021,ucsd,23.0,Humanities,1.0
-2021,ucsd,24.0,Social sciences,0.1
-2021,ucsd,26.0,Biological sciences,18.2
-2021,ucsd,27.0,Mathematics,4.4
-2021,ucsd,30.0,Social sciences,16.0
-2021,ucsd,38.0,Humanities,0.5
-2021,ucsd,40.0,Physical sciences,4.9
-2021,ucsd,42.0,Social sciences,6.3
-2021,ucsd,45.0,Social sciences,12.8
-2021,ucsd,50.0,Arts,2.3
-2021,ucsd,51.0,Health sciences,3.2
-2021,ucsd,52.0,Business,1.3
-2021,ucsd,54.0,Humanities,0.7
-2021,umich,11.0,Computer science,13.9
-2021,umich,13.0,Education,0.9
-2021,umich,14.0,Engineering,16.0
-2021,umich,16.0,Humanities,1.8
-2021,umich,23.0,Humanities,1.5
-2021,umich,24.0,Social sciences,0.8
-2021,umich,26.0,Biological sciences,9.2
-2021,umich,27.0,Mathematics,3.0
-2021,umich,3.0,Environmental sciences,1.5
-2021,umich,30.0,Social sciences,3.7
-2021,umich,31.0,Hospitality and recreation,3.3
-2021,umich,38.0,Humanities,0.5
-2021,umich,4.0,Architecture,0.7
-2021,umich,40.0,Physical sciences,1.5
-2021,umich,42.0,Social sciences,7.7
-2021,umich,44.0,Public administration,1.0
-2021,umich,45.0,Social sciences,11.2
-2021,umich,5.0,Social sciences,1.0
-2021,umich,50.0,Arts,4.9
-2021,umich,51.0,Health sciences,3.9
-2021,umich,52.0,Business,7.9
-2021,umich,54.0,Humanities,1.3
-2021,umich,9.0,Communication and media,2.9
-2021,wsu,1.0,Agriculture,4.0
-2021,wsu,4.0,Architecture,1.0
-2021,wsu,9.0,Communication and media,8.0
-2021,wsu,11.0,Computer science,3.0
-2021,wsu,13.0,Education,3.0
-2021,wsu,14.0,Engineering,11.0
-2021,wsu,15.0,Engineering,1.0
-2021,wsu,16.0,Humanities,1.0
-2021,wsu,19.0,Social sciences,4.0
-2021,wsu,23.0,Humanities,2.0
-2021,wsu,24.0,Social sciences,2.0
-2021,wsu,26.0,Biological sciences,7.0
-2021,wsu,27.0,Mathematics,1.0
-2021,wsu,30.0,Social sciences,1.0
-2021,wsu,31.0,Hospitality and recreation,2.0
-2021,wsu,38.0,Humanities,1.0
-2021,wsu,40.0,Physical sciences,2.0
-2021,wsu,42.0,Social sciences,8.0
-2021,wsu,45.0,Social sciences,12.0
-2021,wsu,50.0,Arts,1.0
-2021,wsu,51.0,Health sciences,6.0
-2021,wsu,52.0,Business,18.0
-2021,wsu,54.0,Humanities,1.0
-2022,asu,1.0,Agriculture,0.39
-2022,asu,10.0,Communication and media,0.16
-2022,asu,11.0,Computer science,1.55
-2022,asu,13.0,Education,9.32
-2022,asu,15.0,Engineering,1.29
-2022,asu,16.0,Humanities,0.67
-2022,asu,19.0,Social sciences,1.73
-2022,asu,23.0,Humanities,1.48
-2022,asu,24.0,Social sciences,0.37
-2022,asu,26.0,Biological sciences,3.62
-2022,asu,27.0,Mathematics,1.04
-2022,asu,3.0,Environmental sciences,2.74
-2022,asu,30.0,Social sciences,0.35
-2022,asu,31.0,Hospitality and recreation,8.79
-2022,asu,38.0,Humanities,0.62
-2022,asu,4.0,Architecture,0.12
-2022,asu,40.0,Physical sciences,2.24
-2022,asu,42.0,Social sciences,7.13
-2022,asu,43.0,Public safety,3.34
-2022,asu,44.0,Public administration,2.58
-2022,asu,45.0,Social sciences,5.83
-2022,asu,5.0,Social sciences,0.09
-2022,asu,50.0,Arts,5.72
-2022,asu,51.0,Health sciences,9.64
-2022,asu,52.0,Business,20.2
-2022,asu,54.0,Humanities,0.85
-2022,asu,9.0,Communication and media,8.14
-2022,caltech,11.0,Computer science,38.1
-2022,caltech,15.0,Engineering,29.8
-2022,caltech,26.0,Biological sciences,5.0
-2022,caltech,27.0,Mathematics,6.4
-2022,caltech,40.0,Physical sciences,19.7
-2022,caltech,52.0,Business,0.9
-2022,colgate,3.0,Environmental sciences,3.92
-2022,colgate,4.0,Architecture,2.23
-2022,colgate,11.0,Computer science,5.2
-2022,colgate,13.0,Education,1.9
-2022,colgate,16.0,Humanities,4.77
-2022,colgate,23.0,Humanities,3.82
-2022,colgate,24.0,Social sciences,0.32
-2022,colgate,27.0,Mathematics,4.03
-2022,colgate,30.0,Social sciences,3.08
-2022,colgate,38.0,Humanities,3.08
-2022,colgate,40.0,Physical sciences,5.09
-2022,colgate,42.0,Social sciences,7.85
-2022,colgate,45.0,Social sciences,35.3
-2022,colgate,50.0,Arts,5.3
-2022,colgate,54.0,Humanities,3.29
-2022,dartmouth,3.0,Environmental sciences,3.0
-2022,dartmouth,5.0,Social sciences,5.0
-2022,dartmouth,11.0,Computer science,10.0
-2022,dartmouth,14.0,Engineering,9.0
-2022,dartmouth,16.0,Humanities,2.0
-2022,dartmouth,23.0,Humanities,3.0
-2022,dartmouth,26.0,Biological sciences,7.0
-2022,dartmouth,27.0,Mathematics,9.0
-2022,dartmouth,30.0,Social sciences,3.0
-2022,dartmouth,38.0,Humanities,2.0
-2022,dartmouth,40.0,Physical sciences,2.0
-2022,dartmouth,42.0,Social sciences,6.0
-2022,dartmouth,45.0,Social sciences,32.0
-2022,dartmouth,50.0,Arts,5.0
-2022,dartmouth,54.0,Humanities,3.0
-2022,george,11.0,Computer science,1.68
-2022,george,16.0,Humanities,2.35
-2022,george,23.0,Humanities,3.53
-2022,george,24.0,Social sciences,1.01
-2022,george,26.0,Biological sciences,6.94
-2022,george,27.0,Mathematics,2.29
-2022,george,30.0,Social sciences,7.72
-2022,george,38.0,Humanities,0.95
-2022,george,40.0,Physical sciences,0.9
-2022,george,42.0,Social sciences,5.09
-2022,george,45.0,Social sciences,38.44
-2022,george,5.0,Social sciences,2.07
-2022,george,50.0,Arts,0.56
-2022,george,51.0,Health sciences,4.42
-2022,george,52.0,Business,20.09
-2022,george,54.0,Humanities,1.96
-2022,ucsd,3.0,Environmental sciences,1.0
-2022,ucsd,4.0,Architecture,0.9
-2022,ucsd,5.0,Social sciences,0.3
-2022,ucsd,9.0,Communication and media,2.8
-2022,ucsd,11.0,Computer science,8.6
-2022,ucsd,13.0,Education,0.5
-2022,ucsd,14.0,Engineering,11.7
-2022,ucsd,16.0,Humanities,0.7
-2022,ucsd,19.0,Social sciences,0.9
-2022,ucsd,23.0,Humanities,1.0
-2022,ucsd,26.0,Biological sciences,18.9
-2022,ucsd,27.0,Mathematics,4.3
-2022,ucsd,30.0,Social sciences,16.8
-2022,ucsd,38.0,Humanities,0.3
-2022,ucsd,40.0,Physical sciences,4.6
-2022,ucsd,42.0,Social sciences,7.6
-2022,ucsd,45.0,Social sciences,11.2
-2022,ucsd,50.0,Arts,2.1
-2022,ucsd,51.0,Health sciences,3.4
-2022,ucsd,52.0,Business,1.8
-2022,ucsd,54.0,Humanities,0.7
-2022,umich,11.0,Computer science,14.0
-2022,umich,13.0,Education,1.0
-2022,umich,14.0,Engineering,15.0
-2022,umich,16.0,Humanities,2.0
-2022,umich,23.0,Humanities,1.0
-2022,umich,24.0,Social sciences,1.0
-2022,umich,26.0,Biological sciences,10.0
-2022,umich,27.0,Mathematics,3.0
-2022,umich,3.0,Environmental sciences,1.0
-2022,umich,30.0,Social sciences,5.0
-2022,umich,31.0,Hospitality and recreation,3.0
-2022,umich,4.0,Architecture,1.0
-2022,umich,40.0,Physical sciences,2.0
-2022,umich,42.0,Social sciences,8.0
-2022,umich,44.0,Public administration,1.0
-2022,umich,45.0,Social sciences,11.0
-2022,umich,5.0,Social sciences,1.0
-2022,umich,50.0,Arts,5.0
-2022,umich,51.0,Health sciences,5.0
-2022,umich,52.0,Business,8.0
-2022,umich,54.0,Humanities,1.0
-2022,umich,9.0,Communication and media,3.0
-2022,wsu,1.0,Agriculture,3.0
-2022,wsu,4.0,Architecture,1.0
-2022,wsu,9.0,Communication and media,8.0
-2022,wsu,11.0,Computer science,3.0
-2022,wsu,13.0,Education,3.0
-2022,wsu,14.0,Engineering,10.0
-2022,wsu,15.0,Engineering,1.0
-2022,wsu,16.0,Humanities,1.0
-2022,wsu,19.0,Social sciences,3.0
-2022,wsu,23.0,Humanities,2.0
-2022,wsu,24.0,Social sciences,2.0
-2022,wsu,26.0,Biological sciences,9.0
-2022,wsu,27.0,Mathematics,1.0
-2022,wsu,30.0,Social sciences,1.0
-2022,wsu,31.0,Hospitality and recreation,2.0
-2022,wsu,40.0,Physical sciences,2.0
-2022,wsu,42.0,Social sciences,8.0
-2022,wsu,45.0,Social sciences,10.0
-2022,wsu,50.0,Arts,1.0
-2022,wsu,51.0,Health sciences,7.0
-2022,wsu,52.0,Business,21.0
-2022,wsu,54.0,Humanities,1.0
-2023,asu,1.0,Agriculture,0.07
-2023,asu,10.0,Communication and media,0.19
-2023,asu,11.0,Computer science,2.07
-2023,asu,13.0,Education,9.27
-2023,asu,15.0,Engineering,1.34
-2023,asu,16.0,Humanities,0.61
-2023,asu,19.0,Social sciences,1.44
-2023,asu,23.0,Humanities,1.75
-2023,asu,24.0,Social sciences,0.44
-2023,asu,26.0,Biological sciences,4.01
-2023,asu,27.0,Mathematics,0.88
-2023,asu,3.0,Environmental sciences,2.53
-2023,asu,30.0,Social sciences,0.39
-2023,asu,31.0,Hospitality and recreation,8.18
-2023,asu,38.0,Humanities,0.26
-2023,asu,4.0,Architecture,0.22
-2023,asu,40.0,Physical sciences,2.21
-2023,asu,42.0,Social sciences,7.71
-2023,asu,43.0,Public safety,3.48
-2023,asu,44.0,Public administration,2.51
-2023,asu,45.0,Social sciences,4.77
-2023,asu,5.0,Social sciences,0.14
-2023,asu,50.0,Arts,6.16
-2023,asu,51.0,Health sciences,8.88
-2023,asu,52.0,Business,22.9
-2023,asu,54.0,Humanities,1.46
-2023,asu,9.0,Communication and media,6.13
-2023,caltech,11.0,Computer science,30.5
-2023,caltech,14.0,Engineering,36.1
-2023,caltech,26.0,Biological sciences,6.0
-2023,caltech,27.0,Mathematics,10.7
-2023,caltech,40.0,Physical sciences,13.3
-2023,caltech,52.0,Humanities,0.4
-2023,colgate,3.0,Environmental sciences,0.0407
-2023,colgate,5.0,Social sciences,0.0193
-2023,colgate,11.0,Computer science,0.0665
-2023,colgate,13.0,Education,0.0214
-2023,colgate,16.0,Humanities,0.0289
-2023,colgate,23.0,Humanities,0.0418
-2023,colgate,24.0,Social sciences,0.0011
-2023,colgate,26.0,Biological sciences,0.1308
-2023,colgate,27.0,Mathematics,0.0204
-2023,colgate,30.0,Social sciences,0.0364
-2023,colgate,38.0,Humanities,0.0439
-2023,colgate,40.0,Physical sciences,0.0504
-2023,colgate,42.0,Social sciences,0.0665
-2023,colgate,45.0,Social sciences,0.343
-2023,colgate,50.0,Arts,0.0472
-2023,colgate,54.0,Humanities,0.0418
-2023,dartmouth,11.0,Computer science,9.2
-2023,dartmouth,14.0,Engineering,6.1
-2023,dartmouth,16.0,Humanities,3.5
-2023,dartmouth,23.0,Humanities,2.9
-2023,dartmouth,26.0,Biological sciences,8.5
-2023,dartmouth,27.0,Mathematics,8.0
-2023,dartmouth,30.0,Social sciences,9.1
-2023,dartmouth,38.0,Humanities,3.0
-2023,dartmouth,40.0,Physical sciences,3.9
-2023,dartmouth,42.0,Social sciences,3.4
-2023,dartmouth,45.0,Social sciences,30.7
-2023,dartmouth,5.0,Social sciences,4.6
-2023,dartmouth,50.0,Arts,4.3
-2023,dartmouth,54.0,Humanities,2.8
-2023,george,5.0,Social sciences,1.94
-2023,george,11.0,Computer science,2.32
-2023,george,16.0,Humanities,2.53
-2023,george,23.0,Humanities,2.32
-2023,george,24.0,Social sciences,1.29
-2023,george,26.0,Biological sciences,5.98
-2023,george,27.0,Mathematics,2.15
-2023,george,30.0,Social sciences,4.95
-2023,george,38.0,Humanities,0.92
-2023,george,40.0,Physical sciences,1.13
-2023,george,42.0,Social sciences,4.69
-2023,george,45.0,Social sciences,41.95
-2023,george,50.0,Arts,1.18
-2023,george,51.0,Health sciences,5.01
-2023,george,52.0,Business,19.92
-2023,george,54.0,Humanities,1.72
-2023,ucsd,11.0,Computer science,8.4
-2023,ucsd,13.0,Education,0.5
-2023,ucsd,14.0,Engineering,10.9
-2023,ucsd,16.0,Humanities,0.5
-2023,ucsd,19.0,Social sciences,0.6
-2023,ucsd,23.0,Humanities,1.0
-2023,ucsd,26.0,Biological sciences,19.5
-2023,ucsd,27.0,Mathematics,4.3
-2023,ucsd,3.0,Environmental sciences,1.0
-2023,ucsd,30.0,Social sciences,15.9
-2023,ucsd,38.0,Humanities,0.4
-2023,ucsd,4.0,Architecture,1.0
-2023,ucsd,40.0,Physical sciences,3.6
-2023,ucsd,42.0,Social sciences,8.7
-2023,ucsd,45.0,Social sciences,10.3
-2023,ucsd,5.0,Social sciences,0.3
-2023,ucsd,50.0,Arts,2.8
-2023,ucsd,51.0,Health sciences,3.6
-2023,ucsd,52.0,Business,3.3
-2023,ucsd,54.0,Humanities,0.7
-2023,ucsd,9.0,Communication and media,2.6
-2023,umich,11.0,Computer science,16.0
-2023,umich,13.0,Education,1.0
-2023,umich,14.0,Engineering,14.0
-2023,umich,16.0,Humanities,1.0
-2023,umich,23.0,Humanities,1.0
-2023,umich,24.0,Social sciences,1.0
-2023,umich,26.0,Biological sciences,9.0
-2023,umich,27.0,Mathematics,3.0
-2023,umich,3.0,Environmental sciences,1.0
-2023,umich,30.0,Social sciences,5.0
-2023,umich,31.0,Hospitality and recreation,3.0
-2023,umich,4.0,Architecture,1.0
-2023,umich,40.0,Physical sciences,2.0
-2023,umich,42.0,Social sciences,8.0
-2023,umich,44.0,Public administration,1.0
-2023,umich,45.0,Social sciences,11.0
-2023,umich,5.0,Social sciences,1.0
-2023,umich,50.0,Arts,5.0
-2023,umich,51.0,Health sciences,4.0
-2023,umich,52.0,Business,8.0
-2023,umich,54.0,Humanities,1.0
-2023,umich,9.0,Communication and media,2.0
-2023,wsu,1.0,Agriculture,3.0
-2023,wsu,11.0,Computer science,5.0
-2023,wsu,13.0,Education,4.0
-2023,wsu,14.0,Engineering,8.0
-2023,wsu,15.0,Engineering,1.0
-2023,wsu,19.0,Social sciences,3.0
-2023,wsu,23.0,Humanities,2.0
-2023,wsu,24.0,Social sciences,1.0
-2023,wsu,26.0,Biological sciences,9.0
-2023,wsu,27.0,Mathematics,1.0
-2023,wsu,30.0,Social sciences,2.0
-2023,wsu,31.0,Hospitality and recreation,1.0
-2023,wsu,4.0,Architecture,1.0
-2023,wsu,40.0,Physical sciences,3.0
-2023,wsu,42.0,Social sciences,9.0
-2023,wsu,45.0,Social sciences,11.0
-2023,wsu,50.0,Arts,1.0
-2023,wsu,51.0,Health sciences,7.0
-2023,wsu,52.0,Business,18.0
-2023,wsu,54.0,Humanities,1.0
-2023,wsu,9.0,Communication and media,8.0
+Year,College,Category,Bachelor’s
+2014,asu,Computer science,1.0
+2014,asu,Education,13.8
+2014,asu,Engineering,1.9
+2014,asu,Humanities,5.5
+2014,asu,Social sciences,17.0
+2014,asu,Biological sciences,3.7
+2014,asu,Mathematics,0.6
+2014,asu,Environmental sciences,2.6
+2014,asu,Hospitality and recreation,6.7
+2014,asu,Architecture,0.3
+2014,asu,Physical sciences,2.5
+2014,asu,Public safety,4.0
+2014,asu,Public administration,1.8
+2014,asu,Arts,6.1
+2014,asu,Health sciences,8.8
+2014,asu,Business,17.6
+2014,asu,Communication and media,6.2
+2014,caltech,Biological sciences,13.0
+2014,caltech,Business,1.0
+2014,caltech,Computer science,18.0
+2014,caltech,Engineering,36.0
+2014,caltech,Mathematics,11.0
+2014,caltech,Physical sciences,22.0
+2014,colgate,Computer science,1.74
+2014,colgate,Education,1.53
+2014,colgate,Humanities,26.39
+2014,colgate,Biological sciences,9.71
+2014,colgate,Mathematics,2.4
+2014,colgate,Environmental sciences,3.16
+2014,colgate,Social sciences,45.69
+2014,colgate,Physical sciences,5.02
+2014,colgate,Arts,4.36
+2014,dartmouth,Computer science,4.0
+2014,dartmouth,Engineering,8.0
+2014,dartmouth,Humanities,17.0
+2014,dartmouth,Biological sciences,10.0
+2014,dartmouth,Mathematics,4.0
+2014,dartmouth,Environmental sciences,4.0
+2014,dartmouth,Social sciences,45.0
+2014,dartmouth,Physical sciences,4.0
+2014,dartmouth,Arts,5.0
+2014,george,Computer science,0.73
+2014,george,Humanities,14.309999999999999
+2014,george,Social sciences,44.660000000000004
+2014,george,Biological sciences,4.91
+2014,george,Mathematics,1.95
+2014,george,Physical sciences,0.91
+2014,george,Arts,2.27
+2014,george,Health sciences,6.91
+2014,george,Business,23.35
+2014,ucsd,Engineering,14.0
+2014,ucsd,Biological sciences,22.0
+2014,ucsd,Social sciences,16.0
+2014,ucsd,Other,48.0
+2014,umich,Computer science,4.1
+2014,umich,Education,1.2
+2014,umich,Engineering,16.0
+2014,umich,Humanities,10.399999999999999
+2014,umich,Social sciences,31.099999999999998
+2014,umich,Biological sciences,9.7
+2014,umich,Mathematics,3.0
+2014,umich,Environmental sciences,1.4
+2014,umich,Hospitality and recreation,2.8
+2014,umich,Architecture,0.9
+2014,umich,Physical sciences,1.4
+2014,umich,Public administration,0.8
+2014,umich,Arts,5.4
+2014,umich,Health sciences,3.1
+2014,umich,Business,5.9
+2014,umich,Communication and media,2.8
+2014,wsu,Agriculture,3.0
+2014,wsu,Computer science,1.0
+2014,wsu,Education,3.0
+2014,wsu,Engineering,10.0
+2014,wsu,Humanities,6.0
+2014,wsu,Social sciences,26.0
+2014,wsu,Biological sciences,6.0
+2014,wsu,Mathematics,1.0
+2014,wsu,Environmental sciences,1.0
+2014,wsu,Hospitality and recreation,3.0
+2014,wsu,Architecture,1.0
+2014,wsu,Physical sciences,1.0
+2014,wsu,Public safety,3.0
+2014,wsu,Arts,1.0
+2014,wsu,Health sciences,8.0
+2014,wsu,Business,18.0
+2014,wsu,Communication and media,8.0
+2015,asu,Agriculture,0.16
+2015,asu,Computer science,1.24
+2015,asu,Education,11.5
+2015,asu,Engineering,1.52
+2015,asu,Humanities,5.25
+2015,asu,Social sciences,15.85
+2015,asu,Biological sciences,3.36
+2015,asu,Mathematics,0.83
+2015,asu,Environmental sciences,2.33
+2015,asu,Hospitality and recreation,7.32
+2015,asu,Architecture,0.28
+2015,asu,Physical sciences,2.59
+2015,asu,Public safety,4.14
+2015,asu,Public administration,2.87
+2015,asu,Arts,6.9
+2015,asu,Health sciences,9.07
+2015,asu,Business,18.38
+2015,asu,Communication and media,6.41
+2015,caltech,Computer science,21.0
+2015,caltech,Engineering,35.0
+2015,caltech,Biological sciences,8.0
+2015,caltech,Mathematics,12.0
+2015,caltech,Physical sciences,22.5
+2015,caltech,Social sciences,0.5
+2015,caltech,Business,1.0
+2015,colgate,Computer science,2.6
+2015,colgate,Education,1.7
+2015,colgate,Humanities,23.8
+2015,colgate,Biological sciences,14.5
+2015,colgate,Mathematics,1.9
+2015,colgate,Environmental sciences,3.7
+2015,colgate,Social sciences,44.3
+2015,colgate,Physical sciences,4.8
+2015,colgate,Arts,2.7
+2015,dartmouth,Computer science,4.0
+2015,dartmouth,Engineering,6.0
+2015,dartmouth,Humanities,15.0
+2015,dartmouth,Biological sciences,12.0
+2015,dartmouth,Mathematics,2.0
+2015,dartmouth,Environmental sciences,2.0
+2015,dartmouth,Social sciences,50.0
+2015,dartmouth,Physical sciences,3.0
+2015,dartmouth,Arts,5.0
+2015,george,Computer science,0.72
+2015,george,Humanities,11.58
+2015,george,Social sciences,48.15
+2015,george,Biological sciences,4.82
+2015,george,Mathematics,1.85
+2015,george,Physical sciences,0.63
+2015,george,Arts,1.89
+2015,george,Health sciences,5.46
+2015,george,Business,24.93
+2015,ucsd,Computer science,7.0
+2015,ucsd,Biological sciences,18.0
+2015,ucsd,Social sciences,27.0
+2015,ucsd,Other,48.0
+2015,umich,Computer science,5.4
+2015,umich,Education,1.1
+2015,umich,Engineering,14.9
+2015,umich,Humanities,10.8
+2015,umich,Social sciences,30.5
+2015,umich,Biological sciences,9.1
+2015,umich,Mathematics,3.3
+2015,umich,Environmental sciences,1.4
+2015,umich,Hospitality and recreation,2.9
+2015,umich,Architecture,0.9
+2015,umich,Physical sciences,1.6
+2015,umich,Public administration,0.8
+2015,umich,Arts,5.7
+2015,umich,Health sciences,2.1
+2015,umich,Business,6.6
+2015,umich,Communication and media,3.1
+2015,wsu,Agriculture,3.0
+2015,wsu,Computer science,2.0
+2015,wsu,Education,3.0
+2015,wsu,Engineering,11.0
+2015,wsu,Humanities,4.0
+2015,wsu,Social sciences,25.0
+2015,wsu,Biological sciences,6.0
+2015,wsu,Mathematics,1.0
+2015,wsu,Environmental sciences,1.0
+2015,wsu,Hospitality and recreation,4.0
+2015,wsu,Architecture,1.0
+2015,wsu,Physical sciences,1.0
+2015,wsu,Public safety,3.0
+2015,wsu,Arts,2.0
+2015,wsu,Health sciences,7.0
+2015,wsu,Business,20.0
+2015,wsu,Communication and media,8.0
+2016,asu,Agriculture,0.4
+2016,asu,Computer science,1.4
+2016,asu,Education,10.5
+2016,asu,Engineering,1.4
+2016,asu,Humanities,4.8
+2016,asu,Social sciences,14.5
+2016,asu,Biological sciences,3.2
+2016,asu,Mathematics,0.9
+2016,asu,Environmental sciences,2.7
+2016,asu,Hospitality and recreation,7.4
+2016,asu,Architecture,0.2
+2016,asu,Physical sciences,2.6
+2016,asu,Public safety,4.1
+2016,asu,Public administration,2.6
+2016,asu,Arts,6.2
+2016,asu,Health sciences,10.7
+2016,asu,Business,18.6
+2016,asu,Communication and media,7.9
+2016,caltech,Computer science,23.0
+2016,caltech,Engineering,37.0
+2016,caltech,Humanities,0.8
+2016,caltech,Biological sciences,7.0
+2016,caltech,Mathematics,14.0
+2016,caltech,Physical sciences,18.0
+2016,caltech,Social sciences,0.4
+2016,caltech,Business,0.4
+2016,colgate,Computer science,3.71
+2016,colgate,Education,1.32
+2016,colgate,Humanities,21.08
+2016,colgate,Biological sciences,12.1
+2016,colgate,Mathematics,2.16
+2016,colgate,Environmental sciences,4.31
+2016,colgate,Social sciences,46.22
+2016,colgate,Physical sciences,5.99
+2016,colgate,Arts,3.11
+2016,dartmouth,Computer science,5.0
+2016,dartmouth,Engineering,8.0
+2016,dartmouth,Humanities,16.0
+2016,dartmouth,Biological sciences,10.0
+2016,dartmouth,Mathematics,4.0
+2016,dartmouth,Environmental sciences,3.0
+2016,dartmouth,Social sciences,47.0
+2016,dartmouth,Physical sciences,4.0
+2016,dartmouth,Arts,4.0
+2016,george,Computer science,1.4
+2016,george,Humanities,12.3
+2016,george,Social sciences,51.8
+2016,george,Biological sciences,5.9
+2016,george,Mathematics,1.2
+2016,george,Physical sciences,1.0
+2016,george,Arts,1.8
+2016,george,Health sciences,6.2
+2016,george,Business,18.4
+2016,ucsd,Engineering,9.0
+2016,ucsd,Biological sciences,21.0
+2016,ucsd,Social sciences,19.0
+2016,ucsd,Communication and media,5.0
+2016,ucsd,Other,46.0
+2016,umich,Computer science,7.4
+2016,umich,Education,1.1
+2016,umich,Engineering,15.7
+2016,umich,Humanities,8.8
+2016,umich,Social sciences,29.0
+2016,umich,Biological sciences,8.5
+2016,umich,Mathematics,3.3
+2016,umich,Environmental sciences,1.5
+2016,umich,Hospitality and recreation,2.8
+2016,umich,Architecture,0.7
+2016,umich,Physical sciences,2.0
+2016,umich,Public administration,0.8
+2016,umich,Arts,5.9
+2016,umich,Health sciences,2.6
+2016,umich,Business,6.8
+2016,umich,Communication and media,2.9
+2016,wsu,Agriculture,3.0
+2016,wsu,Computer science,2.0
+2016,wsu,Education,3.0
+2016,wsu,Engineering,11.0
+2016,wsu,Humanities,4.0
+2016,wsu,Social sciences,26.0
+2016,wsu,Biological sciences,6.0
+2016,wsu,Mathematics,1.0
+2016,wsu,Environmental sciences,1.0
+2016,wsu,Hospitality and recreation,3.0
+2016,wsu,Architecture,1.0
+2016,wsu,Physical sciences,2.0
+2016,wsu,Public safety,3.0
+2016,wsu,Arts,1.0
+2016,wsu,Health sciences,8.0
+2016,wsu,Business,20.0
+2016,wsu,Communication and media,7.0
+2017,asu,Agriculture,0.6
+2017,asu,Computer science,1.68
+2017,asu,Education,10.69
+2017,asu,Engineering,1.46
+2017,asu,Humanities,4.85
+2017,asu,Social sciences,14.05
+2017,asu,Biological sciences,4.06
+2017,asu,Mathematics,0.84
+2017,asu,Environmental sciences,2.31
+2017,asu,Hospitality and recreation,7.16
+2017,asu,Architecture,0.14
+2017,asu,Physical sciences,3.34
+2017,asu,Public safety,3.84
+2017,asu,Public administration,2.04
+2017,asu,Arts,5.21
+2017,asu,Health sciences,11.34
+2017,asu,Business,19.48
+2017,asu,Communication and media,6.92
+2017,caltech,Computer science,26.0
+2017,caltech,Engineering,36.0
+2017,caltech,Humanities,0.4
+2017,caltech,Biological sciences,5.0
+2017,caltech,Mathematics,11.0
+2017,caltech,Physical sciences,20.0
+2017,caltech,Business,2.0
+2017,colgate,Computer science,3.74
+2017,colgate,Education,3.17
+2017,colgate,Humanities,20.19
+2017,colgate,Biological sciences,12.59
+2017,colgate,Mathematics,2.27
+2017,colgate,Environmental sciences,4.42
+2017,colgate,Social sciences,44.56
+2017,colgate,Physical sciences,5.1
+2017,colgate,Arts,3.97
+2017,dartmouth,Computer science,8.0
+2017,dartmouth,Engineering,8.0
+2017,dartmouth,Humanities,13.0
+2017,dartmouth,Biological sciences,9.0
+2017,dartmouth,Mathematics,3.0
+2017,dartmouth,Environmental sciences,3.0
+2017,dartmouth,Social sciences,47.0
+2017,dartmouth,Physical sciences,4.0
+2017,dartmouth,Arts,5.0
+2017,george,Computer science,1.5709
+2017,george,Humanities,12.5224
+2017,george,Social sciences,46.6786
+2017,george,Biological sciences,4.6679
+2017,george,Mathematics,2.1993
+2017,george,Physical sciences,0.7181
+2017,george,Arts,1.8851
+2017,george,Health sciences,3.5907
+2017,george,Business,26.167
+2017,ucsd,Engineering,27.0
+2017,ucsd,Humanities,3.0
+2017,ucsd,Biological sciences,21.0
+2017,ucsd,Mathematics,4.0
+2017,ucsd,Physical sciences,3.0
+2017,ucsd,Social sciences,32.0
+2017,ucsd,Arts,3.0
+2017,ucsd,Health sciences,3.0
+2017,ucsd,Communication and media,4.0
+2017,umich,Computer science,8.6
+2017,umich,Education,1.0
+2017,umich,Engineering,17.1
+2017,umich,Humanities,6.199999999999999
+2017,umich,Social sciences,26.599999999999998
+2017,umich,Biological sciences,9.4
+2017,umich,Mathematics,3.2
+2017,umich,Environmental sciences,1.3
+2017,umich,Hospitality and recreation,3.7
+2017,umich,Architecture,0.8
+2017,umich,Physical sciences,1.7
+2017,umich,Public administration,1.0
+2017,umich,Arts,5.3
+2017,umich,Health sciences,3.0
+2017,umich,Business,7.6
+2017,umich,Communication and media,3.3
+2017,wsu,Agriculture,3.0
+2017,wsu,Computer science,2.0
+2017,wsu,Education,3.0
+2017,wsu,Engineering,11.0
+2017,wsu,Humanities,3.0
+2017,wsu,Social sciences,25.0
+2017,wsu,Biological sciences,6.0
+2017,wsu,Mathematics,1.0
+2017,wsu,Hospitality and recreation,3.0
+2017,wsu,Architecture,1.0
+2017,wsu,Physical sciences,2.0
+2017,wsu,Public safety,3.0
+2017,wsu,Arts,1.0
+2017,wsu,Health sciences,7.0
+2017,wsu,Business,21.0
+2017,wsu,Communication and media,8.0
+2018,asu,Agriculture,0.58
+2018,asu,Computer science,1.53
+2018,asu,Education,9.17
+2018,asu,Engineering,0.94
+2018,asu,Humanities,4.42
+2018,asu,Social sciences,15.399999999999999
+2018,asu,Biological sciences,4.02
+2018,asu,Mathematics,0.7
+2018,asu,Environmental sciences,2.37
+2018,asu,Hospitality and recreation,7.26
+2018,asu,Architecture,0.12
+2018,asu,Physical sciences,1.98
+2018,asu,Public safety,3.34
+2018,asu,Public administration,2.03
+2018,asu,Arts,6.08
+2018,asu,Health sciences,11.64
+2018,asu,Business,20.6
+2018,asu,Communication and media,7.79
+2018,caltech,Computer science,25.0
+2018,caltech,Engineering,37.0
+2018,caltech,Biological sciences,5.0
+2018,caltech,Mathematics,5.0
+2018,caltech,Physical sciences,26.0
+2018,caltech,Social sciences,1.0
+2018,caltech,Business,1.0
+2018,colgate,Computer science,4.98
+2018,colgate,Education,2.73
+2018,colgate,Humanities,19.93
+2018,colgate,Biological sciences,15.18
+2018,colgate,Mathematics,2.49
+2018,colgate,Environmental sciences,3.44
+2018,colgate,Social sciences,43.410000000000004
+2018,colgate,Physical sciences,4.86
+2018,colgate,Arts,2.97
+2018,dartmouth,Computer science,7.0
+2018,dartmouth,Engineering,8.0
+2018,dartmouth,Humanities,15.0
+2018,dartmouth,Biological sciences,8.0
+2018,dartmouth,Mathematics,4.0
+2018,dartmouth,Environmental sciences,3.0
+2018,dartmouth,Social sciences,45.0
+2018,dartmouth,Physical sciences,5.0
+2018,dartmouth,Arts,5.0
+2018,george,Computer science,1.65
+2018,george,Humanities,12.67
+2018,george,Social sciences,48.28
+2018,george,Biological sciences,4.57
+2018,george,Mathematics,1.55
+2018,george,Physical sciences,0.73
+2018,george,Arts,1.78
+2018,george,Health sciences,3.2
+2018,george,Business,25.56
+2018,ucsd,Engineering,23.0
+2018,ucsd,Humanities,3.0
+2018,ucsd,Biological sciences,21.0
+2018,ucsd,Mathematics,8.0
+2018,ucsd,Physical sciences,4.0
+2018,ucsd,Social sciences,32.0
+2018,ucsd,Arts,3.0
+2018,ucsd,Health sciences,3.0
+2018,ucsd,Communication and media,3.0
+2018,umich,Computer science,10.7
+2018,umich,Education,0.9
+2018,umich,Engineering,15.9
+2018,umich,Humanities,5.6
+2018,umich,Social sciences,26.7
+2018,umich,Biological sciences,9.2
+2018,umich,Mathematics,2.8
+2018,umich,Environmental sciences,1.2
+2018,umich,Hospitality and recreation,3.7
+2018,umich,Architecture,0.6
+2018,umich,Physical sciences,1.8
+2018,umich,Public administration,1.0
+2018,umich,Arts,5.2
+2018,umich,Health sciences,3.3
+2018,umich,Business,7.9
+2018,umich,Communication and media,3.3
+2018,wsu,Agriculture,3.0
+2018,wsu,Computer science,3.0
+2018,wsu,Education,3.0
+2018,wsu,Engineering,11.0
+2018,wsu,Social sciences,24.0
+2018,wsu,Humanities,3.0
+2018,wsu,Biological sciences,6.0
+2018,wsu,Mathematics,1.0
+2018,wsu,Hospitality and recreation,3.0
+2018,wsu,Architecture,1.0
+2018,wsu,Physical sciences,2.0
+2018,wsu,Public safety,3.0
+2018,wsu,Arts,1.0
+2018,wsu,Health sciences,8.0
+2018,wsu,Business,21.0
+2018,wsu,Communication and media,7.0
+2019,asu,Agriculture,0.5
+2019,asu,Computer science,1.94
+2019,asu,Education,9.23
+2019,asu,Engineering,1.56
+2019,asu,Humanities,4.7
+2019,asu,Social sciences,14.430000000000001
+2019,asu,Biological sciences,3.57
+2019,asu,Mathematics,1.03
+2019,asu,Environmental sciences,2.68
+2019,asu,Hospitality and recreation,6.69
+2019,asu,Architecture,0.24
+2019,asu,Physical sciences,2.66
+2019,asu,Public safety,2.64
+2019,asu,Public administration,2.52
+2019,asu,Arts,6.52
+2019,asu,Health sciences,10.59
+2019,asu,Business,20.76
+2019,asu,Communication and media,7.74
+2019,caltech,Computer science,27.0
+2019,caltech,Engineering,35.0
+2019,caltech,Biological sciences,5.0
+2019,caltech,Mathematics,10.0
+2019,caltech,Physical sciences,22.0
+2019,caltech,Business,1.0
+2019,colgate,Computer science,4.6
+2019,colgate,Education,3.2
+2019,colgate,Humanities,17.1
+2019,colgate,Social sciences,46.4
+2019,colgate,Biological sciences,12.0
+2019,colgate,Mathematics,2.6
+2019,colgate,Environmental sciences,4.0
+2019,colgate,Physical sciences,6.3
+2019,colgate,Arts,3.8
+2019,dartmouth,Computer science,7.0
+2019,dartmouth,Engineering,9.0
+2019,dartmouth,Humanities,13.0
+2019,dartmouth,Biological sciences,8.0
+2019,dartmouth,Mathematics,6.0
+2019,dartmouth,Environmental sciences,3.0
+2019,dartmouth,Social sciences,46.0
+2019,dartmouth,Physical sciences,3.0
+2019,dartmouth,Arts,5.0
+2019,george,Computer science,2.17
+2019,george,Humanities,11.250000000000002
+2019,george,Social sciences,47.16
+2019,george,Biological sciences,4.15
+2019,george,Mathematics,2.81
+2019,george,Physical sciences,1.29
+2019,george,Arts,1.38
+2019,george,Health sciences,3.6
+2019,george,Business,26.19
+2019,ucsd,Engineering,18.0
+2019,ucsd,Humanities,2.0
+2019,ucsd,Biological sciences,20.0
+2019,ucsd,Mathematics,10.0
+2019,ucsd,Physical sciences,15.0
+2019,ucsd,Social sciences,25.0
+2019,ucsd,Arts,3.0
+2019,ucsd,Health sciences,3.0
+2019,ucsd,Communication and media,3.0
+2019,ucsd,Other,1.0
+2019,umich,Computer science,12.1
+2019,umich,Education,0.8
+2019,umich,Engineering,16.1
+2019,umich,Humanities,5.4
+2019,umich,Social sciences,24.200000000000003
+2019,umich,Biological sciences,8.8
+2019,umich,Mathematics,2.4
+2019,umich,Environmental sciences,1.4
+2019,umich,Hospitality and recreation,3.4
+2019,umich,Architecture,0.9
+2019,umich,Physical sciences,1.7
+2019,umich,Public administration,1.0
+2019,umich,Arts,5.2
+2019,umich,Health sciences,4.3
+2019,umich,Business,9.2
+2019,umich,Communication and media,3.2
+2019,wsu,Agriculture,3.0
+2019,wsu,Computer science,3.0
+2019,wsu,Education,3.0
+2019,wsu,Engineering,11.0
+2019,wsu,Humanities,3.0
+2019,wsu,Social sciences,25.0
+2019,wsu,Biological sciences,6.0
+2019,wsu,Mathematics,1.0
+2019,wsu,Hospitality and recreation,3.0
+2019,wsu,Architecture,1.0
+2019,wsu,Physical sciences,3.0
+2019,wsu,Public safety,3.0
+2019,wsu,Arts,1.0
+2019,wsu,Health sciences,7.0
+2019,wsu,Business,20.0
+2019,wsu,Communication and media,7.0
+2020,asu,Agriculture,0.42
+2020,asu,Environmental sciences,2.4
+2020,asu,Architecture,0.12
+2020,asu,Social sciences,14.55
+2020,asu,Communication and media,7.59
+2020,asu,Computer science,1.64
+2020,asu,Education,8.26
+2020,asu,Engineering,1.5
+2020,asu,Humanities,4.52
+2020,asu,Biological sciences,4.34
+2020,asu,Mathematics,0.9
+2020,asu,Hospitality and recreation,8.48
+2020,asu,Physical sciences,2.38
+2020,asu,Public safety,2.93
+2020,asu,Public administration,2.05
+2020,asu,Arts,6.44
+2020,asu,Health sciences,10.36
+2020,asu,Business,21.12
+2020,caltech,Computer science,35.27
+2020,caltech,Engineering,25.6
+2020,caltech,Biological sciences,6.76
+2020,caltech,Mathematics,7.73
+2020,caltech,Social sciences,0.48
+2020,caltech,Physical sciences,24.15
+2020,colgate,Environmental sciences,3.2
+2020,colgate,Social sciences,44.5
+2020,colgate,Computer science,6.0
+2020,colgate,Education,2.5
+2020,colgate,Humanities,18.25
+2020,colgate,Biological sciences,12.6
+2020,colgate,Mathematics,3.3000000000000003
+2020,colgate,Physical sciences,4.65
+2020,colgate,Arts,5.0
+2020,dartmouth,Environmental sciences,3.0
+2020,dartmouth,Social sciences,45.0
+2020,dartmouth,Computer science,8.0
+2020,dartmouth,Engineering,9.0
+2020,dartmouth,Humanities,11.0
+2020,dartmouth,Biological sciences,8.0
+2020,dartmouth,Mathematics,7.0
+2020,dartmouth,Physical sciences,4.0
+2020,dartmouth,Arts,5.0
+2020,george,Computer science,2.4
+2020,george,Humanities,10.8
+2020,george,Social sciences,48.099999999999994
+2020,george,Biological sciences,4.5
+2020,george,Mathematics,2.9
+2020,george,Physical sciences,0.9
+2020,george,Arts,1.3
+2020,george,Health sciences,3.7
+2020,george,Business,25.4
+2020,ucsd,Environmental sciences,0.9
+2020,ucsd,Architecture,0.6
+2020,ucsd,Social sciences,38.2
+2020,ucsd,Communication and media,2.9
+2020,ucsd,Computer science,6.3
+2020,ucsd,Education,0.2
+2020,ucsd,Engineering,11.9
+2020,ucsd,Humanities,3.1
+2020,ucsd,Biological sciences,19.6
+2020,ucsd,Mathematics,5.0
+2020,ucsd,Physical sciences,4.4
+2020,ucsd,Arts,2.6
+2020,ucsd,Health sciences,2.9
+2020,ucsd,Business,1.4
+2020,umich,Computer science,14.3
+2020,umich,Education,1.0
+2020,umich,Engineering,15.3
+2020,umich,Humanities,4.8
+2020,umich,Social sciences,25.6
+2020,umich,Biological sciences,8.7
+2020,umich,Mathematics,2.9
+2020,umich,Environmental sciences,1.4
+2020,umich,Hospitality and recreation,3.5
+2020,umich,Architecture,0.9
+2020,umich,Physical sciences,1.5
+2020,umich,Public administration,1.0
+2020,umich,Arts,4.8
+2020,umich,Health sciences,3.7
+2020,umich,Business,8.1
+2020,umich,Communication and media,2.7
+2020,wsu,Agriculture,4.0
+2020,wsu,Architecture,1.0
+2020,wsu,Communication and media,8.0
+2020,wsu,Computer science,3.0
+2020,wsu,Education,3.0
+2020,wsu,Engineering,12.0
+2020,wsu,Humanities,3.0
+2020,wsu,Social sciences,24.0
+2020,wsu,Biological sciences,7.0
+2020,wsu,Mathematics,1.0
+2020,wsu,Hospitality and recreation,3.0
+2020,wsu,Physical sciences,2.0
+2020,wsu,Public safety,2.0
+2020,wsu,Arts,1.0
+2020,wsu,Health sciences,6.0
+2020,wsu,Business,19.0
+2021,asu,Agriculture,0.53
+2021,asu,Communication and media,7.67
+2021,asu,Computer science,2.04
+2021,asu,Education,9.16
+2021,asu,Engineering,1.83
+2021,asu,Humanities,4.07
+2021,asu,Social sciences,15.43
+2021,asu,Biological sciences,3.39
+2021,asu,Mathematics,0.87
+2021,asu,Environmental sciences,2.82
+2021,asu,Hospitality and recreation,6.57
+2021,asu,Architecture,0.23
+2021,asu,Physical sciences,2.04
+2021,asu,Public safety,2.93
+2021,asu,Public administration,2.27
+2021,asu,Arts,6.34
+2021,asu,Health sciences,10.03
+2021,asu,Business,21.78
+2021,caltech,Computer science,39.2
+2021,caltech,Engineering,28.6
+2021,caltech,Biological sciences,4.4
+2021,caltech,Mathematics,9.7
+2021,caltech,Physical sciences,17.6
+2021,caltech,Social sciences,0.4
+2021,colgate,Environmental sciences,4.35
+2021,colgate,Social sciences,44.1
+2021,colgate,Computer science,4.91
+2021,colgate,Education,2.23
+2021,colgate,Humanities,20.09
+2021,colgate,Biological sciences,12.61
+2021,colgate,Mathematics,3.01
+2021,colgate,Physical sciences,3.68
+2021,colgate,Arts,5.0200000000000005
+2021,dartmouth,Environmental sciences,3.0
+2021,dartmouth,Social sciences,44.0
+2021,dartmouth,Computer science,8.0
+2021,dartmouth,Engineering,8.0
+2021,dartmouth,Humanities,13.0
+2021,dartmouth,Biological sciences,10.0
+2021,dartmouth,Mathematics,7.0
+2021,dartmouth,Physical sciences,3.0
+2021,dartmouth,Arts,4.0
+2021,george,Social sciences,54.199999999999996
+2021,george,Computer science,2.0
+2021,george,Humanities,8.9
+2021,george,Biological sciences,5.7
+2021,george,Mathematics,2.2
+2021,george,Physical sciences,1.4
+2021,george,Arts,1.2
+2021,george,Health sciences,4.6
+2021,george,Business,19.8
+2021,ucsd,Environmental sciences,0.8
+2021,ucsd,Architecture,0.9
+2021,ucsd,Social sciences,36.5
+2021,ucsd,Communication and media,2.9
+2021,ucsd,Computer science,8.8
+2021,ucsd,Education,0.4
+2021,ucsd,Engineering,12.5
+2021,ucsd,Humanities,2.9000000000000004
+2021,ucsd,Biological sciences,18.2
+2021,ucsd,Mathematics,4.4
+2021,ucsd,Physical sciences,4.9
+2021,ucsd,Arts,2.3
+2021,ucsd,Health sciences,3.2
+2021,ucsd,Business,1.3
+2021,umich,Computer science,13.9
+2021,umich,Education,0.9
+2021,umich,Engineering,16.0
+2021,umich,Humanities,5.1
+2021,umich,Social sciences,24.4
+2021,umich,Biological sciences,9.2
+2021,umich,Mathematics,3.0
+2021,umich,Environmental sciences,1.5
+2021,umich,Hospitality and recreation,3.3
+2021,umich,Architecture,0.7
+2021,umich,Physical sciences,1.5
+2021,umich,Public administration,1.0
+2021,umich,Arts,4.9
+2021,umich,Health sciences,3.9
+2021,umich,Business,7.9
+2021,umich,Communication and media,2.9
+2021,wsu,Agriculture,4.0
+2021,wsu,Architecture,1.0
+2021,wsu,Communication and media,8.0
+2021,wsu,Computer science,3.0
+2021,wsu,Education,3.0
+2021,wsu,Engineering,12.0
+2021,wsu,Humanities,5.0
+2021,wsu,Social sciences,27.0
+2021,wsu,Biological sciences,7.0
+2021,wsu,Mathematics,1.0
+2021,wsu,Hospitality and recreation,2.0
+2021,wsu,Physical sciences,2.0
+2021,wsu,Arts,1.0
+2021,wsu,Health sciences,6.0
+2021,wsu,Business,18.0
+2022,asu,Agriculture,0.39
+2022,asu,Communication and media,8.3
+2022,asu,Computer science,1.55
+2022,asu,Education,9.32
+2022,asu,Engineering,1.29
+2022,asu,Humanities,3.62
+2022,asu,Social sciences,15.5
+2022,asu,Biological sciences,3.62
+2022,asu,Mathematics,1.04
+2022,asu,Environmental sciences,2.74
+2022,asu,Hospitality and recreation,8.79
+2022,asu,Architecture,0.12
+2022,asu,Physical sciences,2.24
+2022,asu,Public safety,3.34
+2022,asu,Public administration,2.58
+2022,asu,Arts,5.72
+2022,asu,Health sciences,9.64
+2022,asu,Business,20.2
+2022,caltech,Computer science,38.1
+2022,caltech,Engineering,29.8
+2022,caltech,Biological sciences,5.0
+2022,caltech,Mathematics,6.4
+2022,caltech,Physical sciences,19.7
+2022,caltech,Business,0.9
+2022,colgate,Environmental sciences,3.92
+2022,colgate,Architecture,2.23
+2022,colgate,Computer science,5.2
+2022,colgate,Education,1.9
+2022,colgate,Humanities,14.96
+2022,colgate,Social sciences,46.55
+2022,colgate,Mathematics,4.03
+2022,colgate,Physical sciences,5.09
+2022,colgate,Arts,5.3
+2022,dartmouth,Environmental sciences,3.0
+2022,dartmouth,Social sciences,46.0
+2022,dartmouth,Computer science,10.0
+2022,dartmouth,Engineering,9.0
+2022,dartmouth,Humanities,10.0
+2022,dartmouth,Biological sciences,7.0
+2022,dartmouth,Mathematics,9.0
+2022,dartmouth,Physical sciences,2.0
+2022,dartmouth,Arts,5.0
+2022,george,Computer science,1.68
+2022,george,Humanities,8.79
+2022,george,Social sciences,54.33
+2022,george,Biological sciences,6.94
+2022,george,Mathematics,2.29
+2022,george,Physical sciences,0.9
+2022,george,Arts,0.56
+2022,george,Health sciences,4.42
+2022,george,Business,20.09
+2022,ucsd,Environmental sciences,1.0
+2022,ucsd,Architecture,0.9
+2022,ucsd,Social sciences,36.8
+2022,ucsd,Communication and media,2.8
+2022,ucsd,Computer science,8.6
+2022,ucsd,Education,0.5
+2022,ucsd,Engineering,11.7
+2022,ucsd,Humanities,2.7
+2022,ucsd,Biological sciences,18.9
+2022,ucsd,Mathematics,4.3
+2022,ucsd,Physical sciences,4.6
+2022,ucsd,Arts,2.1
+2022,ucsd,Health sciences,3.4
+2022,ucsd,Business,1.8
+2022,umich,Computer science,14.0
+2022,umich,Education,1.0
+2022,umich,Engineering,15.0
+2022,umich,Humanities,4.0
+2022,umich,Social sciences,26.0
+2022,umich,Biological sciences,10.0
+2022,umich,Mathematics,3.0
+2022,umich,Environmental sciences,1.0
+2022,umich,Hospitality and recreation,3.0
+2022,umich,Architecture,1.0
+2022,umich,Physical sciences,2.0
+2022,umich,Public administration,1.0
+2022,umich,Arts,5.0
+2022,umich,Health sciences,5.0
+2022,umich,Business,8.0
+2022,umich,Communication and media,3.0
+2022,wsu,Agriculture,3.0
+2022,wsu,Architecture,1.0
+2022,wsu,Communication and media,8.0
+2022,wsu,Computer science,3.0
+2022,wsu,Education,3.0
+2022,wsu,Engineering,11.0
+2022,wsu,Humanities,4.0
+2022,wsu,Social sciences,24.0
+2022,wsu,Biological sciences,9.0
+2022,wsu,Mathematics,1.0
+2022,wsu,Hospitality and recreation,2.0
+2022,wsu,Physical sciences,2.0
+2022,wsu,Arts,1.0
+2022,wsu,Health sciences,7.0
+2022,wsu,Business,21.0
+2023,asu,Agriculture,0.07
+2023,asu,Communication and media,6.32
+2023,asu,Computer science,2.07
+2023,asu,Education,9.27
+2023,asu,Engineering,1.34
+2023,asu,Humanities,4.08
+2023,asu,Social sciences,14.89
+2023,asu,Biological sciences,4.01
+2023,asu,Mathematics,0.88
+2023,asu,Environmental sciences,2.53
+2023,asu,Hospitality and recreation,8.18
+2023,asu,Architecture,0.22
+2023,asu,Physical sciences,2.21
+2023,asu,Public safety,3.48
+2023,asu,Public administration,2.51
+2023,asu,Arts,6.16
+2023,asu,Health sciences,8.88
+2023,asu,Business,22.9
+2023,caltech,Computer science,30.5
+2023,caltech,Engineering,36.1
+2023,caltech,Biological sciences,6.0
+2023,caltech,Mathematics,10.7
+2023,caltech,Physical sciences,13.3
+2023,caltech,Business,0.4
+2023,colgate,Environmental sciences,0.0407
+2023,colgate,Social sciences,0.46630000000000005
+2023,colgate,Computer science,0.0665
+2023,colgate,Education,0.0214
+2023,colgate,Humanities,0.1564
+2023,colgate,Biological sciences,0.1308
+2023,colgate,Mathematics,0.0204
+2023,colgate,Physical sciences,0.0504
+2023,colgate,Arts,0.0472
+2023,dartmouth,Computer science,9.2
+2023,dartmouth,Engineering,6.1
+2023,dartmouth,Humanities,12.2
+2023,dartmouth,Biological sciences,8.5
+2023,dartmouth,Mathematics,8.0
+2023,dartmouth,Social sciences,47.800000000000004
+2023,dartmouth,Physical sciences,3.9
+2023,dartmouth,Arts,4.3
+2023,george,Social sciences,54.82000000000001
+2023,george,Computer science,2.32
+2023,george,Humanities,7.489999999999999
+2023,george,Biological sciences,5.98
+2023,george,Mathematics,2.15
+2023,george,Physical sciences,1.13
+2023,george,Arts,1.18
+2023,george,Health sciences,5.01
+2023,george,Business,19.92
+2023,ucsd,Computer science,8.4
+2023,ucsd,Education,0.5
+2023,ucsd,Engineering,10.9
+2023,ucsd,Humanities,2.5999999999999996
+2023,ucsd,Social sciences,35.8
+2023,ucsd,Biological sciences,19.5
+2023,ucsd,Mathematics,4.3
+2023,ucsd,Environmental sciences,1.0
+2023,ucsd,Architecture,1.0
+2023,ucsd,Physical sciences,3.6
+2023,ucsd,Arts,2.8
+2023,ucsd,Health sciences,3.6
+2023,ucsd,Business,3.3
+2023,ucsd,Communication and media,2.6
+2023,umich,Computer science,16.0
+2023,umich,Education,1.0
+2023,umich,Engineering,14.0
+2023,umich,Humanities,3.0
+2023,umich,Social sciences,26.0
+2023,umich,Biological sciences,9.0
+2023,umich,Mathematics,3.0
+2023,umich,Environmental sciences,1.0
+2023,umich,Hospitality and recreation,3.0
+2023,umich,Architecture,1.0
+2023,umich,Physical sciences,2.0
+2023,umich,Public administration,1.0
+2023,umich,Arts,5.0
+2023,umich,Health sciences,4.0
+2023,umich,Business,8.0
+2023,umich,Communication and media,2.0
+2023,wsu,Agriculture,3.0
+2023,wsu,Computer science,5.0
+2023,wsu,Education,4.0
+2023,wsu,Engineering,9.0
+2023,wsu,Social sciences,26.0
+2023,wsu,Humanities,3.0
+2023,wsu,Biological sciences,9.0
+2023,wsu,Mathematics,1.0
+2023,wsu,Hospitality and recreation,1.0
+2023,wsu,Architecture,1.0
+2023,wsu,Physical sciences,3.0
+2023,wsu,Arts,1.0
+2023,wsu,Health sciences,7.0
+2023,wsu,Business,18.0
+2023,wsu,Communication and media,8.0
