@@ -1,673 +1,1009 @@
 College,College Year,Job Year,Area,P-Value
-colgate,2022,2017,"Utica-Rome, NY",0.8547253242326017
-colgate,2022,2019,"Utica-Rome, NY",0.8553433118491991
-colgate,2022,2018,"Utica-Rome, NY",0.856373549001147
-colgate,2022,2016,"Utica-Rome, NY",0.8564859389136751
-colgate,2022,2022,"Utica-Rome, NY",0.8565801497347191
-colgate,2022,2019,all,0.8581266996100461
-colgate,2022,2021,"Utica-Rome, NY",0.8585456090336078
-colgate,2022,2022,all,0.8591176193373146
-colgate,2022,2020,"Utica-Rome, NY",0.8594385762758117
-colgate,2022,2018,all,0.8595905130949856
-colgate,2022,2017,all,0.8598476195797007
-colgate,2022,2020,all,0.8611456324031699
-colgate,2022,2016,all,0.8613847664277781
-colgate,2022,2021,all,0.8620178198458436
-wsu,2015,2015,all,0.9509029957276007
-wsu,2016,2016,all,0.9510003946851554
-wsu,2015,2014,"Spokane-Spokane Valley, WA",0.9511403217873554
-wsu,2015,2014,all,0.9513123616889827
-wsu,2016,2015,all,0.951370765899312
-wsu,2016,2016,"Spokane-Spokane Valley, WA",0.9514706740793806
-wsu,2016,2014,"Spokane-Spokane Valley, WA",0.9515139530056864
-wsu,2016,2014,all,0.9517690605868923
-wsu,2015,2015,"Spokane-Spokane Valley, WA",0.9518542238296542
-wsu,2016,2015,"Spokane-Spokane Valley, WA",0.9521910829833575
-umich,2022,2019,"Ann Arbor, MI",0.9596927725681207
-umich,2022,2018,"Ann Arbor, MI",0.9603843623538404
-umich,2022,2020,"Ann Arbor, MI",0.9609237038610712
-umich,2022,2022,"Ann Arbor, MI",0.9612635387832358
-umich,2022,2019,all,0.9613144091982827
-umich,2022,2022,all,0.9614755065018025
-umich,2022,2021,"Ann Arbor, MI",0.9615470884922594
-umich,2022,2020,all,0.962263533619778
-umich,2022,2018,all,0.9624723648651782
-umich,2022,2021,all,0.9625227884741183
-umich,2022,2017,all,0.9626504544804996
-umich,2022,2016,"Ann Arbor, MI",0.9628166368805431
-umich,2022,2017,"Ann Arbor, MI",0.9632154591622053
-umich,2022,2016,all,0.9634168726606978
-wsu,2020,2019,all,0.9740524969909312
-wsu,2020,2018,all,0.974860904699927
-wsu,2020,2020,all,0.9750033229061883
-wsu,2020,2017,all,0.9750034621412969
-wsu,2020,2019,"Spokane-Spokane Valley, WA",0.9752999431768223
-wsu,2020,2020,"Spokane-Spokane Valley, WA",0.975569477484431
-wsu,2020,2018,"Spokane-Spokane Valley, WA",0.9755941709880811
-wsu,2020,2016,all,0.9756392234108955
-wsu,2020,2017,"Spokane-Spokane Valley, WA",0.9757793636910448
-wsu,2020,2015,all,0.9758337991359374
-wsu,2020,2016,"Spokane-Spokane Valley, WA",0.9760012380498082
-wsu,2020,2014,"Spokane-Spokane Valley, WA",0.9760329833153001
-wsu,2020,2014,all,0.9760347244394396
-wsu,2020,2015,"Spokane-Spokane Valley, WA",0.9763557685013162
-dartmouth,2022,2019,all,0.9866043987592461
-dartmouth,2022,2022,all,0.9867020428181816
-dartmouth,2022,2018,all,0.9867970637994079
-dartmouth,2022,2017,all,0.9868227325551563
-dartmouth,2022,2019,West Central-Southwest New Hampshire nonmetropolitan area,0.9868241433547962
-dartmouth,2022,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.9868731480112886
-dartmouth,2022,2022,West Central-Southwest New Hampshire nonmetropolitan area,0.9868809337605986
-dartmouth,2022,2020,all,0.9868957091543424
-dartmouth,2022,2017,West Central-Southwest New Hampshire nonmetropolitan area,0.9869009466952969
-dartmouth,2022,2021,West Central-Southwest New Hampshire nonmetropolitan area,0.9869142722166854
-dartmouth,2022,2016,all,0.9869768660926197
-dartmouth,2022,2021,all,0.986979935878971
-dartmouth,2022,2018,West Central-Southwest New Hampshire nonmetropolitan area,0.9870549012405851
-dartmouth,2022,2020,West Central-Southwest New Hampshire nonmetropolitan area,0.9870685918903861
-dartmouth,2014,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.9870722726764158
-dartmouth,2016,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.9871687110191925
-dartmouth,2014,2014,all,0.9872371439792722
-dartmouth,2016,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.9872663641148015
-dartmouth,2016,2016,all,0.9873111495564459
-caltech,2014,2014,all,0.9873235353651284
-dartmouth,2016,2015,all,0.9873664938938547
-dartmouth,2016,2014,all,0.9874192589779976
-dartmouth,2016,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.987435022436522
-caltech,2014,2014,"Los Angeles-Long Beach-Anaheim, CA",0.9874673827954983
-dartmouth,2015,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.9876459833847009
-dartmouth,2015,2015,all,0.9877513845500676
-dartmouth,2015,2014,all,0.9877994832800144
-dartmouth,2015,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.9878049723242394
-caltech,2016,2016,all,0.9923834761684328
-caltech,2016,2015,all,0.9924112457827616
-caltech,2016,2014,all,0.992442740937115
-caltech,2016,2016,"Los Angeles-Long Beach-Anaheim, CA",0.9924644394262632
-caltech,2016,2015,"Los Angeles-Long Beach-Anaheim, CA",0.9925035038052058
-caltech,2016,2014,"Los Angeles-Long Beach-Anaheim, CA",0.9925363364992064
-caltech,2017,2017,all,0.9948180151699932
-caltech,2017,2017,"Los Angeles-Long Beach-Anaheim, CA",0.9948514003610809
-caltech,2017,2016,all,0.9948676065319888
-caltech,2017,2015,all,0.9948865094167219
-caltech,2017,2014,all,0.9949076929378541
-caltech,2017,2016,"Los Angeles-Long Beach-Anaheim, CA",0.9949304435895447
-caltech,2017,2015,"Los Angeles-Long Beach-Anaheim, CA",0.9949569763317174
-caltech,2017,2014,"Los Angeles-Long Beach-Anaheim, CA",0.994978391819413
-umich,2020,2019,"Ann Arbor, MI",0.9959711719758089
-umich,2020,2018,"Ann Arbor, MI",0.9960316837739427
-umich,2018,2018,"Ann Arbor, MI",0.9960656479319785
-umich,2020,2020,"Ann Arbor, MI",0.9960920137340608
-umich,2020,2019,all,0.9961131398584633
-umich,2020,2015,"Ann Arbor, MI",0.9961398999030432
-umich,2020,2014,"Ann Arbor, MI",0.9961561988189886
-umich,2018,2015,"Ann Arbor, MI",0.9961740913375616
-umich,2018,2014,"Ann Arbor, MI",0.9961919554122247
-umich,2017,2015,"Ann Arbor, MI",0.9962096920914782
-umich,2020,2020,all,0.9962097600242777
-umich,2020,2018,all,0.9962201687212404
-umich,2017,2014,"Ann Arbor, MI",0.9962286623213246
-umich,2020,2017,all,0.9962378306303338
-umich,2018,2018,all,0.9962464379702594
-umich,2020,2016,"Ann Arbor, MI",0.9962508835623507
-umich,2018,2017,all,0.9962623395040986
-umich,2018,2016,"Ann Arbor, MI",0.9962741027480785
-umich,2020,2017,"Ann Arbor, MI",0.9962863929662225
-umich,2017,2017,all,0.9962918074476804
-umich,2017,2016,"Ann Arbor, MI",0.9963022393141392
-umich,2018,2017,"Ann Arbor, MI",0.9963102861042556
-umich,2020,2016,all,0.9963184095834245
-umich,2017,2017,"Ann Arbor, MI",0.9963365237171402
-umich,2018,2016,all,0.9963435753443797
-umich,2020,2015,all,0.9963452901933316
-umich,2016,2015,"Ann Arbor, MI",0.9963482644732825
-umich,2016,2014,"Ann Arbor, MI",0.996365156548799
-umich,2018,2015,all,0.9963699839481326
-umich,2020,2014,all,0.9963724144881263
-umich,2017,2016,all,0.9963726630455647
-umich,2018,2014,all,0.996396022133694
-umich,2017,2015,all,0.9963983957003046
-umich,2017,2014,all,0.9964235936838836
-umich,2016,2016,"Ann Arbor, MI",0.9964281649949541
-umich,2015,2015,"Ann Arbor, MI",0.9964593653156624
-umich,2015,2014,"Ann Arbor, MI",0.9964755566220954
-umich,2016,2016,all,0.9965007841281011
-umich,2016,2015,all,0.9965244288798092
-umich,2016,2014,all,0.9965472988120687
-umich,2015,2015,all,0.9966162256435327
-umich,2015,2014,all,0.9966372048813353
-asu,2016,2014,"Winston-Salem, NC",0.9973542801088532
-asu,2016,2016,all,0.9973803734120781
-asu,2016,2015,all,0.9974025087222385
-asu,2016,2014,all,0.997432859641058
-asu,2016,2016,"Winston-Salem, NC",0.9974436129962454
-asu,2016,2015,"Winston-Salem, NC",0.9974482318434126
-asu,2014,2014,"Winston-Salem, NC",0.99748028772788
-asu,2014,2014,all,0.9975408154194353
-umich,2019,2019,"Ann Arbor, MI",0.9978984052473048
-umich,2019,2018,"Ann Arbor, MI",0.9979327137601314
-umich,2019,2019,all,0.9979717762123923
-umich,2021,2019,"Ann Arbor, MI",0.9979739030973951
-umich,2019,2015,"Ann Arbor, MI",0.9979893228253571
-umich,2019,2014,"Ann Arbor, MI",0.9979986582190836
-umich,2021,2018,"Ann Arbor, MI",0.9980073676790837
-umich,2021,2020,"Ann Arbor, MI",0.9980320891551959
-umich,2019,2018,all,0.9980337382586366
-umich,2019,2017,all,0.9980431709637171
-umich,2021,2019,all,0.9980481142186927
-umich,2019,2016,"Ann Arbor, MI",0.9980569456607349
-umich,2021,2015,"Ann Arbor, MI",0.9980615580379557
-umich,2021,2021,"Ann Arbor, MI",0.9980650203667943
-umich,2019,2017,"Ann Arbor, MI",0.9980790466015355
-umich,2019,2016,all,0.9980869760005533
-umich,2021,2020,all,0.9980952466185453
-umich,2019,2015,all,0.9981013539063767
-umich,2021,2018,all,0.9981050762892583
-umich,2021,2021,all,0.9981092579620806
-umich,2021,2017,all,0.9981140071246435
-umich,2019,2014,all,0.9981157491299731
-umich,2021,2016,"Ann Arbor, MI",0.998122174280303
-umich,2021,2017,"Ann Arbor, MI",0.9981411589015492
-umich,2021,2016,all,0.9981544967650624
-umich,2021,2015,all,0.9981679030257462
-ucsd,2022,2022,"San Diego-Carlsbad, CA",0.9984762728386547
-ucsd,2022,2019,"San Diego-Carlsbad, CA",0.9984792902709663
-ucsd,2022,2019,all,0.9985012884781139
-ucsd,2022,2022,all,0.9985099169501923
-ucsd,2022,2017,"San Diego-Carlsbad, CA",0.9985108716115417
-ucsd,2022,2018,"San Diego-Carlsbad, CA",0.9985110475198511
-ucsd,2022,2020,"San Diego-Carlsbad, CA",0.998518150102893
-ucsd,2022,2021,"San Diego-Carlsbad, CA",0.9985264864227577
-ucsd,2022,2016,"San Diego-Carlsbad, CA",0.998526679656546
-ucsd,2022,2018,all,0.9985331887106216
-ucsd,2022,2020,all,0.9985336241579597
-ucsd,2022,2017,all,0.998537506970285
-ucsd,2022,2021,all,0.9985421589648831
-ucsd,2022,2016,all,0.9985569596948063
-caltech,2022,2022,all,0.9987369455232575
-caltech,2022,2019,all,0.9987389691815409
-caltech,2022,2020,all,0.9987400940969022
-caltech,2022,2021,all,0.9987440579457257
-caltech,2022,2022,"Los Angeles-Long Beach-Anaheim, CA",0.9987488505621696
-caltech,2021,2019,all,0.9987489844584122
-caltech,2021,2020,all,0.998750361799011
-caltech,2022,2019,"Los Angeles-Long Beach-Anaheim, CA",0.9987511487435266
-caltech,2022,2020,"Los Angeles-Long Beach-Anaheim, CA",0.9987522881540383
-caltech,2021,2021,all,0.9987543697363274
-caltech,2022,2021,"Los Angeles-Long Beach-Anaheim, CA",0.9987567099239474
-caltech,2021,2019,"Los Angeles-Long Beach-Anaheim, CA",0.9987613159223444
-caltech,2021,2020,"Los Angeles-Long Beach-Anaheim, CA",0.9987626071297484
-caltech,2022,2018,all,0.9987653449373843
-caltech,2021,2021,"Los Angeles-Long Beach-Anaheim, CA",0.9987670175601757
-caltech,2022,2017,all,0.9987702192830634
-caltech,2021,2018,all,0.9987747248006125
-caltech,2022,2018,"Los Angeles-Long Beach-Anaheim, CA",0.9987782561563952
-caltech,2021,2017,all,0.9987795183238686
-caltech,2022,2016,all,0.9987806435590384
-caltech,2022,2017,"Los Angeles-Long Beach-Anaheim, CA",0.9987834317955038
-caltech,2021,2018,"Los Angeles-Long Beach-Anaheim, CA",0.9987877503978244
-caltech,2021,2016,all,0.9987900718549292
-caltech,2021,2017,"Los Angeles-Long Beach-Anaheim, CA",0.998792876881019
-caltech,2021,2015,all,0.9987944630999814
-caltech,2022,2016,"Los Angeles-Long Beach-Anaheim, CA",0.9988005711737031
-caltech,2021,2016,"Los Angeles-Long Beach-Anaheim, CA",0.9988100309699268
-caltech,2021,2015,"Los Angeles-Long Beach-Anaheim, CA",0.9988164549925582
-asu,2018,2018,all,0.9991411116160589
-asu,2018,2017,all,0.999148724347768
-asu,2018,2014,"Winston-Salem, NC",0.9991738264033363
-asu,2018,2016,all,0.999179691081985
-asu,2018,2015,all,0.9991867027743198
-asu,2018,2014,all,0.9991961981428197
-asu,2018,2018,"Winston-Salem, NC",0.9991987798281698
-asu,2018,2017,"Winston-Salem, NC",0.9992059771230206
-asu,2018,2015,"Winston-Salem, NC",0.9992082418010327
-asu,2018,2016,"Winston-Salem, NC",0.9992091333509158
-george,2015,2015,all,0.9995145628998698
-george,2015,2014,all,0.9995158026540734
-george,2015,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.999519770286527
-george,2015,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9995215636560941
-asu,2017,2017,all,0.9997195089183102
-asu,2017,2014,"Winston-Salem, NC",0.9997263986789131
-asu,2017,2016,all,0.9997297241806895
-asu,2017,2015,all,0.999732000656431
-asu,2017,2014,all,0.9997352600419804
-asu,2017,2017,"Winston-Salem, NC",0.9997361224087297
-asu,2017,2016,"Winston-Salem, NC",0.9997368034041039
-asu,2017,2015,"Winston-Salem, NC",0.9997370392074736
-george,2018,2018,all,0.9998374008477028
-george,2018,2017,all,0.9998375150681087
-george,2018,2016,all,0.9998384758392634
-george,2018,2015,all,0.999839093130884
-george,2018,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9998393965070616
-george,2018,2014,all,0.9998394706215593
-george,2018,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.999839623374272
-george,2018,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9998397981778976
-george,2018,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9998404504082924
-george,2018,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9998408579309717
-colgate,2018,2017,"Utica-Rome, NY",0.9998678334853739
-colgate,2017,2017,"Utica-Rome, NY",0.9998682485720254
-colgate,2018,2018,"Utica-Rome, NY",0.9998692064837493
-colgate,2018,2016,"Utica-Rome, NY",0.9998693003395878
-colgate,2017,2016,"Utica-Rome, NY",0.99986970515233
-colgate,2018,2015,"Utica-Rome, NY",0.9998700463498202
-colgate,2018,2014,"Utica-Rome, NY",0.9998703142073954
-colgate,2017,2015,"Utica-Rome, NY",0.9998704287906239
-colgate,2017,2014,"Utica-Rome, NY",0.9998706994303603
-colgate,2018,2018,all,0.999872271405249
-colgate,2018,2017,all,0.9998725174713323
-caltech,2020,2019,all,0.999872820763546
-colgate,2017,2017,all,0.9998729580888668
-caltech,2020,2020,all,0.9998729881133781
-colgate,2018,2016,all,0.9998738754283258
-caltech,2020,2019,"Los Angeles-Long Beach-Anaheim, CA",0.9998741419902974
-caltech,2020,2020,"Los Angeles-Long Beach-Anaheim, CA",0.999874280974588
-colgate,2017,2016,all,0.9998743032002979
-colgate,2018,2015,all,0.999874395238151
-colgate,2017,2015,all,0.9998748227592866
-colgate,2018,2014,all,0.9998749283008077
-colgate,2017,2014,all,0.9998753490083723
-caltech,2020,2018,all,0.9998753814341326
-caltech,2020,2017,all,0.9998758971803189
-caltech,2020,2018,"Los Angeles-Long Beach-Anaheim, CA",0.9998767641238548
-caltech,2020,2016,all,0.9998769634521341
-caltech,2020,2017,"Los Angeles-Long Beach-Anaheim, CA",0.9998772816660019
-caltech,2020,2015,all,0.9998774199157059
-caltech,2020,2014,all,0.9998779489833465
-caltech,2020,2016,"Los Angeles-Long Beach-Anaheim, CA",0.9998790771192836
-caltech,2020,2015,"Los Angeles-Long Beach-Anaheim, CA",0.9998797262120553
-caltech,2020,2014,"Los Angeles-Long Beach-Anaheim, CA",0.9998801909476047
-asu,2019,2019,all,0.9999999999999993
-asu,2022,2022,all,0.9999999999999993
-asu,2020,2019,all,0.9999999999999994
-wsu,2022,2021,all,0.9999999999999996
-asu,2021,2019,all,0.9999999999999996
-wsu,2022,2019,all,0.9999999999999996
-asu,2022,2021,all,0.9999999999999996
-asu,2021,2021,all,0.9999999999999996
-asu,2019,2016,"Winston-Salem, NC",0.9999999999999996
-asu,2022,2019,all,0.9999999999999996
-asu,2022,2017,all,0.9999999999999996
-asu,2021,2016,"Winston-Salem, NC",0.9999999999999996
-wsu,2022,2022,all,0.9999999999999996
-wsu,2019,2019,all,0.9999999999999996
-asu,2021,2017,all,0.9999999999999997
-wsu,2021,2021,all,0.9999999999999997
-wsu,2021,2019,all,0.9999999999999997
-asu,2020,2020,all,0.9999999999999997
-asu,2019,2015,all,0.9999999999999997
-wsu,2021,2020,all,0.9999999999999997
-george,2021,2019,all,0.9999999999999997
-asu,2020,2016,"Winston-Salem, NC",0.9999999999999997
-asu,2021,2020,all,0.9999999999999997
-caltech,2019,2019,all,0.9999999999999998
-wsu,2022,2017,"Spokane-Spokane Valley, WA",0.9999999999999998
-asu,2020,2018,all,0.9999999999999998
-asu,2019,2014,"Winston-Salem, NC",0.9999999999999998
-asu,2020,2017,all,0.9999999999999998
-caltech,2018,2018,all,0.9999999999999998
-asu,2019,2016,all,0.9999999999999998
-caltech,2018,2015,"Los Angeles-Long Beach-Anaheim, CA",0.9999999999999998
-asu,2019,2017,all,0.9999999999999998
-wsu,2022,2019,"Spokane-Spokane Valley, WA",0.9999999999999998
-asu,2020,2015,all,0.9999999999999998
-caltech,2019,2018,all,0.9999999999999998
-colgate,2021,2020,all,0.9999999999999998
-caltech,2019,2015,"Los Angeles-Long Beach-Anaheim, CA",0.9999999999999998
-asu,2019,2018,all,0.9999999999999998
-asu,2020,2016,all,0.9999999999999998
-george,2021,2016,all,0.9999999999999998
-wsu,2019,2017,"Spokane-Spokane Valley, WA",0.9999999999999998
-george,2021,2015,all,0.9999999999999998
-wsu,2019,2018,all,0.9999999999999998
-wsu,2019,2017,all,0.9999999999999998
-george,2020,2018,all,0.9999999999999998
-wsu,2019,2015,all,0.9999999999999998
-asu,2021,2021,"Winston-Salem, NC",0.9999999999999998
-george,2019,2019,all,0.9999999999999998
-george,2019,2017,all,0.9999999999999998
-asu,2022,2018,all,0.9999999999999998
-george,2021,2020,all,0.9999999999999998
-george,2021,2021,all,0.9999999999999998
-george,2021,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999998
-george,2021,2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999998
-asu,2022,2020,all,0.9999999999999998
-george,2017,2017,all,0.9999999999999998
-asu,2022,2016,"Winston-Salem, NC",0.9999999999999998
-wsu,2018,2017,"Spokane-Spokane Valley, WA",0.9999999999999998
-asu,2022,2021,"Winston-Salem, NC",0.9999999999999998
-wsu,2018,2018,all,0.9999999999999998
-wsu,2018,2017,all,0.9999999999999998
-wsu,2018,2015,all,0.9999999999999998
-wsu,2017,2017,"Spokane-Spokane Valley, WA",0.9999999999999998
-george,2022,2017,all,0.9999999999999998
-george,2022,2019,all,0.9999999999999998
-george,2021,2017,all,0.9999999999999998
-george,2022,2022,all,0.9999999999999998
-asu,2021,2018,all,0.9999999999999998
-asu,2021,2016,all,0.9999999999999998
-wsu,2019,2015,"Spokane-Spokane Valley, WA",0.9999999999999998
-wsu,2019,2019,"Spokane-Spokane Valley, WA",0.9999999999999998
-george,2022,2021,all,0.9999999999999998
-colgate,2021,2021,all,0.9999999999999998
-dartmouth,2017,2016,all,0.9999999999999998
-ucsd,2019,2017,all,0.9999999999999998
-wsu,2021,2016,all,0.9999999999999998
-wsu,2021,2015,all,0.9999999999999998
-ucsd,2020,2018,"San Diego-Carlsbad, CA",0.9999999999999998
-ucsd,2020,2019,"San Diego-Carlsbad, CA",0.9999999999999998
-ucsd,2021,2015,all,0.9999999999999998
-wsu,2017,2014,"Spokane-Spokane Valley, WA",0.9999999999999998
-wsu,2017,2015,"Spokane-Spokane Valley, WA",0.9999999999999998
-dartmouth,2021,2016,all,0.9999999999999998
-dartmouth,2021,2017,all,0.9999999999999998
-dartmouth,2021,2018,all,0.9999999999999998
-dartmouth,2021,2019,all,0.9999999999999998
-ucsd,2021,2017,all,0.9999999999999998
-dartmouth,2021,2021,all,0.9999999999999998
-ucsd,2021,2019,all,0.9999999999999998
-dartmouth,2020,2020,all,0.9999999999999998
-ucsd,2021,2021,all,0.9999999999999998
-dartmouth,2017,2017,all,0.9999999999999998
-dartmouth,2020,2019,all,0.9999999999999998
-ucsd,2020,2016,all,0.9999999999999998
-ucsd,2020,2015,all,0.9999999999999998
-wsu,2021,2017,all,0.9999999999999998
-dartmouth,2019,2016,all,0.9999999999999998
-dartmouth,2019,2017,all,0.9999999999999998
-dartmouth,2019,2018,all,0.9999999999999998
-dartmouth,2019,2019,all,0.9999999999999998
-wsu,2022,2020,all,0.9999999999999998
-dartmouth,2018,2018,all,0.9999999999999998
-wsu,2021,2018,all,0.9999999999999998
-ucsd,2019,2019,all,0.9999999999999998
-dartmouth,2018,2017,all,0.9999999999999998
-dartmouth,2018,2016,all,0.9999999999999998
-dartmouth,2020,2016,all,0.9999999999999998
-dartmouth,2020,2017,all,0.9999999999999998
-ucsd,2020,2019,all,0.9999999999999998
-wsu,2021,2015,"Spokane-Spokane Valley, WA",0.9999999999999998
-ucsd,2020,2017,all,0.9999999999999998
-wsu,2021,2017,"Spokane-Spokane Valley, WA",0.9999999999999998
-colgate,2019,2016,all,0.9999999999999998
-wsu,2017,2015,all,0.9999999999999998
-wsu,2022,2017,all,0.9999999999999998
-colgate,2020,2019,all,0.9999999999999998
-caltech,2015,2015,"Los Angeles-Long Beach-Anaheim, CA",0.9999999999999998
-colgate,2020,2017,all,0.9999999999999998
-colgate,2021,2016,all,0.9999999999999998
-ucsd,2018,2016,all,0.9999999999999998
-ucsd,2018,2017,all,0.9999999999999998
-wsu,2022,2018,all,0.9999999999999998
-ucsd,2021,2019,"San Diego-Carlsbad, CA",0.9999999999999998
-colgate,2021,2019,all,0.9999999999999998
-wsu,2021,2019,"Spokane-Spokane Valley, WA",0.9999999999999998
-asu,2015,2015,"Winston-Salem, NC",0.9999999999999998
-ucsd,2017,2016,all,0.9999999999999998
-asu,2015,2015,all,0.9999999999999998
-wsu,2017,2017,all,0.9999999999999998
-george,2020,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2020,2019,all,0.9999999999999999
-asu,2019,2017,"Winston-Salem, NC",0.9999999999999999
-dartmouth,2018,2015,all,0.9999999999999999
-asu,2019,2015,"Winston-Salem, NC",0.9999999999999999
-george,2020,2016,all,0.9999999999999999
-george,2020,2015,all,0.9999999999999999
-george,2019,2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2020,2014,all,0.9999999999999999
-george,2019,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2019,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2020,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-colgate,2021,2015,all,0.9999999999999999
-colgate,2021,2017,all,0.9999999999999999
-colgate,2021,2020,"Utica-Rome, NY",0.9999999999999999
-colgate,2021,2019,"Utica-Rome, NY",0.9999999999999999
-colgate,2021,2018,all,0.9999999999999999
-dartmouth,2018,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.9999999999999999
-asu,2019,2018,"Winston-Salem, NC",0.9999999999999999
-dartmouth,2017,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.9999999999999999
-george,2020,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2022,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2022,2020,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2022,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-ucsd,2021,2020,all,0.9999999999999999
-george,2022,2021,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2022,2020,all,0.9999999999999999
-asu,2021,2015,all,0.9999999999999999
-george,2019,2018,all,0.9999999999999999
-ucsd,2021,2016,all,0.9999999999999999
-wsu,2019,2014,"Spokane-Spokane Valley, WA",0.9999999999999999
-colgate,2020,2015,all,0.9999999999999999
-george,2022,2016,all,0.9999999999999999
-colgate,2020,2016,all,0.9999999999999999
-colgate,2020,2018,all,0.9999999999999999
-ucsd,2020,2015,"San Diego-Carlsbad, CA",0.9999999999999999
-george,2021,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2021,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-ucsd,2020,2020,all,0.9999999999999999
-colgate,2020,2020,all,0.9999999999999999
-dartmouth,2017,2015,all,0.9999999999999999
-colgate,2019,2019,"Utica-Rome, NY",0.9999999999999999
-colgate,2020,2016,"Utica-Rome, NY",0.9999999999999999
-george,2022,2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-ucsd,2020,2018,all,0.9999999999999999
-colgate,2020,2017,"Utica-Rome, NY",0.9999999999999999
-george,2020,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2022,2018,all,0.9999999999999999
-ucsd,2017,2015,all,0.9999999999999999
-george,2019,2015,all,0.9999999999999999
-colgate,2016,2016,"Utica-Rome, NY",0.9999999999999999
-dartmouth,2020,2020,West Central-Southwest New Hampshire nonmetropolitan area,0.9999999999999999
-dartmouth,2021,2015,all,0.9999999999999999
-george,2019,2016,all,0.9999999999999999
-colgate,2019,2015,"Utica-Rome, NY",0.9999999999999999
-colgate,2019,2014,"Utica-Rome, NY",0.9999999999999999
-colgate,2019,2019,all,0.9999999999999999
-colgate,2019,2018,all,0.9999999999999999
-colgate,2019,2017,all,0.9999999999999999
-dartmouth,2021,2021,West Central-Southwest New Hampshire nonmetropolitan area,0.9999999999999999
-ucsd,2018,2017,"San Diego-Carlsbad, CA",0.9999999999999999
-ucsd,2018,2018,all,0.9999999999999999
-ucsd,2018,2015,all,0.9999999999999999
-caltech,2019,2018,"Los Angeles-Long Beach-Anaheim, CA",0.9999999999999999
-caltech,2019,2017,"Los Angeles-Long Beach-Anaheim, CA",0.9999999999999999
-ucsd,2017,2017,"San Diego-Carlsbad, CA",0.9999999999999999
-wsu,2022,2021,"Spokane-Spokane Valley, WA",0.9999999999999999
-ucsd,2016,2016,all,0.9999999999999999
-ucsd,2016,2015,all,0.9999999999999999
-ucsd,2015,2015,all,0.9999999999999999
-caltech,2018,2015,all,0.9999999999999999
-ucsd,2017,2017,all,0.9999999999999999
-caltech,2018,2017,all,0.9999999999999999
-colgate,2019,2018,"Utica-Rome, NY",0.9999999999999999
-colgate,2019,2015,all,0.9999999999999999
-caltech,2018,2017,"Los Angeles-Long Beach-Anaheim, CA",0.9999999999999999
-caltech,2018,2018,"Los Angeles-Long Beach-Anaheim, CA",0.9999999999999999
-caltech,2019,2015,all,0.9999999999999999
-wsu,2022,2020,"Spokane-Spokane Valley, WA",0.9999999999999999
-caltech,2019,2017,all,0.9999999999999999
-wsu,2022,2016,all,0.9999999999999999
-caltech,2015,2015,all,0.9999999999999999
-wsu,2018,2014,all,0.9999999999999999
-dartmouth,2021,2020,all,0.9999999999999999
-colgate,2016,2015,all,0.9999999999999999
-george,2016,2015,all,0.9999999999999999
-colgate,2016,2016,all,0.9999999999999999
-george,2016,2016,all,0.9999999999999999
-george,2016,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2016,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2017,2014,all,0.9999999999999999
-george,2016,2014,all,0.9999999999999999
-george,2017,2015,all,0.9999999999999999
-dartmouth,2020,2015,all,0.9999999999999999
-george,2017,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-george,2017,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-ucsd,2019,2018,"San Diego-Carlsbad, CA",0.9999999999999999
-dartmouth,2019,2015,all,0.9999999999999999
-ucsd,2020,2014,all,0.9999999999999999
-george,2017,2016,all,0.9999999999999999
-dartmouth,2020,2018,all,0.9999999999999999
-dartmouth,2019,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.9999999999999999
-wsu,2018,2014,"Spokane-Spokane Valley, WA",0.9999999999999999
-colgate,2016,2014,all,0.9999999999999999
-ucsd,2019,2016,all,0.9999999999999999
-colgate,2015,2014,"Utica-Rome, NY",0.9999999999999999
-george,2014,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.9999999999999999
-colgate,2015,2015,all,0.9999999999999999
-george,2014,2014,all,0.9999999999999999
-wsu,2018,2016,all,0.9999999999999999
-wsu,2018,2015,"Spokane-Spokane Valley, WA",0.9999999999999999
-ucsd,2019,2018,all,0.9999999999999999
-wsu,2022,2016,"Spokane-Spokane Valley, WA",1.0
-wsu,2022,2018,"Spokane-Spokane Valley, WA",1.0
-wsu,2017,2016,"Spokane-Spokane Valley, WA",1.0
-wsu,2019,2014,all,1.0
-wsu,2014,2014,"Spokane-Spokane Valley, WA",1.0
-wsu,2018,2018,"Spokane-Spokane Valley, WA",1.0
-wsu,2018,2016,"Spokane-Spokane Valley, WA",1.0
-wsu,2021,2016,"Spokane-Spokane Valley, WA",1.0
-wsu,2017,2016,all,1.0
-wsu,2019,2016,all,1.0
-wsu,2014,2014,all,1.0
-wsu,2021,2018,"Spokane-Spokane Valley, WA",1.0
-wsu,2021,2020,"Spokane-Spokane Valley, WA",1.0
-wsu,2021,2021,"Spokane-Spokane Valley, WA",1.0
-wsu,2019,2016,"Spokane-Spokane Valley, WA",1.0
-wsu,2017,2014,all,1.0
-wsu,2019,2018,"Spokane-Spokane Valley, WA",1.0
-ucsd,2014,2014,all,1.0
-umich,2014,2014,all,1.0
-asu,2015,2014,all,1.0
-asu,2015,2014,"Winston-Salem, NC",1.0
-asu,2019,2014,all,1.0
-asu,2019,2019,"Winston-Salem, NC",1.0
-asu,2020,2014,all,1.0
-asu,2020,2014,"Winston-Salem, NC",1.0
-asu,2020,2015,"Winston-Salem, NC",1.0
-asu,2020,2017,"Winston-Salem, NC",1.0
-asu,2020,2018,"Winston-Salem, NC",1.0
-asu,2020,2019,"Winston-Salem, NC",1.0
-asu,2020,2020,"Winston-Salem, NC",1.0
-asu,2021,2015,"Winston-Salem, NC",1.0
-asu,2021,2017,"Winston-Salem, NC",1.0
-asu,2021,2018,"Winston-Salem, NC",1.0
-ucsd,2021,2021,"San Diego-Carlsbad, CA",1.0
-asu,2021,2019,"Winston-Salem, NC",1.0
-asu,2022,2016,all,1.0
-asu,2022,2017,"Winston-Salem, NC",1.0
-asu,2022,2018,"Winston-Salem, NC",1.0
-asu,2022,2019,"Winston-Salem, NC",1.0
-asu,2022,2020,"Winston-Salem, NC",1.0
-asu,2022,2022,"Winston-Salem, NC",1.0
-colgate,2014,2014,all,1.0
-colgate,2014,2014,"Utica-Rome, NY",1.0
-colgate,2015,2014,all,1.0
-colgate,2015,2015,"Utica-Rome, NY",1.0
-colgate,2016,2014,"Utica-Rome, NY",1.0
-colgate,2016,2015,"Utica-Rome, NY",1.0
-colgate,2019,2014,all,1.0
-colgate,2019,2016,"Utica-Rome, NY",1.0
-asu,2021,2020,"Winston-Salem, NC",1.0
-ucsd,2021,2020,"San Diego-Carlsbad, CA",1.0
-ucsd,2021,2018,"San Diego-Carlsbad, CA",1.0
-ucsd,2021,2017,"San Diego-Carlsbad, CA",1.0
-ucsd,2014,2014,"San Diego-Carlsbad, CA",1.0
-ucsd,2015,2014,all,1.0
-ucsd,2015,2014,"San Diego-Carlsbad, CA",1.0
-ucsd,2015,2015,"San Diego-Carlsbad, CA",1.0
-ucsd,2016,2014,all,1.0
-ucsd,2016,2014,"San Diego-Carlsbad, CA",1.0
-ucsd,2016,2015,"San Diego-Carlsbad, CA",1.0
-ucsd,2016,2016,"San Diego-Carlsbad, CA",1.0
-ucsd,2017,2014,all,1.0
-ucsd,2017,2014,"San Diego-Carlsbad, CA",1.0
-ucsd,2017,2015,"San Diego-Carlsbad, CA",1.0
-ucsd,2017,2016,"San Diego-Carlsbad, CA",1.0
-ucsd,2018,2014,all,1.0
-ucsd,2018,2014,"San Diego-Carlsbad, CA",1.0
-ucsd,2018,2015,"San Diego-Carlsbad, CA",1.0
-ucsd,2018,2016,"San Diego-Carlsbad, CA",1.0
-ucsd,2018,2018,"San Diego-Carlsbad, CA",1.0
-ucsd,2021,2016,"San Diego-Carlsbad, CA",1.0
-ucsd,2021,2015,"San Diego-Carlsbad, CA",1.0
-ucsd,2021,2018,all,1.0
-ucsd,2020,2020,"San Diego-Carlsbad, CA",1.0
-ucsd,2020,2017,"San Diego-Carlsbad, CA",1.0
-ucsd,2020,2016,"San Diego-Carlsbad, CA",1.0
-colgate,2019,2017,"Utica-Rome, NY",1.0
-ucsd,2020,2014,"San Diego-Carlsbad, CA",1.0
-ucsd,2019,2017,"San Diego-Carlsbad, CA",1.0
-ucsd,2019,2016,"San Diego-Carlsbad, CA",1.0
-ucsd,2019,2015,"San Diego-Carlsbad, CA",1.0
-ucsd,2019,2014,"San Diego-Carlsbad, CA",1.0
-ucsd,2019,2015,all,1.0
-ucsd,2019,2014,all,1.0
-ucsd,2019,2019,"San Diego-Carlsbad, CA",1.0
-umich,2014,2014,"Ann Arbor, MI",1.0
-colgate,2020,2014,all,1.0
-colgate,2020,2015,"Utica-Rome, NY",1.0
-dartmouth,2021,2020,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-caltech,2015,2014,all,1.0
-caltech,2015,2014,"Los Angeles-Long Beach-Anaheim, CA",1.0
-caltech,2018,2014,all,1.0
-caltech,2018,2016,all,1.0
-caltech,2018,2014,"Los Angeles-Long Beach-Anaheim, CA",1.0
-caltech,2018,2016,"Los Angeles-Long Beach-Anaheim, CA",1.0
-caltech,2019,2014,all,1.0
-caltech,2019,2016,all,1.0
-caltech,2019,2014,"Los Angeles-Long Beach-Anaheim, CA",1.0
-caltech,2019,2016,"Los Angeles-Long Beach-Anaheim, CA",1.0
-caltech,2019,2019,"Los Angeles-Long Beach-Anaheim, CA",1.0
-george,2016,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2017,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-dartmouth,2021,2019,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-george,2017,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2019,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2019,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2019,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2020,2017,all,1.0
-george,2020,2020,all,1.0
-george,2020,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2020,2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2020,2020,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2021,2018,all,1.0
-george,2021,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2021,2020,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2021,2021,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2022,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2022,2022,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",1.0
-george,2019,2014,all,1.0
-dartmouth,2021,2018,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2021,2017,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2021,2016,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-colgate,2020,2018,"Utica-Rome, NY",1.0
-colgate,2020,2019,"Utica-Rome, NY",1.0
-colgate,2020,2020,"Utica-Rome, NY",1.0
-colgate,2021,2015,"Utica-Rome, NY",1.0
-colgate,2021,2016,"Utica-Rome, NY",1.0
-colgate,2021,2017,"Utica-Rome, NY",1.0
-colgate,2021,2018,"Utica-Rome, NY",1.0
-colgate,2021,2021,"Utica-Rome, NY",1.0
-dartmouth,2017,2014,all,1.0
-dartmouth,2017,2015,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2017,2016,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2017,2017,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2018,2014,all,1.0
-dartmouth,2018,2015,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2018,2016,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2018,2017,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2018,2018,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2021,2015,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2020,2019,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2020,2018,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2020,2017,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2020,2016,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2020,2015,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-colgate,2020,2014,"Utica-Rome, NY",1.0
-dartmouth,2020,2014,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2019,2019,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2019,2018,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2019,2017,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2019,2016,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2019,2015,West Central-Southwest New Hampshire nonmetropolitan area,1.0
-dartmouth,2019,2014,all,1.0
-dartmouth,2020,2014,all,1.0
-wsu,2022,2022,"Spokane-Spokane Valley, WA",1.0
+ucsd,2014,2008,all,0.23057044254584008
+ucsd,2014,2009,all,0.2305712443493409
+ucsd,2014,2010,all,0.06581941481291712
+ucsd,2014,2011,all,0.05952495955097369
+ucsd,2014,2012,all,0.052499256400086784
+ucsd,2014,2013,all,0.03857831161237694
+ucsd,2014,2014,all,0.028658781901693218
+ucsd,2014,2008,"San Diego-Carlsbad, CA",0.31141072698036604
+ucsd,2014,2009,"San Diego-Carlsbad, CA",0.31667414764375784
+ucsd,2014,2010,"San Diego-Carlsbad, CA",0.013139494952847268
+ucsd,2014,2011,"San Diego-Carlsbad, CA",0.02340900474543305
+ucsd,2014,2012,"San Diego-Carlsbad, CA",0.02952155112669782
+ucsd,2014,2013,"San Diego-Carlsbad, CA",0.03085571283590123
+ucsd,2014,2014,"San Diego-Carlsbad, CA",0.04675311434112893
+ucsd,2015,2009,all,0.37539368313847277
+ucsd,2015,2010,all,0.395589368212009
+ucsd,2015,2011,all,0.40102489717502077
+ucsd,2015,2012,all,0.3994214016852304
+ucsd,2015,2013,all,0.4006759880722868
+ucsd,2015,2014,all,0.3912172205852089
+ucsd,2015,2015,all,0.3943734975365736
+ucsd,2015,2009,"San Diego-Carlsbad, CA",0.32452269053972627
+ucsd,2015,2010,"San Diego-Carlsbad, CA",0.3576356159925423
+ucsd,2015,2011,"San Diego-Carlsbad, CA",0.3614622931787398
+ucsd,2015,2012,"San Diego-Carlsbad, CA",0.3643696094245728
+ucsd,2015,2013,"San Diego-Carlsbad, CA",0.36926952168384786
+ucsd,2015,2014,"San Diego-Carlsbad, CA",0.3695221022793325
+ucsd,2015,2015,"San Diego-Carlsbad, CA",0.3701311329569723
+ucsd,2016,2010,all,0.42624603976802594
+ucsd,2016,2011,all,0.4242280095398331
+ucsd,2016,2012,all,0.4279571041631632
+ucsd,2016,2013,all,0.41705883669297583
+ucsd,2016,2014,all,0.419286166169545
+ucsd,2016,2015,all,0.4181673275961289
+ucsd,2016,2016,all,0.4188562287016257
+ucsd,2016,2010,"San Diego-Carlsbad, CA",0.4069169502265997
+ucsd,2016,2011,"San Diego-Carlsbad, CA",0.4026298711189023
+ucsd,2016,2012,"San Diego-Carlsbad, CA",0.4063260968855487
+ucsd,2016,2013,"San Diego-Carlsbad, CA",0.4123115108072793
+ucsd,2016,2014,"San Diego-Carlsbad, CA",0.4058318149820766
+ucsd,2016,2015,"San Diego-Carlsbad, CA",0.40663862172630794
+ucsd,2016,2016,"San Diego-Carlsbad, CA",0.396913905564732
+ucsd,2017,2011,all,0.22125523700003516
+ucsd,2017,2012,all,0.21992959235263426
+ucsd,2017,2013,all,0.2202047151825648
+ucsd,2017,2014,all,0.21711609481328947
+ucsd,2017,2015,all,0.21862513348443038
+ucsd,2017,2016,all,0.21868402540380152
+ucsd,2017,2017,all,0.2125645907917066
+ucsd,2017,2011,"San Diego-Carlsbad, CA",0.21418828209518684
+ucsd,2017,2012,"San Diego-Carlsbad, CA",0.21210275952283372
+ucsd,2017,2013,"San Diego-Carlsbad, CA",0.2110646586564549
+ucsd,2017,2014,"San Diego-Carlsbad, CA",0.20810957097395863
+ucsd,2017,2015,"San Diego-Carlsbad, CA",0.20509570586272616
+ucsd,2017,2016,"San Diego-Carlsbad, CA",0.20748191045255468
+ucsd,2017,2017,"San Diego-Carlsbad, CA",0.20469797679586746
+ucsd,2018,2012,all,0.22042100820524027
+ucsd,2018,2013,all,0.22016045408889726
+ucsd,2018,2014,all,0.21661475291401777
+ucsd,2018,2015,all,0.2182025281892831
+ucsd,2018,2016,all,0.2181156275485252
+ucsd,2018,2017,all,0.21180822342297945
+ucsd,2018,2018,all,0.2150763151308229
+ucsd,2018,2012,"San Diego-Carlsbad, CA",0.2091695426716626
+ucsd,2018,2013,"San Diego-Carlsbad, CA",0.20810493492826565
+ucsd,2018,2014,"San Diego-Carlsbad, CA",0.20461189576766511
+ucsd,2018,2015,"San Diego-Carlsbad, CA",0.20131844370189042
+ucsd,2018,2016,"San Diego-Carlsbad, CA",0.20362592464512677
+ucsd,2018,2017,"San Diego-Carlsbad, CA",0.20108219042359365
+ucsd,2018,2018,"San Diego-Carlsbad, CA",0.2030920958145542
+ucsd,2019,2013,all,0.14175486804394702
+ucsd,2019,2014,all,0.13947637191085152
+ucsd,2019,2015,all,0.14113361723706858
+ucsd,2019,2016,all,0.14064091859434577
+ucsd,2019,2017,all,0.13704999683409463
+ucsd,2019,2018,all,0.13904885714713616
+ucsd,2019,2019,all,0.2110184729567349
+ucsd,2019,2013,"San Diego-Carlsbad, CA",0.12612730660420934
+ucsd,2019,2014,"San Diego-Carlsbad, CA",0.12545262562714923
+ucsd,2019,2015,"San Diego-Carlsbad, CA",0.12370728120905194
+ucsd,2019,2016,"San Diego-Carlsbad, CA",0.1262248938036404
+ucsd,2019,2017,"San Diego-Carlsbad, CA",0.12438602301940792
+ucsd,2019,2018,"San Diego-Carlsbad, CA",0.12511926908423993
+ucsd,2019,2019,"San Diego-Carlsbad, CA",0.1837164107512156
+ucsd,2020,2014,all,0.8621767035284343
+ucsd,2020,2015,all,0.8620223963451387
+ucsd,2020,2016,all,0.8616156731726134
+ucsd,2020,2017,all,0.8820755942043548
+ucsd,2020,2018,all,0.8818177884121259
+ucsd,2020,2019,all,0.83974752244677
+ucsd,2020,2020,all,0.8446447729003059
+ucsd,2020,2014,"San Diego-Carlsbad, CA",0.8643645394237824
+ucsd,2020,2015,"San Diego-Carlsbad, CA",0.8688898915740004
+ucsd,2020,2016,"San Diego-Carlsbad, CA",0.871206444640495
+ucsd,2020,2017,"San Diego-Carlsbad, CA",0.8838635042232681
+ucsd,2020,2018,"San Diego-Carlsbad, CA",0.883029740265525
+ucsd,2020,2019,"San Diego-Carlsbad, CA",0.8468752625077358
+ucsd,2020,2020,"San Diego-Carlsbad, CA",0.8613890781781146
+ucsd,2021,2015,all,0.8899839163906932
+ucsd,2021,2016,all,0.8897204601221576
+ucsd,2021,2017,all,0.9110751086184525
+ucsd,2021,2018,all,0.9108583373756048
+ucsd,2021,2019,all,0.8683925340385181
+ucsd,2021,2020,all,0.8724802771245175
+ucsd,2021,2021,all,0.8639729695069418
+ucsd,2021,2015,"San Diego-Carlsbad, CA",0.8981044527786508
+ucsd,2021,2016,"San Diego-Carlsbad, CA",0.9006105189166118
+ucsd,2021,2017,"San Diego-Carlsbad, CA",0.9138864378592787
+ucsd,2021,2018,"San Diego-Carlsbad, CA",0.9129763065593668
+ucsd,2021,2019,"San Diego-Carlsbad, CA",0.8766216460485451
+ucsd,2021,2020,"San Diego-Carlsbad, CA",0.8904372421908154
+ucsd,2021,2021,"San Diego-Carlsbad, CA",0.8886737263422568
+ucsd,2022,2016,all,0.8827918353577261
+ucsd,2022,2017,all,0.9041766992712414
+ucsd,2022,2018,all,0.9039392205724429
+ucsd,2022,2019,all,0.8610898150003601
+ucsd,2022,2020,all,0.8654310773754808
+ucsd,2022,2021,all,0.8569426487080837
+ucsd,2022,2022,all,0.8541220125216147
+ucsd,2022,2016,"San Diego-Carlsbad, CA",0.8934685578485531
+ucsd,2022,2017,"San Diego-Carlsbad, CA",0.9067556207001757
+ucsd,2022,2018,"San Diego-Carlsbad, CA",0.9058548033552437
+ucsd,2022,2019,"San Diego-Carlsbad, CA",0.86911518798353
+ucsd,2022,2020,"San Diego-Carlsbad, CA",0.8832758654027414
+ucsd,2022,2021,"San Diego-Carlsbad, CA",0.8815844805175329
+ucsd,2022,2022,"San Diego-Carlsbad, CA",0.8787077348554433
+asu,2014,2008,all,0.9600354220374778
+asu,2014,2009,all,0.9121744789497064
+asu,2014,2010,all,0.9258492988492413
+asu,2014,2011,all,0.9188420867472711
+asu,2014,2012,all,0.9194346261873367
+asu,2014,2013,all,0.9166447259138119
+asu,2014,2014,all,0.919631504616014
+asu,2014,2008,"Winston-Salem, NC",0.8504341807263963
+asu,2014,2009,"Winston-Salem, NC",0.9068342465502224
+asu,2014,2010,"Winston-Salem, NC",0.99957604834089
+asu,2014,2011,"Winston-Salem, NC",0.9979467769481605
+asu,2014,2012,"Winston-Salem, NC",0.9920793416244724
+asu,2014,2013,"Winston-Salem, NC",0.9862341565512962
+asu,2014,2014,"Winston-Salem, NC",0.9913998552746924
+asu,2015,2009,all,0.8949289256328126
+asu,2015,2010,all,0.9293855037472243
+asu,2015,2011,all,0.9216036211563029
+asu,2015,2012,all,0.9224241926888379
+asu,2015,2013,all,0.9196357128378341
+asu,2015,2014,all,0.9229566977412955
+asu,2015,2015,all,0.9187886429141459
+asu,2015,2009,"Winston-Salem, NC",0.9168851444066455
+asu,2015,2010,"Winston-Salem, NC",0.9934483497191748
+asu,2015,2011,"Winston-Salem, NC",0.9876081267511603
+asu,2015,2012,"Winston-Salem, NC",0.9986467104820834
+asu,2015,2013,"Winston-Salem, NC",0.9956265030529772
+asu,2015,2014,"Winston-Salem, NC",0.9981488409381454
+asu,2015,2015,"Winston-Salem, NC",0.929366169495284
+asu,2016,2010,all,0.8930416734929312
+asu,2016,2011,all,0.8850289652874814
+asu,2016,2012,all,0.8854444042297969
+asu,2016,2013,all,0.882412065936882
+asu,2016,2014,all,0.8855466977125608
+asu,2016,2015,all,0.8805862005733768
+asu,2016,2016,all,0.8760874971075313
+asu,2016,2010,"Winston-Salem, NC",0.9574765661009692
+asu,2016,2011,"Winston-Salem, NC",0.972075263094874
+asu,2016,2012,"Winston-Salem, NC",0.9619923759222926
+asu,2016,2013,"Winston-Salem, NC",0.9555151007704232
+asu,2016,2014,"Winston-Salem, NC",0.9608523290298038
+asu,2016,2015,"Winston-Salem, NC",0.9674387993393481
+asu,2016,2016,"Winston-Salem, NC",0.9491647245704649
+asu,2017,2011,all,0.8957658675049045
+asu,2017,2012,all,0.8964201854135628
+asu,2017,2013,all,0.8932969018885493
+asu,2017,2014,all,0.8967259664000364
+asu,2017,2015,all,0.8917264343483757
+asu,2017,2016,all,0.8872071699445161
+asu,2017,2017,all,0.8687556186253955
+asu,2017,2011,"Winston-Salem, NC",0.9891090691748031
+asu,2017,2012,"Winston-Salem, NC",0.9778064830058001
+asu,2017,2013,"Winston-Salem, NC",0.9711481886017119
+asu,2017,2014,"Winston-Salem, NC",0.9772974871468987
+asu,2017,2015,"Winston-Salem, NC",0.9466296952015717
+asu,2017,2016,"Winston-Salem, NC",0.9343758606275825
+asu,2017,2017,"Winston-Salem, NC",0.9244380263610782
+asu,2018,2012,all,0.882679169217737
+asu,2018,2013,all,0.8793457751633775
+asu,2018,2014,all,0.8826273262140234
+asu,2018,2015,all,0.8773170263176937
+asu,2018,2016,all,0.8725057055417462
+asu,2018,2017,all,0.8528011881803479
+asu,2018,2018,all,0.8452441041463599
+asu,2018,2012,"Winston-Salem, NC",0.9645550106694168
+asu,2018,2013,"Winston-Salem, NC",0.9575457602970685
+asu,2018,2014,"Winston-Salem, NC",0.9634433427536447
+asu,2018,2015,"Winston-Salem, NC",0.9589737850530767
+asu,2018,2016,"Winston-Salem, NC",0.9464221077890094
+asu,2018,2017,"Winston-Salem, NC",0.9369312638101803
+asu,2018,2018,"Winston-Salem, NC",0.9649801235612794
+asu,2019,2013,all,0.8578057012243635
+asu,2019,2014,all,0.861031120735205
+asu,2019,2015,all,0.855132428934102
+asu,2019,2016,all,0.8498167398148155
+asu,2019,2017,all,0.8283357022996317
+asu,2019,2018,all,0.8203563542676665
+asu,2019,2019,all,0.8104418254380872
+asu,2019,2013,"Winston-Salem, NC",0.9365770592935179
+asu,2019,2014,"Winston-Salem, NC",0.9420380822642436
+asu,2019,2015,"Winston-Salem, NC",0.9784557818797531
+asu,2019,2016,"Winston-Salem, NC",0.9629038868805953
+asu,2019,2017,"Winston-Salem, NC",0.9566849184910065
+asu,2019,2018,"Winston-Salem, NC",0.9824281739927633
+asu,2019,2019,"Winston-Salem, NC",0.9765345448894751
+asu,2020,2014,all,0.8638751091130089
+asu,2020,2015,all,0.8580159574668809
+asu,2020,2016,all,0.8526604613204039
+asu,2020,2017,all,0.8299830308454477
+asu,2020,2018,all,0.8218777726704993
+asu,2020,2019,all,0.815002585525681
+asu,2020,2020,all,0.8295191154352878
+asu,2020,2014,"Winston-Salem, NC",0.9461047354667521
+asu,2020,2015,"Winston-Salem, NC",0.9750190083634127
+asu,2020,2016,"Winston-Salem, NC",0.9561288149094039
+asu,2020,2017,"Winston-Salem, NC",0.9533380060909085
+asu,2020,2018,"Winston-Salem, NC",0.9753857286745107
+asu,2020,2019,"Winston-Salem, NC",0.9731103059603702
+asu,2020,2020,"Winston-Salem, NC",0.9954879850865611
+asu,2021,2015,all,0.8820449154187793
+asu,2021,2016,all,0.8767909797368316
+asu,2021,2017,all,0.855777857491372
+asu,2021,2018,all,0.8477794427904171
+asu,2021,2019,all,0.8394619815569703
+asu,2021,2020,all,0.8538202987135554
+asu,2021,2021,all,0.8439059309039675
+asu,2021,2015,"Winston-Salem, NC",0.9392438475152981
+asu,2021,2016,"Winston-Salem, NC",0.9229842756377781
+asu,2021,2017,"Winston-Salem, NC",0.9150289242811676
+asu,2021,2018,"Winston-Salem, NC",0.9427357907298505
+asu,2021,2019,"Winston-Salem, NC",0.9346037281326158
+asu,2021,2020,"Winston-Salem, NC",0.9738877902113175
+asu,2021,2021,"Winston-Salem, NC",0.9755538140565759
+asu,2022,2016,all,0.8745034524141556
+asu,2022,2017,all,0.8541117191558604
+asu,2022,2018,all,0.8466439175387918
+asu,2022,2019,all,0.8414052620343742
+asu,2022,2020,all,0.8542593544244192
+asu,2022,2021,all,0.8453916614551054
+asu,2022,2022,all,0.8273279046230619
+asu,2022,2016,"Winston-Salem, NC",0.9406830268464434
+asu,2022,2017,"Winston-Salem, NC",0.9392191165385837
+asu,2022,2018,"Winston-Salem, NC",0.9586228883608501
+asu,2022,2019,"Winston-Salem, NC",0.9572930811970672
+asu,2022,2020,"Winston-Salem, NC",0.9863183874205185
+asu,2022,2021,"Winston-Salem, NC",0.9927838889837866
+asu,2022,2022,"Winston-Salem, NC",0.992187956355729
+colgate,2014,2008,all,0.39886013612993537
+colgate,2014,2009,all,0.4032883517010137
+colgate,2014,2010,all,0.4024902898112293
+colgate,2014,2011,all,0.40334235986979516
+colgate,2014,2012,all,0.4023157077412448
+colgate,2014,2013,all,0.4022546774680476
+colgate,2014,2014,all,0.3975141600141203
+colgate,2014,2008,"Utica-Rome, NY",0.3727837184280163
+colgate,2014,2009,"Utica-Rome, NY",0.3747121436949405
+colgate,2014,2010,"Utica-Rome, NY",0.3745407052347509
+colgate,2014,2011,"Utica-Rome, NY",0.3732997750957756
+colgate,2014,2012,"Utica-Rome, NY",0.37024222714340055
+colgate,2014,2013,"Utica-Rome, NY",0.3694076877361324
+colgate,2014,2014,"Utica-Rome, NY",0.3725737919684158
+colgate,2015,2009,all,0.4164272411671895
+colgate,2015,2010,all,0.4148825259620611
+colgate,2015,2011,all,0.41577908587332
+colgate,2015,2012,all,0.41484809632581116
+colgate,2015,2013,all,0.41478052329749004
+colgate,2015,2014,all,0.40995290388559835
+colgate,2015,2015,all,0.4138025052370505
+colgate,2015,2009,"Utica-Rome, NY",0.3861711773094332
+colgate,2015,2010,"Utica-Rome, NY",0.38523744348525985
+colgate,2015,2011,"Utica-Rome, NY",0.38382234179607017
+colgate,2015,2012,"Utica-Rome, NY",0.38049504415197294
+colgate,2015,2013,"Utica-Rome, NY",0.3798864374117243
+colgate,2015,2014,"Utica-Rome, NY",0.3833261213582876
+colgate,2015,2015,"Utica-Rome, NY",0.3910071962417316
+colgate,2016,2010,all,0.3814863793962027
+colgate,2016,2011,all,0.38205196037273886
+colgate,2016,2012,all,0.380962118661361
+colgate,2016,2013,all,0.38070535631613817
+colgate,2016,2014,all,0.3761462476126151
+colgate,2016,2015,all,0.3796386905995974
+colgate,2016,2016,all,0.38286090465738654
+colgate,2016,2010,"Utica-Rome, NY",0.35629344586537737
+colgate,2016,2011,"Utica-Rome, NY",0.35489879150905457
+colgate,2016,2012,"Utica-Rome, NY",0.3517990597416552
+colgate,2016,2013,"Utica-Rome, NY",0.350392811662713
+colgate,2016,2014,"Utica-Rome, NY",0.3533608133279384
+colgate,2016,2015,"Utica-Rome, NY",0.3605234911407917
+colgate,2016,2016,"Utica-Rome, NY",0.35936311238658075
+colgate,2017,2011,all,0.3517686021757251
+colgate,2017,2012,all,0.3504178856260242
+colgate,2017,2013,all,0.35014093640774313
+colgate,2017,2014,all,0.34520033146956663
+colgate,2017,2015,all,0.3486616507909805
+colgate,2017,2016,all,0.35182593180806393
+colgate,2017,2017,all,0.3451915916441109
+colgate,2017,2011,"Utica-Rome, NY",0.32385873707026236
+colgate,2017,2012,"Utica-Rome, NY",0.3208136759810074
+colgate,2017,2013,"Utica-Rome, NY",0.31844298299887697
+colgate,2017,2014,"Utica-Rome, NY",0.32099722803351594
+colgate,2017,2015,"Utica-Rome, NY",0.3281574888000459
+colgate,2017,2016,"Utica-Rome, NY",0.32728310900807445
+colgate,2017,2017,"Utica-Rome, NY",0.3199744376084809
+colgate,2018,2012,all,0.3564043873026465
+colgate,2018,2013,all,0.35606707594114784
+colgate,2018,2014,all,0.3511013452987368
+colgate,2018,2015,all,0.35467198106367714
+colgate,2018,2016,all,0.3579914861257176
+colgate,2018,2017,all,0.3511038542363471
+colgate,2018,2018,all,0.3513058431855609
+colgate,2018,2012,"Utica-Rome, NY",0.3265959489147337
+colgate,2018,2013,"Utica-Rome, NY",0.3242326023483904
+colgate,2018,2014,"Utica-Rome, NY",0.32706161021338576
+colgate,2018,2015,"Utica-Rome, NY",0.3345964316910804
+colgate,2018,2016,"Utica-Rome, NY",0.333562678121264
+colgate,2018,2017,"Utica-Rome, NY",0.32580461028272334
+colgate,2018,2018,"Utica-Rome, NY",0.3210777397798489
+colgate,2019,2013,all,0.32669291924393545
+colgate,2019,2014,all,0.3220682984734877
+colgate,2019,2015,all,0.3252080441061476
+colgate,2019,2016,all,0.328043625374029
+colgate,2019,2017,all,0.3220259222660259
+colgate,2019,2018,all,0.32227066363391177
+colgate,2019,2019,all,0.3262563683990728
+colgate,2019,2013,"Utica-Rome, NY",0.29820110107904
+colgate,2019,2014,"Utica-Rome, NY",0.30039691582596967
+colgate,2019,2015,"Utica-Rome, NY",0.307042015425256
+colgate,2019,2016,"Utica-Rome, NY",0.3063446525956016
+colgate,2019,2017,"Utica-Rome, NY",0.29924980954803904
+colgate,2019,2018,"Utica-Rome, NY",0.2955598609396364
+colgate,2019,2019,"Utica-Rome, NY",0.28990106523021864
+colgate,2020,2014,all,0.3160427919465097
+colgate,2020,2015,all,0.31933732013190896
+colgate,2020,2016,all,0.32217796343771077
+colgate,2020,2017,all,0.3158397177451579
+colgate,2020,2018,all,0.3161946702983578
+colgate,2020,2019,all,0.32031025338673963
+colgate,2020,2020,all,0.3262858690393101
+colgate,2020,2014,"Utica-Rome, NY",0.2961768580975231
+colgate,2020,2015,"Utica-Rome, NY",0.30327696090115813
+colgate,2020,2016,"Utica-Rome, NY",0.3023356100758518
+colgate,2020,2017,"Utica-Rome, NY",0.29455335164841234
+colgate,2020,2018,"Utica-Rome, NY",0.290714500319629
+colgate,2020,2019,"Utica-Rome, NY",0.28493393863265337
+colgate,2020,2020,"Utica-Rome, NY",0.3029358688952045
+colgate,2021,2015,all,0.35107923610540936
+colgate,2021,2016,all,0.35420862276687054
+colgate,2021,2017,all,0.34741547812960966
+colgate,2021,2018,all,0.34786834421039886
+colgate,2021,2019,all,0.3521891333376816
+colgate,2021,2020,all,0.3574806544583579
+colgate,2021,2021,all,0.35362956364724574
+colgate,2021,2015,"Utica-Rome, NY",0.3327854068944681
+colgate,2021,2016,"Utica-Rome, NY",0.33166151400387617
+colgate,2021,2017,"Utica-Rome, NY",0.32403938797379245
+colgate,2021,2018,"Utica-Rome, NY",0.3194286003758176
+colgate,2021,2019,"Utica-Rome, NY",0.31355401508743097
+colgate,2021,2020,"Utica-Rome, NY",0.3314725184069849
+colgate,2021,2021,"Utica-Rome, NY",0.321439040629086
+colgate,2022,2016,all,0.3348623675883587
+colgate,2022,2017,all,0.32877217149275834
+colgate,2022,2018,all,0.3291425102771101
+colgate,2022,2019,all,0.3330952367914487
+colgate,2022,2020,all,0.33846532156697956
+colgate,2022,2021,all,0.33504892715736606
+colgate,2022,2022,all,0.3359941677284835
+colgate,2022,2016,"Utica-Rome, NY",0.315165076097686
+colgate,2022,2017,"Utica-Rome, NY",0.30796989970739747
+colgate,2022,2018,"Utica-Rome, NY",0.30396841542901887
+colgate,2022,2019,"Utica-Rome, NY",0.2984579061887534
+colgate,2022,2020,"Utica-Rome, NY",0.31542827337363005
+colgate,2022,2021,"Utica-Rome, NY",0.3060462811222097
+colgate,2022,2022,"Utica-Rome, NY",0.31216073258433663
+dartmouth,2014,2008,all,0.2223310672766987
+dartmouth,2014,2009,all,0.22418864075133715
+dartmouth,2014,2010,all,0.29724930955893175
+dartmouth,2014,2011,all,0.30060831853821385
+dartmouth,2014,2012,all,0.30180773344482964
+dartmouth,2014,2013,all,0.30090157527835437
+dartmouth,2014,2014,all,0.2971946507207947
+dartmouth,2014,2008,West Central-Southwest New Hampshire nonmetropolitan area,0.19187472131469174
+dartmouth,2014,2009,West Central-Southwest New Hampshire nonmetropolitan area,0.19281228643664539
+dartmouth,2014,2010,West Central-Southwest New Hampshire nonmetropolitan area,0.2378167603329747
+dartmouth,2014,2011,West Central-Southwest New Hampshire nonmetropolitan area,0.23628858558439225
+dartmouth,2014,2012,West Central-Southwest New Hampshire nonmetropolitan area,0.2357494257538951
+dartmouth,2014,2013,West Central-Southwest New Hampshire nonmetropolitan area,0.23600324840963655
+dartmouth,2014,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.24262455891718956
+dartmouth,2015,2009,all,0.2709121265724167
+dartmouth,2015,2010,all,0.34203019923539846
+dartmouth,2015,2011,all,0.34532901342951655
+dartmouth,2015,2012,all,0.3467906790820093
+dartmouth,2015,2013,all,0.34603870303468104
+dartmouth,2015,2014,all,0.3429445020216609
+dartmouth,2015,2015,all,0.3436712313708785
+dartmouth,2015,2009,West Central-Southwest New Hampshire nonmetropolitan area,0.24010183757179637
+dartmouth,2015,2010,West Central-Southwest New Hampshire nonmetropolitan area,0.2842188748709611
+dartmouth,2015,2011,West Central-Southwest New Hampshire nonmetropolitan area,0.2839066274721656
+dartmouth,2015,2012,West Central-Southwest New Hampshire nonmetropolitan area,0.28304465362505815
+dartmouth,2015,2013,West Central-Southwest New Hampshire nonmetropolitan area,0.28336706824977465
+dartmouth,2015,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.2898532230056216
+dartmouth,2015,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.29017782502689504
+dartmouth,2016,2010,all,0.3003373332747094
+dartmouth,2016,2011,all,0.3034866830108081
+dartmouth,2016,2012,all,0.304684572809149
+dartmouth,2016,2013,all,0.30378682331143025
+dartmouth,2016,2014,all,0.30035602660978905
+dartmouth,2016,2015,all,0.30102698225327246
+dartmouth,2016,2016,all,0.304219714346466
+dartmouth,2016,2010,West Central-Southwest New Hampshire nonmetropolitan area,0.2435818305928349
+dartmouth,2016,2011,West Central-Southwest New Hampshire nonmetropolitan area,0.2422297418391066
+dartmouth,2016,2012,West Central-Southwest New Hampshire nonmetropolitan area,0.24162978271730684
+dartmouth,2016,2013,West Central-Southwest New Hampshire nonmetropolitan area,0.24199114143718528
+dartmouth,2016,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.2484684196679431
+dartmouth,2016,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.24902565452568676
+dartmouth,2016,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.25746851634123646
+dartmouth,2017,2011,all,0.25726442471127897
+dartmouth,2017,2012,all,0.25805189819570107
+dartmouth,2017,2013,all,0.2570203640202422
+dartmouth,2017,2014,all,0.25377360120994474
+dartmouth,2017,2015,all,0.2542572388778903
+dartmouth,2017,2016,all,0.2569647857830266
+dartmouth,2017,2017,all,0.253616255337573
+dartmouth,2017,2011,West Central-Southwest New Hampshire nonmetropolitan area,0.20332742435626086
+dartmouth,2017,2012,West Central-Southwest New Hampshire nonmetropolitan area,0.2028061213377501
+dartmouth,2017,2013,West Central-Southwest New Hampshire nonmetropolitan area,0.20267441437904962
+dartmouth,2017,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.20848087728798997
+dartmouth,2017,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.20942966234217814
+dartmouth,2017,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.21679189414756606
+dartmouth,2017,2017,West Central-Southwest New Hampshire nonmetropolitan area,0.2087481270478113
+dartmouth,2018,2012,all,0.2524501477678744
+dartmouth,2018,2013,all,0.2513196419914769
+dartmouth,2018,2014,all,0.2478515772073759
+dartmouth,2018,2015,all,0.24838389749821102
+dartmouth,2018,2016,all,0.25120108591605544
+dartmouth,2018,2017,all,0.24777597401457876
+dartmouth,2018,2018,all,0.24812488509967773
+dartmouth,2018,2012,West Central-Southwest New Hampshire nonmetropolitan area,0.19431698184530846
+dartmouth,2018,2013,West Central-Southwest New Hampshire nonmetropolitan area,0.19405840645286918
+dartmouth,2018,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.20008518551865379
+dartmouth,2018,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.20135066736925375
+dartmouth,2018,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.20866556974273484
+dartmouth,2018,2017,West Central-Southwest New Hampshire nonmetropolitan area,0.20034717779575323
+dartmouth,2018,2018,West Central-Southwest New Hampshire nonmetropolitan area,0.19730940423392948
+dartmouth,2019,2013,all,0.2648956016025292
+dartmouth,2019,2014,all,0.2614091819847825
+dartmouth,2019,2015,all,0.2619642706743513
+dartmouth,2019,2016,all,0.2648351072849811
+dartmouth,2019,2017,all,0.2611719802497281
+dartmouth,2019,2018,all,0.2616274001532543
+dartmouth,2019,2019,all,0.28120378333063234
+dartmouth,2019,2013,West Central-Southwest New Hampshire nonmetropolitan area,0.2087567708030134
+dartmouth,2019,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.21467912011486429
+dartmouth,2019,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.21511112066022467
+dartmouth,2019,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.22298442100269872
+dartmouth,2019,2017,West Central-Southwest New Hampshire nonmetropolitan area,0.21495055406797542
+dartmouth,2019,2018,West Central-Southwest New Hampshire nonmetropolitan area,0.21133300891780402
+dartmouth,2019,2019,West Central-Southwest New Hampshire nonmetropolitan area,0.22716393361905932
+dartmouth,2020,2014,all,0.23577414325177598
+dartmouth,2020,2015,all,0.23624812925643168
+dartmouth,2020,2016,all,0.2389390053466408
+dartmouth,2020,2017,all,0.23548746014609806
+dartmouth,2020,2018,all,0.23584819882770502
+dartmouth,2020,2019,all,0.25507482121919134
+dartmouth,2020,2020,all,0.26154102904785714
+dartmouth,2020,2014,West Central-Southwest New Hampshire nonmetropolitan area,0.19112270080907015
+dartmouth,2020,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.19200308123665322
+dartmouth,2020,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.19916952747631064
+dartmouth,2020,2017,West Central-Southwest New Hampshire nonmetropolitan area,0.19118735911225823
+dartmouth,2020,2018,West Central-Southwest New Hampshire nonmetropolitan area,0.18798673235254165
+dartmouth,2020,2019,West Central-Southwest New Hampshire nonmetropolitan area,0.20327984991217407
+dartmouth,2020,2020,West Central-Southwest New Hampshire nonmetropolitan area,0.21502198321836832
+dartmouth,2021,2015,all,0.2700333636447662
+dartmouth,2021,2016,all,0.27315016064150077
+dartmouth,2021,2017,all,0.26932837953357974
+dartmouth,2021,2018,all,0.26962903057987075
+dartmouth,2021,2019,all,0.2911708546979442
+dartmouth,2021,2020,all,0.29688562588331013
+dartmouth,2021,2021,all,0.29653315619280396
+dartmouth,2021,2015,West Central-Southwest New Hampshire nonmetropolitan area,0.22004515479390574
+dartmouth,2021,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.2284723633778354
+dartmouth,2021,2017,West Central-Southwest New Hampshire nonmetropolitan area,0.2195996287739507
+dartmouth,2021,2018,West Central-Southwest New Hampshire nonmetropolitan area,0.21580568690834306
+dartmouth,2021,2019,West Central-Southwest New Hampshire nonmetropolitan area,0.23319529486148316
+dartmouth,2021,2020,West Central-Southwest New Hampshire nonmetropolitan area,0.24514349425696225
+dartmouth,2021,2021,West Central-Southwest New Hampshire nonmetropolitan area,0.2470707284533317
+dartmouth,2022,2016,all,0.24479141122093173
+dartmouth,2022,2017,all,0.24131403197191084
+dartmouth,2022,2018,all,0.24165111381419077
+dartmouth,2022,2019,all,0.26041807695577
+dartmouth,2022,2020,all,0.26634915455286085
+dartmouth,2022,2021,all,0.26625388004994405
+dartmouth,2022,2022,all,0.2653039295550815
+dartmouth,2022,2016,West Central-Southwest New Hampshire nonmetropolitan area,0.20743956973823446
+dartmouth,2022,2017,West Central-Southwest New Hampshire nonmetropolitan area,0.19951855976501878
+dartmouth,2022,2018,West Central-Southwest New Hampshire nonmetropolitan area,0.19596698523804876
+dartmouth,2022,2019,West Central-Southwest New Hampshire nonmetropolitan area,0.21098558866772324
+dartmouth,2022,2020,West Central-Southwest New Hampshire nonmetropolitan area,0.22209375027923917
+dartmouth,2022,2021,West Central-Southwest New Hampshire nonmetropolitan area,0.22334898826788122
+dartmouth,2022,2022,West Central-Southwest New Hampshire nonmetropolitan area,0.2263936309973979
+caltech,2014,2008,all,0.654374239297622
+caltech,2014,2009,all,0.6713690319861845
+caltech,2014,2010,all,0.717044477168977
+caltech,2014,2011,all,0.719448397443079
+caltech,2014,2012,all,0.7146443845027701
+caltech,2014,2013,all,0.7142882326851387
+caltech,2014,2014,all,0.709338242172477
+caltech,2014,2008,"Los Angeles-Long Beach-Anaheim, CA",0.6618841204741641
+caltech,2014,2009,"Los Angeles-Long Beach-Anaheim, CA",0.6627413086877239
+caltech,2014,2010,"Los Angeles-Long Beach-Anaheim, CA",0.7107556972069473
+caltech,2014,2011,"Los Angeles-Long Beach-Anaheim, CA",0.7138434380760477
+caltech,2014,2012,"Los Angeles-Long Beach-Anaheim, CA",0.7094707779367984
+caltech,2014,2013,"Los Angeles-Long Beach-Anaheim, CA",0.7085806881173728
+caltech,2014,2014,"Los Angeles-Long Beach-Anaheim, CA",0.7073121820738424
+caltech,2015,2009,all,0.7481030146708179
+caltech,2015,2010,all,0.7715214230177704
+caltech,2015,2011,all,0.775714421511938
+caltech,2015,2012,all,0.7746043322019942
+caltech,2015,2013,all,0.7758744984422803
+caltech,2015,2014,all,0.7746993745321669
+caltech,2015,2015,all,0.7701079699067381
+caltech,2015,2009,"Los Angeles-Long Beach-Anaheim, CA",0.7374224618014011
+caltech,2015,2010,"Los Angeles-Long Beach-Anaheim, CA",0.7661539884436822
+caltech,2015,2011,"Los Angeles-Long Beach-Anaheim, CA",0.7711117294426034
+caltech,2015,2012,"Los Angeles-Long Beach-Anaheim, CA",0.7705737989967453
+caltech,2015,2013,"Los Angeles-Long Beach-Anaheim, CA",0.7724609169366874
+caltech,2015,2014,"Los Angeles-Long Beach-Anaheim, CA",0.7738338236226774
+caltech,2015,2015,"Los Angeles-Long Beach-Anaheim, CA",0.7704420907398111
+caltech,2016,2010,all,0.7878923653807682
+caltech,2016,2011,all,0.7920930640375214
+caltech,2016,2012,all,0.7910207005967032
+caltech,2016,2013,all,0.7923269568767901
+caltech,2016,2014,all,0.7911507141435645
+caltech,2016,2015,all,0.7866656673651167
+caltech,2016,2016,all,0.7858075533774694
+caltech,2016,2010,"Los Angeles-Long Beach-Anaheim, CA",0.7823629134743669
+caltech,2016,2011,"Los Angeles-Long Beach-Anaheim, CA",0.7872962338804342
+caltech,2016,2012,"Los Angeles-Long Beach-Anaheim, CA",0.7868307562047416
+caltech,2016,2013,"Los Angeles-Long Beach-Anaheim, CA",0.7887249613739136
+caltech,2016,2014,"Los Angeles-Long Beach-Anaheim, CA",0.7900704112029384
+caltech,2016,2015,"Los Angeles-Long Beach-Anaheim, CA",0.7867380390104537
+caltech,2016,2016,"Los Angeles-Long Beach-Anaheim, CA",0.7834673698054597
+caltech,2017,2011,all,0.647393954936287
+caltech,2017,2012,all,0.6424909304655716
+caltech,2017,2013,all,0.6421214752456057
+caltech,2017,2014,all,0.6374910010961372
+caltech,2017,2015,all,0.6320015670773993
+caltech,2017,2016,all,0.6293718851496587
+caltech,2017,2017,all,0.6106109380247426
+caltech,2017,2011,"Los Angeles-Long Beach-Anaheim, CA",0.6436199112320193
+caltech,2017,2012,"Los Angeles-Long Beach-Anaheim, CA",0.6391197713213116
+caltech,2017,2013,"Los Angeles-Long Beach-Anaheim, CA",0.6382901008758819
+caltech,2017,2014,"Los Angeles-Long Beach-Anaheim, CA",0.6372325057785987
+caltech,2017,2015,"Los Angeles-Long Beach-Anaheim, CA",0.6318270255940419
+caltech,2017,2016,"Los Angeles-Long Beach-Anaheim, CA",0.6271679058287707
+caltech,2017,2017,"Los Angeles-Long Beach-Anaheim, CA",0.602605962699579
+caltech,2018,2012,all,0.6779001668071688
+caltech,2018,2013,all,0.6790378611616359
+caltech,2018,2014,all,0.678041842532431
+caltech,2018,2015,all,0.6734251972610146
+caltech,2018,2016,all,0.6722767526056228
+caltech,2018,2017,all,0.6552531835563429
+caltech,2018,2018,all,0.6536713697459022
+caltech,2018,2012,"Los Angeles-Long Beach-Anaheim, CA",0.6753547935887609
+caltech,2018,2013,"Los Angeles-Long Beach-Anaheim, CA",0.6770994304417592
+caltech,2018,2014,"Los Angeles-Long Beach-Anaheim, CA",0.6785364515363275
+caltech,2018,2015,"Los Angeles-Long Beach-Anaheim, CA",0.6750909669692942
+caltech,2018,2016,"Los Angeles-Long Beach-Anaheim, CA",0.6716016867190994
+caltech,2018,2017,"Los Angeles-Long Beach-Anaheim, CA",0.6476951980609079
+caltech,2018,2018,"Los Angeles-Long Beach-Anaheim, CA",0.6460618190778087
+caltech,2019,2013,all,0.639241075506446
+caltech,2019,2014,all,0.6347569794511045
+caltech,2019,2015,all,0.6293687907988683
+caltech,2019,2016,all,0.6267820178461121
+caltech,2019,2017,all,0.6084960888740683
+caltech,2019,2018,all,0.6072031826740985
+caltech,2019,2019,all,0.5912617850174919
+caltech,2019,2013,"Los Angeles-Long Beach-Anaheim, CA",0.6358414495160757
+caltech,2019,2014,"Los Angeles-Long Beach-Anaheim, CA",0.6348064157215109
+caltech,2019,2015,"Los Angeles-Long Beach-Anaheim, CA",0.6295420031084211
+caltech,2019,2016,"Los Angeles-Long Beach-Anaheim, CA",0.624974667605624
+caltech,2019,2017,"Los Angeles-Long Beach-Anaheim, CA",0.6009739117687986
+caltech,2019,2018,"Los Angeles-Long Beach-Anaheim, CA",0.5977270446661029
+caltech,2019,2019,"Los Angeles-Long Beach-Anaheim, CA",0.5772859717054977
+caltech,2020,2014,all,0.1638375772160772
+caltech,2020,2015,all,0.16419375086443705
+caltech,2020,2016,all,0.1656347891822546
+caltech,2020,2017,all,0.1661093609558925
+caltech,2020,2018,all,0.16559607751470648
+caltech,2020,2019,all,0.1707824573976485
+caltech,2020,2020,all,0.15334197282660433
+caltech,2020,2014,"Los Angeles-Long Beach-Anaheim, CA",0.16841675859979088
+caltech,2020,2015,"Los Angeles-Long Beach-Anaheim, CA",0.17027520489327497
+caltech,2020,2016,"Los Angeles-Long Beach-Anaheim, CA",0.1708461493190692
+caltech,2020,2017,"Los Angeles-Long Beach-Anaheim, CA",0.16956764978248168
+caltech,2020,2018,"Los Angeles-Long Beach-Anaheim, CA",0.1714767716538662
+caltech,2020,2019,"Los Angeles-Long Beach-Anaheim, CA",0.1791660202932652
+caltech,2020,2020,"Los Angeles-Long Beach-Anaheim, CA",0.16277745275497058
+caltech,2021,2015,all,0.1810805551704604
+caltech,2021,2016,all,0.18251757877687208
+caltech,2021,2017,all,0.18244052295575944
+caltech,2021,2018,all,0.18216783712213566
+caltech,2021,2019,all,0.18645357361014442
+caltech,2021,2020,all,0.16922041706224406
+caltech,2021,2021,all,0.1662150587773441
+caltech,2021,2015,"Los Angeles-Long Beach-Anaheim, CA",0.18640323055559746
+caltech,2021,2016,"Los Angeles-Long Beach-Anaheim, CA",0.18679895324551293
+caltech,2021,2017,"Los Angeles-Long Beach-Anaheim, CA",0.18543268636360263
+caltech,2021,2018,"Los Angeles-Long Beach-Anaheim, CA",0.18719519459776954
+caltech,2021,2019,"Los Angeles-Long Beach-Anaheim, CA",0.1938363782593035
+caltech,2021,2020,"Los Angeles-Long Beach-Anaheim, CA",0.17776861250865436
+caltech,2021,2021,"Los Angeles-Long Beach-Anaheim, CA",0.17235465556438564
+caltech,2022,2016,all,0.606302218000258
+caltech,2022,2017,all,0.5890452494740401
+caltech,2022,2018,all,0.5876456167095163
+caltech,2022,2019,all,0.573341887160264
+caltech,2022,2020,all,0.5832976594051952
+caltech,2022,2021,all,0.5865753560448563
+caltech,2022,2022,all,0.5706975978538682
+caltech,2022,2016,"Los Angeles-Long Beach-Anaheim, CA",0.6065301464970979
+caltech,2022,2017,"Los Angeles-Long Beach-Anaheim, CA",0.5838681264631338
+caltech,2022,2018,"Los Angeles-Long Beach-Anaheim, CA",0.5808058825025673
+caltech,2022,2019,"Los Angeles-Long Beach-Anaheim, CA",0.5628103951612754
+caltech,2022,2020,"Los Angeles-Long Beach-Anaheim, CA",0.5688581984818533
+caltech,2022,2021,"Los Angeles-Long Beach-Anaheim, CA",0.5691256086685146
+caltech,2022,2022,"Los Angeles-Long Beach-Anaheim, CA",0.5488235746599911
+george,2014,2008,all,0.7204592992173483
+george,2014,2009,all,0.7486634239242358
+george,2014,2010,all,0.7337555482332886
+george,2014,2011,all,0.7412265920848378
+george,2014,2012,all,0.7363158107889918
+george,2014,2013,all,0.7389092293362649
+george,2014,2014,all,0.7314739942603891
+george,2014,2008,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7350106672487124
+george,2014,2009,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.8086127861925925
+george,2014,2010,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7958610752342934
+george,2014,2011,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7994325221292896
+george,2014,2012,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7895631455171914
+george,2014,2013,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7904596888057278
+george,2014,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7823297352436941
+george,2015,2009,all,0.7157208680125844
+george,2015,2010,all,0.704039528380249
+george,2015,2011,all,0.7109034023969771
+george,2015,2012,all,0.7061361628658999
+george,2015,2013,all,0.7084412250337738
+george,2015,2014,all,0.7012814707575821
+george,2015,2015,all,0.6972040683965617
+george,2015,2009,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7724117817589619
+george,2015,2010,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7625467616328055
+george,2015,2011,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7658209506101914
+george,2015,2012,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7563230839076898
+george,2015,2013,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7571474238636914
+george,2015,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7492520310182562
+george,2015,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.751327855476965
+george,2016,2010,all,0.7550718728916626
+george,2016,2011,all,0.7612956808363769
+george,2016,2012,all,0.7573623128936768
+george,2016,2013,all,0.7595541978711045
+george,2016,2014,all,0.7535912716275146
+george,2016,2015,all,0.7499140782246793
+george,2016,2016,all,0.7484584025820152
+george,2016,2010,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.8056852058294149
+george,2016,2011,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.8086530665809577
+george,2016,2012,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.8002882966202679
+george,2016,2013,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.8012118919686815
+george,2016,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7944302769585097
+george,2016,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7963315529174911
+george,2016,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7974655909236503
+george,2017,2011,all,0.7180673040043719
+george,2017,2012,all,0.7131434785039665
+george,2017,2013,all,0.7155671148662396
+george,2017,2014,all,0.7081443337342654
+george,2017,2015,all,0.7039807046436086
+george,2017,2016,all,0.7021635214046889
+george,2017,2017,all,0.673179876471611
+george,2017,2011,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7744815638030719
+george,2017,2012,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7643907559699616
+george,2017,2013,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7655412567118278
+george,2017,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7571660320981765
+george,2017,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7596905788472883
+george,2017,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7609213765255609
+george,2017,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7558838596954361
+george,2018,2012,all,0.7153332796336307
+george,2018,2013,all,0.7176626695839285
+george,2018,2014,all,0.7105645056129216
+george,2018,2015,all,0.706577648723578
+george,2018,2016,all,0.7048383042532183
+george,2018,2017,all,0.6770541588067358
+george,2018,2018,all,0.678015614657689
+george,2018,2012,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7642988031633616
+george,2018,2013,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7654474603994075
+george,2018,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7573735321026498
+george,2018,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7598428276204887
+george,2018,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7610285991395043
+george,2018,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7561598526303261
+george,2018,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7593511470107632
+george,2019,2013,all,0.6992382584965151
+george,2019,2014,all,0.6918212136899278
+george,2019,2015,all,0.6876609220396778
+george,2019,2016,all,0.6858077056873723
+george,2019,2017,all,0.6572151178181258
+george,2019,2018,all,0.6581630802012635
+george,2019,2019,all,0.6761676591548355
+george,2019,2013,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7486783741550205
+george,2019,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7402876778674692
+george,2019,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7427280442837667
+george,2019,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7438773981566763
+george,2019,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7388521508526823
+george,2019,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7421249143105908
+george,2019,2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.734838290789473
+george,2020,2014,all,0.6997530638400481
+george,2020,2015,all,0.6956852788915342
+george,2020,2016,all,0.6938992233480844
+george,2020,2017,all,0.665977580578941
+george,2020,2018,all,0.6668704671493662
+george,2020,2019,all,0.6841744805364782
+george,2020,2020,all,0.6938187514605827
+george,2020,2014,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7467062291465989
+george,2020,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.749094378603838
+george,2020,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7502457142194762
+george,2020,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7453289519068425
+george,2020,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7485112083907877
+george,2020,2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7413002757082796
+george,2020,2020,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7537706351946973
+george,2021,2015,all,0.7227555110476306
+george,2021,2016,all,0.7212798082055051
+george,2021,2017,all,0.6973375553434336
+george,2021,2018,all,0.6979471716890566
+george,2021,2019,all,0.7114318680056029
+george,2021,2020,all,0.7188906505541532
+george,2021,2021,all,0.7313950585942127
+george,2021,2015,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7677305272949037
+george,2021,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7687410593685745
+george,2021,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7645908628334392
+george,2021,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7671884979106328
+george,2021,2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7605874760253086
+george,2021,2020,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7707678614622651
+george,2021,2021,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7815215607536463
+george,2022,2016,all,0.7382248166737808
+george,2022,2017,all,0.7143503028072264
+george,2022,2018,all,0.7149785839826983
+george,2022,2019,all,0.7287529034878477
+george,2022,2020,all,0.735726936933943
+george,2022,2021,all,0.7481327410560872
+george,2022,2022,all,0.7451233961613721
+george,2022,2016,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7854500940530875
+george,2022,2017,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7813448030499607
+george,2022,2018,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7839311836879739
+george,2022,2019,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7773999333635113
+george,2022,2020,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7870437243185826
+george,2022,2021,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7977544025005641
+george,2022,2022,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",0.7991113158130292
+umich,2014,2008,all,0.9237114016204763
+umich,2014,2009,all,0.897980489101368
+umich,2014,2010,all,0.8367505009857965
+umich,2014,2011,all,0.8320958445813715
+umich,2014,2012,all,0.8310410222863327
+umich,2014,2013,all,0.8283579611783178
+umich,2014,2014,all,0.8292965367100428
+umich,2014,2008,"Ann Arbor, MI",0.820197066736562
+umich,2014,2009,"Ann Arbor, MI",0.7956807750145491
+umich,2014,2010,"Ann Arbor, MI",0.7573958873599195
+umich,2014,2011,"Ann Arbor, MI",0.7706757750819391
+umich,2014,2012,"Ann Arbor, MI",0.7579509234343647
+umich,2014,2013,"Ann Arbor, MI",0.7631448171077961
+umich,2014,2014,"Ann Arbor, MI",0.7467843743565716
+umich,2015,2009,all,0.8902501262199818
+umich,2015,2010,all,0.8297517538909692
+umich,2015,2011,all,0.8249631590160145
+umich,2015,2012,all,0.8237974678891179
+umich,2015,2013,all,0.8210172907512858
+umich,2015,2014,all,0.821943869128365
+umich,2015,2015,all,0.8194070471620236
+umich,2015,2009,"Ann Arbor, MI",0.7828755654389634
+umich,2015,2010,"Ann Arbor, MI",0.7461826695626613
+umich,2015,2011,"Ann Arbor, MI",0.7629395261679485
+umich,2015,2012,"Ann Arbor, MI",0.7500561378191041
+umich,2015,2013,"Ann Arbor, MI",0.7554303045066862
+umich,2015,2014,"Ann Arbor, MI",0.7387395794490716
+umich,2015,2015,"Ann Arbor, MI",0.7350669636553113
+umich,2016,2010,all,0.8712884296123029
+umich,2016,2011,all,0.8664589531137173
+umich,2016,2012,all,0.8657604137268402
+umich,2016,2013,all,0.8630104878090518
+umich,2016,2014,all,0.8643628195644653
+umich,2016,2015,all,0.8620654988295584
+umich,2016,2016,all,0.8579526530036382
+umich,2016,2010,"Ann Arbor, MI",0.7792492993082842
+umich,2016,2011,"Ann Arbor, MI",0.8046909235722052
+umich,2016,2012,"Ann Arbor, MI",0.7911219910581458
+umich,2016,2013,"Ann Arbor, MI",0.7969892631504617
+umich,2016,2014,"Ann Arbor, MI",0.7797227888401665
+umich,2016,2015,"Ann Arbor, MI",0.7761878924916857
+umich,2016,2016,"Ann Arbor, MI",0.7975435364819697
+umich,2017,2011,all,0.8894083227550648
+umich,2017,2012,all,0.8889673564720537
+umich,2017,2013,all,0.8861697727323341
+umich,2017,2014,all,0.8877972987092833
+umich,2017,2015,all,0.8855726511966706
+umich,2017,2016,all,0.8814538453415856
+umich,2017,2017,all,0.8706289127299396
+umich,2017,2011,"Ann Arbor, MI",0.8265940652681095
+umich,2017,2012,"Ann Arbor, MI",0.8122793980270551
+umich,2017,2013,"Ann Arbor, MI",0.8186118054244915
+umich,2017,2014,"Ann Arbor, MI",0.8006377562363799
+umich,2017,2015,"Ann Arbor, MI",0.7970133090336817
+umich,2017,2016,"Ann Arbor, MI",0.8192442191408326
+umich,2017,2017,"Ann Arbor, MI",0.8209560587234243
+umich,2018,2012,all,0.9169115639261517
+umich,2018,2013,all,0.9141270131337018
+umich,2018,2014,all,0.9160110406228615
+umich,2018,2015,all,0.9139997825754389
+umich,2018,2016,all,0.9100596510896534
+umich,2018,2017,all,0.8998740069129676
+umich,2018,2018,all,0.8954240475374792
+umich,2018,2012,"Ann Arbor, MI",0.8405564583768632
+umich,2018,2013,"Ann Arbor, MI",0.8472740654304509
+umich,2018,2014,"Ann Arbor, MI",0.8288833593881135
+umich,2018,2015,"Ann Arbor, MI",0.8254597499266254
+umich,2018,2016,"Ann Arbor, MI",0.8476443383289453
+umich,2018,2017,"Ann Arbor, MI",0.8472486391939279
+umich,2018,2018,"Ann Arbor, MI",0.8355845498163538
+umich,2019,2013,all,0.9276251292635431
+umich,2019,2014,all,0.9297622675908188
+umich,2019,2015,all,0.9277550935825414
+umich,2019,2016,all,0.923711631234287
+umich,2019,2017,all,0.9133269919820908
+umich,2019,2018,all,0.9086334152106673
+umich,2019,2019,all,0.90475535735665
+umich,2019,2013,"Ann Arbor, MI",0.8573893722013717
+umich,2019,2014,"Ann Arbor, MI",0.8378715630787055
+umich,2019,2015,"Ann Arbor, MI",0.8343414142537402
+umich,2019,2016,"Ann Arbor, MI",0.8586956333107106
+umich,2019,2017,"Ann Arbor, MI",0.8603146350452341
+umich,2019,2018,"Ann Arbor, MI",0.8457115364926486
+umich,2019,2019,"Ann Arbor, MI",0.8553046301237167
+umich,2020,2014,all,0.9486422055122326
+umich,2020,2015,all,0.9468975932534667
+umich,2020,2016,all,0.9431974071639591
+umich,2020,2017,all,0.9338073743189397
+umich,2020,2018,all,0.9294133983158313
+umich,2020,2019,all,0.9267286249945393
+umich,2020,2020,all,0.9338815988191931
+umich,2020,2014,"Ann Arbor, MI",0.8620808911763543
+umich,2020,2015,"Ann Arbor, MI",0.858887368802018
+umich,2020,2016,"Ann Arbor, MI",0.880858689809835
+umich,2020,2017,"Ann Arbor, MI",0.8860272370957346
+umich,2020,2018,"Ann Arbor, MI",0.8706656605906924
+umich,2020,2019,"Ann Arbor, MI",0.8806886453673695
+umich,2020,2020,"Ann Arbor, MI",0.854612608028933
+umich,2021,2015,all,0.9249078341822953
+umich,2021,2016,all,0.9210138892118664
+umich,2021,2017,all,0.9110352459126978
+umich,2021,2018,all,0.9065242202475732
+umich,2021,2019,all,0.902801746559087
+umich,2021,2020,all,0.9106568304869933
+umich,2021,2021,all,0.9036966000440487
+umich,2021,2015,"Ann Arbor, MI",0.8351404650842581
+umich,2021,2016,"Ann Arbor, MI",0.8582935114819885
+umich,2021,2017,"Ann Arbor, MI",0.8637553005663976
+umich,2021,2018,"Ann Arbor, MI",0.8459795053312222
+umich,2021,2019,"Ann Arbor, MI",0.8550858222234654
+umich,2021,2020,"Ann Arbor, MI",0.8299044870333699
+umich,2021,2021,"Ann Arbor, MI",0.8273043544023311
+umich,2022,2016,all,0.9667731261135026
+umich,2022,2017,all,0.9579602848173615
+umich,2022,2018,all,0.9536480525300342
+umich,2022,2019,all,0.9516303379189344
+umich,2022,2020,all,0.9580635043834538
+umich,2022,2021,all,0.9504951602128626
+umich,2022,2022,all,0.9441096429870917
+umich,2022,2016,"Ann Arbor, MI",0.9047477902053292
+umich,2022,2017,"Ann Arbor, MI",0.9000939887640897
+umich,2022,2018,"Ann Arbor, MI",0.8952340381997987
+umich,2022,2019,"Ann Arbor, MI",0.9057507698666181
+umich,2022,2020,"Ann Arbor, MI",0.8781711987173079
+umich,2022,2021,"Ann Arbor, MI",0.8742601264755697
+umich,2022,2022,"Ann Arbor, MI",0.8661853655230035
+wsu,2014,2008,all,0.9829227903221265
+wsu,2014,2009,all,0.9428350910130392
+wsu,2014,2010,all,0.856625796546516
+wsu,2014,2011,all,0.849165626562256
+wsu,2014,2012,all,0.8500099158723741
+wsu,2014,2013,all,0.8481711092622005
+wsu,2014,2014,all,0.8496503745566983
+wsu,2014,2008,"Spokane-Spokane Valley, WA",0.9285391355115391
+wsu,2014,2009,"Spokane-Spokane Valley, WA",0.9743151115490511
+wsu,2014,2010,"Spokane-Spokane Valley, WA",0.8186719217726721
+wsu,2014,2011,"Spokane-Spokane Valley, WA",0.8953305806253936
+wsu,2014,2012,"Spokane-Spokane Valley, WA",0.9205923608514224
+wsu,2014,2013,"Spokane-Spokane Valley, WA",0.9096240094256778
+wsu,2014,2014,"Spokane-Spokane Valley, WA",0.8922834985924412
+wsu,2015,2009,all,0.9776210356459506
+wsu,2015,2010,all,0.9560189159866603
+wsu,2015,2011,all,0.9482305744255056
+wsu,2015,2012,all,0.9508009288861452
+wsu,2015,2013,all,0.9492049484837501
+wsu,2015,2014,all,0.9521699571319335
+wsu,2015,2015,all,0.9472468221492203
+wsu,2015,2009,"Spokane-Spokane Valley, WA",0.8766336699919777
+wsu,2015,2010,"Spokane-Spokane Valley, WA",0.9267575882630394
+wsu,2015,2011,"Spokane-Spokane Valley, WA",0.9876459500141496
+wsu,2015,2012,"Spokane-Spokane Valley, WA",0.9614707686747126
+wsu,2015,2013,"Spokane-Spokane Valley, WA",0.975193455793379
+wsu,2015,2014,"Spokane-Spokane Valley, WA",0.9950678345362478
+wsu,2015,2015,"Spokane-Spokane Valley, WA",0.9825907510028027
+wsu,2016,2010,all,0.9842360534726595
+wsu,2016,2011,all,0.976725098678654
+wsu,2016,2012,all,0.9797291223894005
+wsu,2016,2013,all,0.9782870753531638
+wsu,2016,2014,all,0.9815772943827157
+wsu,2016,2015,all,0.9771221448182354
+wsu,2016,2016,all,0.9748693973789817
+wsu,2016,2010,"Spokane-Spokane Valley, WA",0.9584830159367921
+wsu,2016,2011,"Spokane-Spokane Valley, WA",0.9573441695372082
+wsu,2016,2012,"Spokane-Spokane Valley, WA",0.9321470124832856
+wsu,2016,2013,"Spokane-Spokane Valley, WA",0.9459635504809425
+wsu,2016,2014,"Spokane-Spokane Valley, WA",0.9655964361923156
+wsu,2016,2015,"Spokane-Spokane Valley, WA",0.9535431177097013
+wsu,2016,2016,"Spokane-Spokane Valley, WA",0.9479044627679961
+wsu,2017,2011,all,0.9467558771021771
+wsu,2017,2012,all,0.9493909816176082
+wsu,2017,2013,all,0.9477398561838307
+wsu,2017,2014,all,0.9507803085564374
+wsu,2017,2015,all,0.9457241628918376
+wsu,2017,2016,all,0.9430446312817609
+wsu,2017,2017,all,0.9334888002928268
+wsu,2017,2011,"Spokane-Spokane Valley, WA",0.9873060276738623
+wsu,2017,2012,"Spokane-Spokane Valley, WA",0.9604264235536863
+wsu,2017,2013,"Spokane-Spokane Valley, WA",0.974511120397652
+wsu,2017,2014,"Spokane-Spokane Valley, WA",0.99493479843226
+wsu,2017,2015,"Spokane-Spokane Valley, WA",0.982109235173954
+wsu,2017,2016,"Spokane-Spokane Valley, WA",0.9770407046731381
+wsu,2017,2017,"Spokane-Spokane Valley, WA",0.9758773930980671
+wsu,2018,2012,all,0.9780295882529497
+wsu,2018,2013,all,0.9764590965435931
+wsu,2018,2014,all,0.9800143864019635
+wsu,2018,2015,all,0.9751472264751844
+wsu,2018,2016,all,0.9726739142270484
+wsu,2018,2017,all,0.9637436881929162
+wsu,2018,2018,all,0.9593805166438942
+wsu,2018,2012,"Spokane-Spokane Valley, WA",0.9260582342595292
+wsu,2018,2013,"Spokane-Spokane Valley, WA",0.9411953698817496
+wsu,2018,2014,"Spokane-Spokane Valley, WA",0.9626246986871916
+wsu,2018,2015,"Spokane-Spokane Valley, WA",0.9495225467650628
+wsu,2018,2016,"Spokane-Spokane Valley, WA",0.9432480330398479
+wsu,2018,2017,"Spokane-Spokane Valley, WA",0.9414883588637482
+wsu,2018,2018,"Spokane-Spokane Valley, WA",0.9111969639475574
+wsu,2019,2013,all,0.9777407317941773
+wsu,2019,2014,all,0.9811152113332864
+wsu,2019,2015,all,0.9765362569649068
+wsu,2019,2016,all,0.9742079431314221
+wsu,2019,2017,all,0.9658428135327826
+wsu,2019,2018,all,0.9617528748641596
+wsu,2019,2019,all,0.9603724477670889
+wsu,2019,2013,"Spokane-Spokane Valley, WA",0.9449432851531449
+wsu,2019,2014,"Spokane-Spokane Valley, WA",0.9649750811697089
+wsu,2019,2015,"Spokane-Spokane Valley, WA",0.9526895166095226
+wsu,2019,2016,"Spokane-Spokane Valley, WA",0.9469137967232576
+wsu,2019,2017,"Spokane-Spokane Valley, WA",0.9452933779680781
+wsu,2019,2018,"Spokane-Spokane Valley, WA",0.9170966969050779
+wsu,2019,2019,"Spokane-Spokane Valley, WA",0.8985664277196003
+wsu,2020,2014,all,0.8962911694278562
+wsu,2020,2015,all,0.8908141342276312
+wsu,2020,2016,all,0.8876994926901487
+wsu,2020,2017,all,0.8767337082285613
+wsu,2020,2018,all,0.8723633565339318
+wsu,2020,2019,all,0.8666708338368034
+wsu,2020,2020,all,0.8840318847716189
+wsu,2020,2014,"Spokane-Spokane Valley, WA",0.9456348240390207
+wsu,2020,2015,"Spokane-Spokane Valley, WA",0.9580385765568609
+wsu,2020,2016,"Spokane-Spokane Valley, WA",0.9610900656914704
+wsu,2020,2017,"Spokane-Spokane Valley, WA",0.9612750031276502
+wsu,2020,2018,"Spokane-Spokane Valley, WA",0.9861250044905276
+wsu,2020,2019,"Spokane-Spokane Valley, WA",0.999021899135556
+wsu,2020,2020,"Spokane-Spokane Valley, WA",0.9983442702163012
+wsu,2021,2015,all,0.9418811982280035
+wsu,2021,2016,all,0.9377189240792622
+wsu,2021,2017,all,0.9286715349901081
+wsu,2021,2018,all,0.9240780454585471
+wsu,2021,2019,all,0.9225460107396233
+wsu,2021,2020,all,0.9380003910437856
+wsu,2021,2021,all,0.9269523957035922
+wsu,2021,2015,"Spokane-Spokane Valley, WA",0.9930696090244953
+wsu,2021,2016,"Spokane-Spokane Valley, WA",0.9962596427547319
+wsu,2021,2017,"Spokane-Spokane Valley, WA",0.9991192783657535
+wsu,2021,2018,"Spokane-Spokane Valley, WA",0.9728910585789006
+wsu,2021,2019,"Spokane-Spokane Valley, WA",0.9587604601527797
+wsu,2021,2020,"Spokane-Spokane Valley, WA",0.9604374277432086
+wsu,2021,2021,"Spokane-Spokane Valley, WA",0.9795088092266931
+wsu,2022,2016,all,0.8952610779957361
+wsu,2022,2017,all,0.8833701126503544
+wsu,2022,2018,all,0.8776964270095816
+wsu,2022,2019,all,0.872898486743629
+wsu,2022,2020,all,0.8941601503056316
+wsu,2022,2021,all,0.8819017287259359
+wsu,2022,2022,all,0.8698741237422043
+wsu,2022,2016,"Spokane-Spokane Valley, WA",0.962964444903325
+wsu,2022,2017,"Spokane-Spokane Valley, WA",0.9659356006821266
+wsu,2022,2018,"Spokane-Spokane Valley, WA",0.998609456336717
+wsu,2022,2019,"Spokane-Spokane Valley, WA",0.9854085195545963
+wsu,2022,2020,"Spokane-Spokane Valley, WA",0.986463751259935
+wsu,2022,2021,"Spokane-Spokane Valley, WA",0.9903452151271049
+wsu,2022,2022,"Spokane-Spokane Valley, WA",0.9788410527458462
